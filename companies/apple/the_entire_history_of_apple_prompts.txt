@@ -1,0 +1,966 @@
+================================================================================
+THE ENTIRE HISTORY OF APPLE IN 20 MINUTES — MASTER PROMPT MANIFEST
+Visual Style: Style 4 (Ink Vignette / 2D Storybook Cartoon)
+Aspect Ratio: 16:9 Widescreen (1920x1080 / 854x480)
+Total Visual Scenes: 120 Scenes
+================================================================================
+
+================================================================================
+SCENE 001 / 120 | DOWNLOAD / SAVE AS: scene_001.png
+SCENE LABEL: THE TITANIUM MONOLITH
+VOICEOVER: "Pick up an iPhone tonight, and you are holding the single most profitable consumer object ever conceived in the history of human civilization."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 01 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration on off-white background with a soft, hand-drawn watercolor and charcoal brush vignette border around the edges. A tiny minimalist 2D stickman in pajamas lying on a modern bedroom couch at night, holding up a glowing sleek smartphone that illuminates his face. Floating above is a giant glowing technical blueprint of an iPhone. Soft amber ambient lighting, cinematic perspective. Handwritten comic label at bottom: "THE TITANIUM MONOLITH".
+
+================================================================================
+SCENE 002 / 120 | DOWNLOAD / SAVE AS: scene_002.png
+SCENE LABEL: THE EMPIRE SCALE
+VOICEOVER: "A pocket-sized slab of machined glass and aerospace titanium that generates more raw cash in ninety days than Nike, Coca-Cola, and McDonald's combined in an entire year."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 02 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft watercolor vignette border. A giant brass balance scale on a clean white desk. On the left side rests a single glowing smartphone. On the right side, an enormous mountain of stacked fast-food cups, sneakers, and soda cans is tipped hopelessly into the air. Crisp black ink outlines, muted corporate colors. Handwritten comic label at top: "THE EMPIRE SCALE".
+
+================================================================================
+SCENE 003 / 120 | DOWNLOAD / SAVE AS: scene_003.png
+SCENE LABEL: THREE TRILLION DOLLARS
+VOICEOVER: "Behind that screen sits a financial fortress valued at over three trillion dollars—a private balance sheet with cash reserves larger than the annual gross domestic product of most European nations."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 03 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An enormous fortress vault door shaped like an Apple logo, surrounded by towering stacks of gold bullion and currency pallets stretching into the horizon under dramatic spotlights. Tiny stickman accountants in green visors look up in awe. Muted charcoal, gold, and cream tones. Handwritten comic label: "THREE TRILLION DOLLARS".
+
+================================================================================
+SCENE 004 / 120 | DOWNLOAD / SAVE AS: scene_004.png
+SCENE LABEL: THE INVISIBLE SUPPLY CHAIN
+VOICEOVER: "Its supply chains span six continents, commanding fleets of Boeing cargo jets, millions of factory workers, and satellite networks that alter global trade at the stroke of a pen."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 04 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An isometric hand-drawn world map in muted sepia tones. Glowing neon dashed flight paths connect cargo freighters across oceans and fleets of transport airplanes flying between continents into a central glowing hub in California. Minimalist 2D line art. Handwritten comic label: "THE INVISIBLE SUPPLY CHAIN".
+
+================================================================================
+SCENE 005 / 120 | DOWNLOAD / SAVE AS: scene_005.png
+SCENE LABEL: THE MODERN ILLUSION
+VOICEOVER: "It feels inevitable. It feels like an ancient, untouchable corporate titan that has always ruled the world with cold, flawless precision."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 05 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A massive, sleek glass spaceship headquarters (Apple Park) gleaming under a clear blue sky, surrounded by manicured trees, looking like a futuristic monument of absolute perfection. Tiny stick figures walk along pristine glass walkways. Architectural line art. Handwritten comic label: "THE MODERN ILLUSION".
+
+================================================================================
+SCENE 006 / 120 | DOWNLOAD / SAVE AS: scene_006.png
+SCENE LABEL: REWIND FIFTY YEARS
+VOICEOVER: "That is the illusion. Because if you rewind fifty years, Apple was not an empire. It was not even a business."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 06 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A vintage cassette tape rewinding rapidly with unraveling magnetic tape spooling backward through calendar pages tearing away through the 2000s, 1990s, and 1980s. Dust motes in atmospheric light. Handwritten comic label: "REWIND FIFTY YEARS".
+
+================================================================================
+SCENE 007 / 120 | DOWNLOAD / SAVE AS: scene_007.png
+SCENE LABEL: A DRAFTY GARAGE
+VOICEOVER: "It was two young college dropouts in a drafty suburban garage in Los Altos, California, surrounded by soldering smoke, cardboard boxes, and unpaid bills."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 07 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Exterior of a humble 1970s suburban California ranch house and garage at dusk. The garage door is slightly open, spilling warm yellow light and wisps of soldering smoke onto the cracked asphalt driveway. A vintage rusted car sits parked outside. Muted retro palette. Handwritten comic label: "CRIST DRIVE GARAGE, 1976".
+
+================================================================================
+SCENE 008 / 120 | DOWNLOAD / SAVE AS: scene_008.png
+SCENE LABEL: THE UNWASHED PROPHET
+VOICEOVER: "One was Steve Jobs: twenty-one years old, erratic, barefoot, and convinced that eating strictly apples meant he did not need to shower or wear deodorant."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 08 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A scruffy, intense 2D stickman Steve Jobs with messy dark shoulder-length hair and beard, barefoot in patched bell-bottom jeans and an unbuttoned shirt, pacing barefoot on a grease-stained concrete floor while passionately munching on a red apple. Comic stink lines humorously waft behind him. Handwritten comic label: "THE FRUITARIAN PROPHET".
+
+================================================================================
+SCENE 009 / 120 | DOWNLOAD / SAVE AS: scene_009.png
+SCENE LABEL: THE RECLUSE GENIUS
+VOICEOVER: "The other was Steve Wozniak: twenty-five years old, a gentle engineering savant who had no interest in money and just wanted to build beautiful circuit boards for his friends."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 09 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A chubby, cheerful 2D stickman Steve Wozniak with a full beard and wire-rimmed glasses, happily hunched over a wooden workbench cluttered with oscilloscope dials, copper wires, and circuit diagrams, humming to himself under a single desk lamp. Warm cozy amber lighting. Handwritten comic label: "THE QUIET WIZARD".
+
+================================================================================
+SCENE 010 / 120 | DOWNLOAD / SAVE AS: scene_010.png
+SCENE LABEL: THE TACO DIET
+VOICEOVER: "They had no business plan. They had no investors. Most nights, they scraped together spare change from sofa cushions just to buy tacos for dinner."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 10 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Jobs and Wozniak sitting cross-legged on the garage floor, eagerly splitting two cheap paper-wrapped tacos and counting small copper pennies and nickels from an empty mayonnaise jar. Muted 1970s tones. Handwritten comic label: "THE TACO DIET".
+
+================================================================================
+SCENE 011 / 120 | DOWNLOAD / SAVE AS: scene_011.png
+SCENE LABEL: THE PARANOID ODYSSEY
+VOICEOVER: "This is the entire story of Apple. Not the polished PR keynote version, but the raw, chaotic, near-fatal drama of how a pirate experiment nearly died a dozen times."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 11 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A weathered nautical treasure map titled 'THE APPLE VOYAGE' marked with pirate flags, sinking ships labeled '1985' and '1996', rocky reefs, and a shining golden mountain labeled '2007'. Dramatic storybook line art. Handwritten comic label: "THE SURVIVORS' MAP".
+
+================================================================================
+SCENE 012 / 120 | DOWNLOAD / SAVE AS: scene_012.png
+SCENE LABEL: A TALE OF TWO EGOS
+VOICEOVER: "A story of betrayed friendships, palace coups, boardroom betrayals, and a twelve-year exile that almost ended in utter bankruptcy."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 12 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Split silhouette profiles of Steve Jobs and John Sculley facing away from each other across a boardroom table littered with broken Apple logos and corporate papers blowing in the wind. Dramatic shadow play. Handwritten comic label: "THE CRACK IN THE MIRROR".
+
+================================================================================
+SCENE 013 / 120 | DOWNLOAD / SAVE AS: scene_013.png
+SCENE LABEL: THE NINE-DAY BRINK
+VOICEOVER: "A company that came within ninety days of going out of business before an arch-rival wrote a check that changed technology forever."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 13 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A dramatic desktop calendar flipping to October 1997 with a giant digital countdown clock reading '90 DAYS REMAINING'. In the background, an ominous red bank balance sheet hits zero. Handwritten comic label: "90 DAYS TO EXTINCTION".
+
+================================================================================
+SCENE 014 / 120 | DOWNLOAD / SAVE AS: scene_014.png
+SCENE LABEL: THE RELIGION
+VOICEOVER: "And how one man's fanatical obsession with aesthetics turned silicon chips and plastic into the world's first corporate religion."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 14 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A dark auditorium where thousands of stick figures hold up glowing white devices in unison, bathed in dramatic white stage light beaming down upon a lone figure standing in a black turtleneck. Cinematic perspective. Handwritten comic label: "THE COMMERCIAL RELIGION".
+
+================================================================================
+SCENE 015 / 120 | DOWNLOAD / SAVE AS: scene_015.png
+SCENE LABEL: THE GENESIS BELL
+VOICEOVER: "To understand how the fortress was built, you have to go back to a prank phone call that almost got them thrown in federal prison."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 15 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A vintage 1970s rotary payphone on a gritty street corner illuminated by a flickering streetlamp. A wire runs from the receiver into a homemade blue plastic box held by a young stick figure. Handwritten comic label: "WHERE IT ACTUALLY BEGAN".
+
+================================================================================
+SCENE 016 / 120 | DOWNLOAD / SAVE AS: scene_016.png
+SCENE LABEL: THE BLUE BOX PRANK
+VOICEOVER: "In the early 1970s, Steve Wozniak figured out that AT&T's long-distance telephone network routed international calls using specific acoustic audio frequencies."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 16 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft watercolor vignette border. Wozniak with headphones holding a primitive handheld circuit box emitting musical notes and sine wave frequencies (2600 Hz) that unlock a giant analog telephone switchboard. Comic technical drawing. Handwritten comic label: "THE 2600 HZ FREQUENCY".
+
+================================================================================
+SCENE 017 / 120 | DOWNLOAD / SAVE AS: scene_017.png
+SCENE LABEL: CALLING THE POPE
+VOICEOVER: "He built an electronic device called the Blue Box that generated the tones for free. One night, Jobs and Wozniak used it to call Vatican City, pretending to be Henry Kissinger wanting to speak to the Pope."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 17 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Two mischievous stick figures giggling in a dark college dorm room into a receiver, while on the split screen a sleepy Catholic bishop at the Vatican in Rome answers an ornate golden telephone in confusion. Handwritten comic label: "CALLING THE VATICAN".
+
+================================================================================
+SCENE 018 / 120 | DOWNLOAD / SAVE AS: scene_018.png
+SCENE LABEL: THE CRITICAL INSIGHT
+VOICEOVER: "Wozniak treated it as an engineering puzzle. But Jobs saw something else entirely: two kids in a bedroom could control an infrastructure built by a multi-billion-dollar telecom monopoly."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 18 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A young stickman Steve Jobs with wide, electric eyes holding up a small glowing blue circuit box. Behind him, the colossal, monolithic skyscraper of AT&T casts a towering shadow. Dramatic visual metaphor. Handwritten comic label: "SLAYING GOLIATH".
+
+================================================================================
+SCENE 019 / 120 | DOWNLOAD / SAVE AS: scene_019.png
+SCENE LABEL: THE FIRST VENTURE
+VOICEOVER: "Jobs convinced Wozniak to sell them on college campuses for one hundred and fifty dollars each. It was their first venture, and it taught them that Woz's engineering could be weaponized by Jobs's salesmanship."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 19 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Jobs in a university hallway whispering conspiratorially to eager college students, opening his trench coat to reveal glowing blue boxes, taking crumpled dollar bills. Wozniak watches anxiously from behind a locker. Handwritten comic label: "THE $150 BLACK MARKET".
+
+================================================================================
+SCENE 020 / 120 | DOWNLOAD / SAVE AS: scene_020.png
+SCENE LABEL: THE HOMEBREW CLUB
+VOICEOVER: "By 1975, the personal computer revolution was brewing in Menlo Park at the Homebrew Computer Club—a gathering of scruffy hobbyists who believed computing should belong to the people."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 20 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A crowded, smoke-filled high school gymnasium packed with bearded 1970s tech geeks gathered around wooden tables piled with primitive motherboards, soldering irons, and punched paper tape. Handwritten comic label: "HOMEBREW COMPUTER CLUB, 1975".
+
+================================================================================
+SCENE 021 / 120 | DOWNLOAD / SAVE AS: scene_021.png
+SCENE LABEL: THE REVELATION
+VOICEOVER: "Most members brought clunky metal boxes that communicated only in blinking red lights. Wozniak went home, sat at his desk, and designed something miraculous."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 21 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Wozniak working late into the night at his bedroom desk, drawing intricate copper traces on graph paper. A single terminal keyboard hooks into an ordinary black-and-white television screen. Peaceful, focused mood. Handwritten comic label: "KEYBOARD MEETS SCREEN".
+
+================================================================================
+SCENE 022 / 120 | DOWNLOAD / SAVE AS: scene_022.png
+SCENE LABEL: A SCREEN IN THE DARK
+VOICEOVER: "He connected a keyboard and a standard television monitor to a single microprocessor. For the first time in human history, typing on a keyboard instantly made letters appear on a screen."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 22 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Close-up on a vintage small CRT TV glowing in green phosphor in a dark room. Stickman Wozniak presses a key, and the word 'HELLO' appears on the monitor. His stick face is illuminated with pure wonder. Handwritten comic label: "LET THERE BE LIGHT".
+
+================================================================================
+SCENE 023 / 120 | DOWNLOAD / SAVE AS: scene_023.png
+SCENE LABEL: GIVE IT AWAY
+VOICEOVER: "Wozniak wanted to hand out the schematics for free to everyone at the club. Jobs said absolutely not: we are going to sell it."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 23 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Wozniak happily holding out a stack of paper schematics to a crowd, while Steve Jobs grabs his wrist with an intense, determined stare, pointing firmly toward a cash register. Handwritten comic label: "FREE VS COMMERCE".
+
+================================================================================
+SCENE 024 / 120 | DOWNLOAD / SAVE AS: scene_024.png
+SCENE LABEL: SELLING THEIR SOULS
+VOICEOVER: "To raise the thirteen hundred dollars needed to print printed circuit boards, Wozniak sold his prized HP-65 calculator for five hundred dollars, and Jobs sold his Volkswagen bus for fifteen hundred."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 24 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Split panel illustration: On the left, Wozniak sadly handing over a pocket HP scientific calculator to an engineer. On the right, Jobs handing the keys of a rusty red-and-white VW camper van to a buyer. Handwritten comic label: "SACRIFICING THE VAN & CALCULATOR".
+
+================================================================================
+SCENE 025 / 120 | DOWNLOAD / SAVE AS: scene_025.png
+SCENE LABEL: THE INCORPORATION
+VOICEOVER: "On April Fools' Day, 1976, Apple Computer was officially born. Jobs picked the name because he had just returned from an apple orchard and thought the word sounded friendly and approachable."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 25 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A wooden desk with an official handwritten legal partnership agreement dated 'APRIL 1, 1976'. Resting on top of the document is a crisp, fresh red apple with a single green leaf. Warm sunlight streams through a window. Handwritten comic label: "APRIL FOOLS' DAY, 1976".
+
+================================================================================
+SCENE 026 / 120 | DOWNLOAD / SAVE AS: scene_026.png
+SCENE LABEL: THE BYTE SHOP ORDER
+VOICEOVER: "Jobs walked barefoot into the Byte Shop in Mountain View, owned by Paul Terrell. Terrell did not want hobbyist kits; he wanted fully assembled computers, and he ordered fifty units on the spot for twenty-five thousand dollars."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 26 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs with messy hair and bare feet leaning over the glass counter of a small 1970s electronic hobby store. The skeptical shop owner with a mustache signs an order slip for 50 computers. Handwritten comic label: "THE $25,000 GAMBLE".
+
+================================================================================
+SCENE 027 / 120 | DOWNLOAD / SAVE AS: scene_027.png
+SCENE LABEL: THE GARAGE ASSEMBLY LINE
+VOICEOVER: "They had thirty days to deliver. The Jobs family garage became a sweatshop. Friends, siblings, and pregnant ex-girlfriends were drafted to stuff chips into green circuit boards for a dollar a board."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 27 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The cluttered garage bustling with activity: five stick figures working along long wooden door-desks under bare hanging lightbulbs, soldering microchips onto green boards with cardboard boxes stacked to the ceiling. Handwritten comic label: "THE ONE-DOLLAR ASSEMBLY LINE".
+
+================================================================================
+SCENE 028 / 120 | DOWNLOAD / SAVE AS: scene_028.png
+SCENE LABEL: THE APPLE I
+VOICEOVER: "The Apple I was sold for six hundred and sixty-six dollars and sixty-six cents—because Wozniak liked repeating digits. It was a bare board with no case, no power supply, and no monitor."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 28 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A vintage raw wooden box containing the exposed Apple I motherboard with ceramic chips and capacitors. A price tag hanging off reads '$666.66'. Beautiful retro line art. Handwritten comic label: "THE REPEATING DIGITS ($666.66)".
+
+================================================================================
+SCENE 029 / 120 | DOWNLOAD / SAVE AS: scene_029.png
+SCENE LABEL: THE VISION FOR NORMAL HUMANS
+VOICEOVER: "It made enough money to fund the next machine. But while Wozniak wanted to build an even faster circuit board, Jobs had a radical realization: regular people do not want to assemble a computer with a screwdriver."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 29 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A frustrated ordinary 1970s housewife stick figure looking in horror at a tangled pile of electronic wires and soldering smoke. In contrast, Steve Jobs holds up an imaginary smooth, sealed white box with a glowing smile. Handwritten comic label: "COMPUTERS FOR THE REST OF US".
+
+================================================================================
+SCENE 030 / 120 | DOWNLOAD / SAVE AS: scene_030.png
+SCENE LABEL: THE APPLE II MASTERPIECE
+VOICEOVER: "Enter the Apple II: an all-in-one consumer appliance with a sleek beige molded plastic case, built-in color graphics, and a silent power supply that did not require a noisy fan."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 30 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The Apple II computer in pristine beige textured plastic with integrated keyboard, hooked up to a color TV displaying a rainbow apple logo and video game graphics. Soft warm 1977 lighting. Handwritten comic label: "THE FIRST CONSUMER APPLIANCE".
+
+================================================================================
+SCENE 031 / 120 | DOWNLOAD / SAVE AS: scene_031.png
+SCENE LABEL: NO FANS ALLOWED
+VOICEOVER: "Jobs refused to install a cooling fan because he believed the noise distracted the user from contemplation. It was the birth of his lifelong obsession: engineering must bow to design."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 31 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Jobs angrily tossing a spinning metal mechanical fan into a trash can with a red 'NO NOISE' prohibition sign. Beside him, engineer Rod Holt invents a novel switching power supply on a chalkboard. Handwritten comic label: "THE FANLESS SANCTUARY".
+
+================================================================================
+SCENE 032 / 120 | DOWNLOAD / SAVE AS: scene_032.png
+SCENE LABEL: VISICALC EXPLOSION
+VOICEOVER: "When an accountant named Dan Bricklin created VisiCalc—the first electronic spreadsheet—the Apple II transformed from an expensive toy into a mandatory business tool. Sales erupted."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 32 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A Wall Street businessman in a three-piece suit dropping his traditional green accounting ledger and running frantically with cash toward a computer store window displaying the Apple II running VisiCalc spreadsheets. Handwritten comic label: "THE KILLER APP: VISICALC".
+
+================================================================================
+SCENE 033 / 120 | DOWNLOAD / SAVE AS: scene_033.png
+SCENE LABEL: THE 1980 IPO
+VOICEOVER: "In December 1980, Apple went public. It created over three hundred instant millionaires—more than any IPO since the Ford Motor Company in 1956."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 33 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The bustling floor of the New York Stock Exchange in 1980. Stock tickers reading 'AAPL' explode with ticker tape falling like snow. Twenty-five-year-old Steve Jobs in a velvet suit smiles as his net worth hits $250 million. Handwritten comic label: "THE $250M FORTUNE AT 25".
+
+================================================================================
+SCENE 034 / 120 | DOWNLOAD / SAVE AS: scene_034.png
+SCENE LABEL: THE CORRUPTING EGO
+VOICEOVER: "Steve Jobs was twenty-five years old and worth a quarter of a billion dollars. But immense wealth did not make him patient; it made him unbearable."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 34 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs standing on an enormous pile of gold coins, berating a terrified team of engineers in a corporate hallway, slamming a whiteboard eraser. Dark, brooding lighting. Handwritten comic label: "THE UNCHECKED EGO".
+
+================================================================================
+SCENE 035 / 120 | DOWNLOAD / SAVE AS: scene_035.png
+SCENE LABEL: THE RIVAL IN BLUE
+VOICEOVER: "And lurking just over the horizon was an eighty-billion-dollar giant that was about to wake up from its slumber: IBM."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 35 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An army of identical blue-suited stickmen wearing fedoras marching in military grid formation under an enormous monolithic banner reading 'IBM: BIG BLUE'. Overhead thunderclouds gather. Handwritten comic label: "THE GIANT AWAKENS".
+
+================================================================================
+SCENE 036 / 120 | DOWNLOAD / SAVE AS: scene_036.png
+SCENE LABEL: THE XEROX PARC HEIST
+VOICEOVER: "In December 1979, Steve Jobs visited the Xerox PARC research laboratory in Palo Alto in exchange for allowing Xerox to buy one hundred thousand shares of pre-IPO Apple stock."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 36 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft watercolor vignette border. Steve Jobs peering over the shoulder of a research scientist in a sterile laboratory. On the scientist's screen is a graphical desktop with windows, folders, and a mechanical three-button mouse. Jobs's jaw drops. Handwritten comic label: "THE XEROX PARC VISIT".
+
+================================================================================
+SCENE 037 / 120 | DOWNLOAD / SAVE AS: scene_037.png
+SCENE LABEL: THE GOLD MINE
+VOICEOVER: "When he saw a graphical user interface and a mouse pointing at digital desktop windows, Jobs literally leaped out of his chair shouting: 'Why aren't you doing anything with this? You are sitting on a gold mine!'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 37 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Jobs jumping into the air with outstretched arms, knocking over a coffee cup, shouting at bewildered Xerox executives seated around a mahogany conference table holding patent binders. Handwritten comic label: "SITTING ON A GOLD MINE".
+
+================================================================================
+SCENE 038 / 120 | DOWNLOAD / SAVE AS: scene_038.png
+SCENE LABEL: PIRATES OF SILICON VALLEY
+VOICEOVER: "Jobs hijacked a struggling internal project called the Macintosh. He declared war on IBM and even on the rest of Apple itself, famously proclaiming: 'It's better to be a pirate than join the navy.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 38 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs dressed playfully in a pirate tricorn hat, unfurling a black Jolly Roger flag with an Apple logo eye-patch on the roof of the Bandley 3 building in Cupertino. Handwritten comic label: "BETTER TO BE A PIRATE".
+
+================================================================================
+SCENE 039 / 120 | DOWNLOAD / SAVE AS: scene_039.png
+SCENE LABEL: THE 90-HOUR WORK WEEKS
+VOICEOVER: "The Macintosh team worked ninety-hour weeks for three straight years under Jobs's brutal reality distortion field. If an engineer designed a board that worked, Jobs would scream that the internal solder lines looked ugly."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 39 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Exhausted 2D stickman engineers sleeping under desks surrounded by empty soda cans and pizza boxes. Above them, a framed black t-shirt hangs on the wall reading: '90 HOURS A WEEK AND LOVING IT!'. Handwritten comic label: "90 HOURS A WEEK".
+
+================================================================================
+SCENE 040 / 120 | DOWNLOAD / SAVE AS: scene_040.png
+SCENE LABEL: THE SIGNATURES INSIDE
+VOICEOVER: "Because artists sign their work, Jobs had the signatures of all forty-seven team members engraved into the inside plastic mold of every single Macintosh case. Nobody would ever see them—except the people who made it."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 40 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Close-up on the inside cream plastic shell of a Macintosh case. Delicate signatures of forty-seven engineers are permanently molded into the plastic. A glowing beam of light reveals the hidden craftsmanship. Handwritten comic label: "ARTISTS SIGN THEIR WORK".
+
+================================================================================
+SCENE 041 / 120 | DOWNLOAD / SAVE AS: scene_041.png
+SCENE LABEL: THE SUGAR WATER TRAP
+VOICEOVER: "To manage Apple's explosive growth, Jobs needed an experienced CEO. He targeted John Sculley, the president of Pepsi-Cola, who initially turned him down."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 41 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs standing on the balcony of a Manhattan penthouse at night overlooking Central Park, confronting a polished, silver-haired corporate executive John Sculley in an expensive suit holding a glass of soda. Cinematic tension. Handwritten comic label: "THE MANHATTAN CONVERSATION".
+
+================================================================================
+SCENE 042 / 120 | DOWNLOAD / SAVE AS: scene_042.png
+SCENE LABEL: CHANGE THE WORLD
+VOICEOVER: "Jobs looked Sculley dead in the eye and delivered the most famous recruiting pitch in business history: 'Do you want to sell sugar water for the rest of your life, or do you want a chance to change the world?'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 42 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Dramatic split illustration: On one side, endless identical vending machine soda cans rolling down a bleak conveyor. On the other side, an incandescent glowing digital globe surrounded by creative sparks. Sculley stares stunned. Handwritten comic label: "SUGAR WATER VS THE WORLD".
+
+================================================================================
+SCENE 043 / 120 | DOWNLOAD / SAVE AS: scene_043.png
+SCENE LABEL: SCULLEY ARRIVES
+VOICEOVER: "Sculley accepted. He thought he was coming to Silicon Valley to mentor a young prodigy. He had no idea he was stepping into a cage with a tiger."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 43 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. John Sculley and Steve Jobs shaking hands on stage under Apple banners. Sculley smiles cordially, while Jobs's shadow behind him forms the silhouette of a coiled, predatory tiger. Handwritten comic label: "STEPPING INTO THE TIGER'S CAGE".
+
+================================================================================
+SCENE 044 / 120 | DOWNLOAD / SAVE AS: scene_044.png
+SCENE LABEL: THE 1984 COMMERCIAL
+VOICEOVER: "In January 1984, Apple aired a sixty-second television commercial during Super Bowl Eighteen, directed by Ridley Scott. It showed a female athlete hurling a sledgehammer through the telescreen of Big Brother."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 44 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. In a dystopian grey stadium filled with brainwashed bald workers, a female runner in bright red shorts sprints forward and hurls a massive sledgehammer directly into a towering video screen displaying Big Brother. Exploding glass and blinding white light. Handwritten comic label: "SUPER BOWL XVIII: 1984".
+
+================================================================================
+SCENE 045 / 120 | DOWNLOAD / SAVE AS: scene_045.png
+SCENE LABEL: 1984 WILL NOT BE LIKE 1984
+VOICEOVER: "The commercial never showed the computer. It ended with the voiceover: 'On January 24th, Apple Computer will introduce Macintosh. And you'll see why 1984 won't be like 1984.' It was a cultural earthquake."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 45 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A vintage living room TV screen displaying the rainbow Apple logo with scrolling serif text: 'WHY 1984 WON'T BE LIKE 1984'. A family on the couch sits paralyzed with their jaws hanging open in disbelief. Handwritten comic label: "THE CULTURAL EARTHQUAKE".
+
+================================================================================
+SCENE 046 / 120 | DOWNLOAD / SAVE AS: scene_046.png
+SCENE LABEL: HELLO
+VOICEOVER: "Two days later, Jobs walked onto a stage in Cupertino, pulled the Macintosh out of a canvas duffel bag, and turned it on. The computer drew a cursive 'Hello' across its nine-inch screen and spoke using a synthesized voice."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 46 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Spotlight on a tiny beige Macintosh desktop on a black podium. Its screen glows with the elegant cursive word 'hello.'. The computer's built-in speaker emits cartoon speech waves. The crowd stands cheering. Handwritten comic label: "THE MAC TALKS (JAN 24, 1984)".
+
+================================================================================
+SCENE 047 / 120 | DOWNLOAD / SAVE AS: scene_047.png
+SCENE LABEL: THE PRICING CRIME
+VOICEOVER: "The audience went insane. But behind the curtain, a fatal flaw was looming. Jobs wanted to price it at nineteen hundred dollars. Sculley, terrified by advertising costs, forced the price to twenty-four hundred and ninety-five."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 47 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. John Sculley and Steve Jobs in a heated argument behind the stage curtains. Sculley holds a marker stamping a massive price tag '$2,495' onto the Macintosh box, while Jobs clutches his head in fury. Handwritten comic label: "THE $2,495 PRICE TAG".
+
+================================================================================
+SCENE 048 / 120 | DOWNLOAD / SAVE AS: scene_048.png
+SCENE LABEL: THE SALES COLLAPSE
+VOICEOVER: "It was too expensive. It had only one hundred and twenty-eight kilobytes of RAM, no hard drive, and quickly overheated because Jobs still refused to include a fan. By late 1984, sales fell off a cliff."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 48 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A steep downward-plunging financial line graph falling through the floorboards. In the foreground, an overheated Macintosh sitting on a desk with a tiny thermometer boiling over into red steam. Handwritten comic label: "THE SALES CRATER".
+
+================================================================================
+SCENE 049 / 120 | DOWNLOAD / SAVE AS: scene_049.png
+SCENE LABEL: THE WAR IN CUPERTINO
+VOICEOVER: "Apple was descending into civil war. The Apple II division, which brought in eighty-five percent of the company's revenue, despised Jobs and his pampered pirate Mac team."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 49 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Two rival office buildings in Cupertino glaring at each other across an asphalt parking lot: the Apple II team in navy suits holding cash registers, and the Mac team in pirate attire waving skull flags. Handwritten comic label: "CORPORATE CIVIL WAR".
+
+================================================================================
+SCENE 050 / 120 | DOWNLOAD / SAVE AS: scene_050.png
+SCENE LABEL: THE PALACE COUP
+VOICEOVER: "In May 1985, Jobs discovered that John Sculley was planning to strip him of operational power. Jobs decided to strike first: while Sculley was on a scheduled business trip to China, Jobs would stage a boardroom coup."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 50 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A dark executive office at midnight. Steve Jobs whispering intensely into a telephone receiver while pacing in front of a whiteboard detailing a boardroom takeover scheme. A flight itinerary for 'BEIJING' rests on the desk. Handwritten comic label: "THE MIDNIGHT PLOT".
+
+================================================================================
+SCENE 051 / 120 | DOWNLOAD / SAVE AS: scene_051.png
+SCENE LABEL: THE LEAK
+VOICEOVER: "Someone leaked the plot. Sculley canceled his flight, walked into the board meeting, and laid down an ultimatum: 'It's him or me. You must choose.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 51 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. John Sculley standing tall at the head of a sunlit Apple boardroom table, slamming both hands on the mahogany wood, staring fiercely at the Apple board of directors. Steve Jobs sits slouched in his chair, pale and cornered. Handwritten comic label: "HIM OR ME".
+
+================================================================================
+SCENE 052 / 120 | DOWNLOAD / SAVE AS: scene_052.png
+SCENE LABEL: THE EXILE VOTE
+VOICEOVER: "One by one, the board members voted. Every single director—even the ones Jobs thought were his closest allies—sided with John Sculley."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 52 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The boardroom table where five stickman directors slowly raise their hands in unison toward Sculley. A lone red voting card sits rejected in front of Steve Jobs. Heavy, crushing silence. Handwritten comic label: "UNANIMOUS BETRAYAL".
+
+================================================================================
+SCENE 053 / 120 | DOWNLOAD / SAVE AS: scene_053.png
+SCENE LABEL: STRIPPED OF POWER
+VOICEOVER: "On May 31, 1985, Steve Jobs was stripped of all operational duties. His office was moved to an empty satellite building across the street dubbed 'Siberia.' Nobody visited. Nobody called."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 53 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs sitting alone at an empty desk in a completely bare, cavernous office building with no furniture and no pictures on the walls. Dust motes float in the silence. A telephone sits unplugged on the floor. Handwritten comic label: "EXILE TO SIBERIA".
+
+================================================================================
+SCENE 054 / 120 | DOWNLOAD / SAVE AS: scene_054.png
+SCENE LABEL: THE RESIGNATION
+VOICEOVER: "In September 1985, Jobs handed in his formal resignation. He sold all but a single share of his Apple stock—hundreds of millions of dollars—declaring that the company had lost its soul."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 54 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs walking out of the Apple headquarters glass doors carrying a single cardboard box with his personal desk belongings. In his shirt pocket sits a single physical share certificate of Apple stock. Sunset silhouette. Handwritten comic label: "LEAVING ONE SHARE BEHIND".
+
+================================================================================
+SCENE 055 / 120 | DOWNLOAD / SAVE AS: scene_055.png
+SCENE LABEL: THE EMPTY LOT
+VOICEOVER: "He sat in his car in the parking lot and wept. At thirty years old, he had been kicked out of the kingdom he built with his own two hands."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 55 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Interior of a parked Mercedes in a nearly empty asphalt parking lot at twilight. Steve Jobs rests his forehead on the steering wheel, shoulders trembling, gazing through the windshield at the glowing Apple logo on the building across the street. Handwritten comic label: "TEARS IN THE PARKING LOT".
+
+================================================================================
+SCENE 056 / 120 | DOWNLOAD / SAVE AS: scene_056.png
+SCENE LABEL: THE BLACK CUBE: NeXT
+VOICEOVER: "Steve Jobs did not quit. With seven million dollars of his own money, he founded NeXT—determined to build the ultimate workstation for higher education."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 56 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft watercolor vignette border. Steve Jobs standing triumphantly beside a perfectly matte black, magnesium cube-shaped computer sitting on a minimalist pedestal. Geometric perfection, futuristic aesthetic. Handwritten comic label: "THE $10,000 BLACK CUBE: NeXT".
+
+================================================================================
+SCENE 057 / 120 | DOWNLOAD / SAVE AS: scene_057.png
+SCENE LABEL: PERFECTION AT ANY COST
+VOICEOVER: "Jobs was so obsessed with design that he paid graphic designer Paul Rand one hundred thousand dollars for a single logo and spent millions repainting factory machines in custom shades of grey."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 57 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Legendary designer Paul Rand handing an angled black cube logo booklet reading 'NeXT' to Steve Jobs, who hands him a check for '$100,000'. In the background, robotic assembly machines are painted in museum matte grey. Handwritten comic label: "THE $100,000 LOGO".
+
+================================================================================
+SCENE 058 / 120 | DOWNLOAD / SAVE AS: scene_058.png
+SCENE LABEL: COMMERCIAL FAILURE, HISTORICAL VICTORY
+VOICEOVER: "The NeXT computer was an engineering masterpiece running an advanced UNIX operating system called NeXTSTEP. But priced at nearly ten thousand dollars, it was a commercial disaster. Hardly anyone bought it."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 58 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An empty university classroom where a lone NeXT cube sits unused with a giant price tag reading '$9,999'. Cobwebs begin to form in the corner. Minimalist, melancholic lighting. Handwritten comic label: "TOO EXPENSIVE TO LIVE".
+
+================================================================================
+SCENE 059 / 120 | DOWNLOAD / SAVE AS: scene_059.png
+SCENE LABEL: THE SEED OF THE WORLD WIDE WEB
+VOICEOVER: "Yet in an irony of history, a scientist at CERN named Tim Berners-Lee used a NeXT computer to invent the World Wide Web and host the world's very first website."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 59 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. In a cluttered physics laboratory in Geneva, Tim Berners-Lee sits at a black NeXT cube with a handwritten label taped to the side: 'THIS MACHINE IS A SERVER. DO NOT POWER DOWN!'. Glowing network lines spread across a globe. Handwritten comic label: "BIRTH OF THE WORLD WIDE WEB".
+
+================================================================================
+SCENE 060 / 120 | DOWNLOAD / SAVE AS: scene_060.png
+SCENE LABEL: THE LUCASFILM ORPHAN
+VOICEOVER: "Meanwhile, in 1986, George Lucas was getting divorced and needed cash. Jobs bought his small computer graphics division for five million dollars and invested another five million into it. It was called Pixar."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 60 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. George Lucas in a flannel shirt shaking hands with Steve Jobs, passing him a film reel containing computer-generated animations of an energetic desk lamp. Handwritten comic label: "THE $10M PIXAR BET".
+
+================================================================================
+SCENE 061 / 120 | DOWNLOAD / SAVE AS: scene_061.png
+SCENE LABEL: BLEEDING CASH FOR ART
+VOICEOVER: "For nearly ten years, Pixar bled money. Jobs wrote personal checks month after month to keep the animation dream alive while John Lasseter and his team animated digital short films."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 61 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs with his checkbook open at a desk, rubbing his tired temples as an animator shows him a colorful digital frame of a plastic cowboy and space ranger. Stacks of canceled personal checks pile high. Handwritten comic label: "TEN YEARS OF PERSONAL CHECKS".
+
+================================================================================
+SCENE 062 / 120 | DOWNLOAD / SAVE AS: scene_062.png
+SCENE LABEL: TOY STORY TRIUMPH
+VOICEOVER: "In November 1995, Pixar released Toy Story. It was the first fully computer-animated feature film in history. One week later, Pixar went public, and Steve Jobs's eighty percent stake was suddenly worth one point two billion dollars."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 62 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A crowded movie theater bathed in colorful light from the silver screen showing Woody and Buzz Lightyear flying. In the audience, Steve Jobs smiles peacefully as gold ticker tape falls. Handwritten comic label: "PIXAR: THE BILLION-DOLLAR REDEMPTION".
+
+================================================================================
+SCENE 063 / 120 | DOWNLOAD / SAVE AS: scene_063.png
+SCENE LABEL: APPLE WITHOUT JOBS
+VOICEOVER: "While Jobs was in the wilderness, Apple was rotting from the inside out."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 63 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An apple rotting on a dusty boardroom table, its rainbow skin peeling away, surrounded by forgotten corporate binders labeled 'QUARTERLY TARGETS' and 'COST CUTTING'. Somber grey tones. Handwritten comic label: "THE ROTTING CORE".
+
+================================================================================
+SCENE 064 / 120 | DOWNLOAD / SAVE AS: scene_064.png
+SCENE LABEL: THE BEIGE LABYRINTH
+VOICEOVER: "John Sculley had expanded Apple's product line into a confusing maze of dozens of identical beige boxes: Performa, Quadra, Centris, LC, and the failed Newton handheld."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 64 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A bewildered consumer stickman trapped in an endless labyrinth of identical beige plastic computer towers and monitors labeled 'PERFORMA 5200', 'QUADRA 605', 'CENTRIS 610'. Overhead signs point in confusing circles. Handwritten comic label: "THE BEIGE LABYRINTH".
+
+================================================================================
+SCENE 065 / 120 | DOWNLOAD / SAVE AS: scene_065.png
+SCENE LABEL: THE NEWTON MOCKERY
+VOICEOVER: "The Newton was so bad at handwriting recognition that Doonesbury cartoons mocked it daily. If you wrote 'Catching on,' it transcribed 'Egg freckles.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 65 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An angry stick figure writing 'Catching on' with a plastic stylus on an early green Newton PDA screen, which proudly displays the garbled text: 'Egg Freckles!'. Comic speech bubbles and laughter. Handwritten comic label: "EGG FRECKLES (THE NEWTON)".
+
+================================================================================
+SCENE 066 / 120 | DOWNLOAD / SAVE AS: scene_066.png
+SCENE LABEL: THE WIN95 TSUNAMI
+VOICEOVER: "In August 1995, Microsoft launched Windows 95 with the Rolling Stones singing 'Start Me Up.' Bill Gates had copied the Mac's graphical interface and licensed it to every cheap PC clone manufacturer on earth."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 66 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A massive tidal wave made of blue 'Windows 95' boxes and desktop CD-ROMs sweeping across the globe, washing away a fragile rainbow Apple logo clinging to a small wooden raft. Handwritten comic label: "WINDOWS 95: THE MONOPOLY TSUNAMI".
+
+================================================================================
+SCENE 067 / 120 | DOWNLOAD / SAVE AS: scene_067.png
+SCENE LABEL: FOUR PERCENT
+VOICEOVER: "Apple's market share collapsed from sixteen percent down to four percent. The company was losing hundreds of millions of dollars every single quarter."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 67 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A circular pie chart where a tiny red slice labeled '4% APPLE' is surrounded by an overwhelming 96% grey slice labeled 'MICROSOFT PC CLONES'. Gloomy, tense financial atmosphere. Handwritten comic label: "SURVIVING ON 4 PERCENT".
+
+================================================================================
+SCENE 068 / 120 | DOWNLOAD / SAVE AS: scene_068.png
+SCENE LABEL: THE CEO CAROUSEL
+VOICEOVER: "Apple fired John Sculley. They hired Michael Spindler, who suffered a nervous breakdown and hid under his desk during board meetings. Then they hired Gil Amelio, who was paid millions to give rambling, incoherent keynote speeches."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 68 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A corporate revolving door spinning rapidly, spitting out three disgraced stickman CEOs in suits (Sculley, Spindler hiding in a cardboard box, and Amelio adjusting his tie) while Apple stock certificates flutter into the street gutter. Handwritten comic label: "THE EXECUTIVE CAROUSEL".
+
+================================================================================
+SCENE 069 / 120 | DOWNLOAD / SAVE AS: scene_069.png
+SCENE LABEL: COPLAND DIES
+VOICEOVER: "Worst of all, Apple's aging operating system was crumbling. Their multi-year project to build a modern replacement—code-named Copland—was a bloated, unfixable disaster."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 69 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A massive Frankenstein monster composed of mismatched computer floppy disks, tangled cables, and error dialogue boxes collapsing under its own weight on an operating table labeled 'COPLAND OS'. Handwritten comic label: "THE DEATH OF COPLAND".
+
+================================================================================
+SCENE 070 / 120 | DOWNLOAD / SAVE AS: scene_070.png
+SCENE LABEL: THE DEATH WATCH
+VOICEOVER: "In 1996, Fortune magazine published a black cover with the Apple logo wrapped in barbed wire and the headline: 'The Fall of an American Icon.' The Wall Street consensus was unanimous: Apple was dead."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 70 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A newsstand displaying magazines with headlines: 'IS APPLE DEAD?', 'THE FALL OF AN AMERICAN ICON', and Wall Street analysts holding tombstones with the Apple logo engraved on them. Handwritten comic label: "THE DEATH WATCH, 1996".
+
+================================================================================
+SCENE 071 / 120 | DOWNLOAD / SAVE AS: scene_071.png
+SCENE LABEL: NINETY DAYS TO DIE
+VOICEOVER: "By late 1996, Apple had less than ninety days of cash left in the bank. They desperately needed an operating system, or they would be forced to liquidate."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 71 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An hourglass where the last few grains of sand are trickling to the bottom. In the background, the silhouette of a bank repossession padlock hangs on the glass doors of Apple headquarters. Handwritten comic label: "90 DAYS TO CASH EXHAUSTION".
+
+================================================================================
+SCENE 072 / 120 | DOWNLOAD / SAVE AS: scene_072.png
+SCENE LABEL: THE SHOPPING SPREE
+VOICEOVER: "Gil Amelio looked at buying BeOS, built by former Apple executive Jean-Louis Gassée. But Gassée got greedy and demanded nearly three hundred million dollars."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 72 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Gil Amelio holding a briefcase of cash, negotiating with an arrogant French executive holding a BeOS CD, who greedily taps his fingers demanding double the price. In the corner, someone whispers Steve Jobs's phone number into Amelio's ear. Handwritten comic label: "THE BEOS GREED".
+
+================================================================================
+SCENE 073 / 120 | DOWNLOAD / SAVE AS: scene_073.png
+SCENE LABEL: THE CALL IN THE NIGHT
+VOICEOVER: "Then, a call was placed to Redwood City. Steve Jobs smelled blood. He arranged a presentation to pit NeXTSTEP against BeOS."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 73 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs standing by a full-length window at NeXT headquarters at night, smiling with sharp, predatory calm into a mobile phone. Outside, a full moon shines over Silicon Valley. Handwritten comic label: "THE PRODIGAL CALL".
+
+================================================================================
+SCENE 074 / 120 | DOWNLOAD / SAVE AS: scene_074.png
+SCENE LABEL: THE TROJAN HORSE
+VOICEOVER: "Jobs arrived at Apple headquarters for the first time in eleven years. He charmed the board with an effortless demonstration of NeXT's rock-solid software architecture."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 74 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs standing calmly in front of the Apple board of directors. On the projector screen behind him, NeXTSTEP displays clean multitasking windows and cinematic graphic rendering. Gil Amelio watches in wide-eyed enchantment. Handwritten comic label: "THE BOARDROOM SEDUCTION".
+
+================================================================================
+SCENE 075 / 120 | DOWNLOAD / SAVE AS: scene_075.png
+SCENE LABEL: THE $429M ACQUISITION
+VOICEOVER: "In December 1996, Apple bought NeXT for four hundred and twenty-nine million dollars. Gil Amelio announced that Steve Jobs would return to Apple as an 'unpaid informal advisor.' Amelio thought he had bought software. He had just invited the wolf through the front door."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 75 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Gil Amelio warmly shaking Steve Jobs's hand at a press conference. But in Jobs's shadow on the wall, he is depicted as a giant black wolf quietly stepping past the palace gates. Handwritten comic label: "THE WOLF AT THE DOOR".
+
+================================================================================
+SCENE 076 / 120 | DOWNLOAD / SAVE AS: scene_076.png
+SCENE LABEL: THE SECOND COUP
+VOICEOVER: "Within six months, Jobs systematically undermined Gil Amelio with the board. In July 1997, the board fired Amelio. Jobs was named interim CEO—or as he called it, the iCEO."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 76 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft watercolor vignette border. Gil Amelio packing his desk into a cardboard box while Steve Jobs sits calmly behind the executive CEO desk, resting his chin on his hands, looking directly out the window. Handwritten comic label: "THE iCEO TAKES COMMAND".
+
+================================================================================
+SCENE 077 / 120 | DOWNLOAD / SAVE AS: scene_077.png
+SCENE LABEL: THE BOSTON SATELLITE
+VOICEOVER: "His first major act caused a riot. At Macworld Boston in August 1997, Jobs walked onto stage and announced that Apple had accepted a one hundred and fifty million dollar investment from their sworn enemy: Bill Gates and Microsoft."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 77 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Macworld Boston 1997: Steve Jobs on stage dwarfed by an enormous twenty-foot video screen showing Bill Gates's face looming like Big Brother via satellite. The entire audience of loyal Mac fans stands booing and gasping. Handwritten comic label: "GATES ON THE GIANT SCREEN".
+
+================================================================================
+SCENE 078 / 120 | DOWNLOAD / SAVE AS: scene_078.png
+SCENE LABEL: THE COLD REALITY
+VOICEOVER: "The crowd booed. Jobs stopped them cold with words that redefined the industry: 'We have to let go of this notion that for Apple to win, Microsoft has to lose. Apple has to execute well.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 78 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs holding up a firm hand to silence the booing crowd, speaking with absolute authority. On stage beside him, a giant check for '$150,000,000' endorsed by Microsoft provides Apple with the oxygen to survive. Handwritten comic label: "FOR APPLE TO WIN, MICROSOFT DOES NOT HAVE TO LOSE".
+
+================================================================================
+SCENE 079 / 120 | DOWNLOAD / SAVE AS: scene_079.png
+SCENE LABEL: THE WHITEBOARD PURGE
+VOICEOVER: "Next came the bloodbath. Jobs marched into a product review meeting, grabbed a marker, and drew a simple two-by-two grid on the whiteboard: Consumer, Pro, Desktop, Portable."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 79 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs standing at a whiteboard with a black dry-erase marker. On the board is a simple 2x2 grid with four boxes: 'DESKTOP', 'PORTABLE', 'CONSUMER', 'PRO'. He points the marker like a weapon at stunned vice presidents. Handwritten comic label: "THE 2x2 PRODUCT MATRIX".
+
+================================================================================
+SCENE 080 / 120 | DOWNLOAD / SAVE AS: scene_080.png
+SCENE LABEL: KILLING SEVENTY PERCENT
+VOICEOVER: "'We are making three thousand different products and they are all junk,' he shouted. He ordered Apple to kill seventy percent of its product line, canceling printers, monitors, and the Newton on the spot, firing thousands of workers."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 80 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A massive red 'CANCELLED' stamp crashing down onto dozens of beige monitors, printers, and PDAs. Engineers carry cardboard boxes out of the building. Clean, ruthless focus returns to the company. Handwritten comic label: "KILLING 70% OF THE PRODUCTS".
+
+================================================================================
+SCENE 081 / 120 | DOWNLOAD / SAVE AS: scene_081.png
+SCENE LABEL: THINK DIFFERENT
+VOICEOVER: "To heal the company's wounded soul, Jobs partnered with advertising agency TBWA\Chiat\Day to create 'Think Different.' It featured black-and-white footage of Einstein, Gandhi, Martin Luther King, and Picasso."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 81 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A minimalist art gallery wall featuring stark black-and-white portraits of Albert Einstein, Mahatma Gandhi, and John Lennon. In the corner sits a tiny, elegant rainbow Apple logo with the words: 'Think different.'. Handwritten comic label: "HERE'S TO THE CRAZY ONES".
+
+================================================================================
+SCENE 082 / 120 | DOWNLOAD / SAVE AS: scene_082.png
+SCENE LABEL: THE CRAZY ONES
+VOICEOVER: "'Here's to the crazy ones. The misfits. The rebels. The round pegs in the square holes. Because the people who are crazy enough to think they can change the world, are the ones who do.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 82 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A round wooden peg standing proudly and defiantly over a grid of rigid square holes. Golden sunlight shines from above. Inspiring, poetic visual metaphor. Handwritten comic label: "ROUND PEGS IN SQUARE HOLES".
+
+================================================================================
+SCENE 083 / 120 | DOWNLOAD / SAVE AS: scene_083.png
+SCENE LABEL: DISCOVERING JONY IVE
+VOICEOVER: "Wandering through Apple's design lab, Jobs discovered a shy British industrial designer named Jony Ive who was on the verge of resigning. Jobs looked at his foam prototypes and saw a soulmate."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 83 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs and a young, shaved-head Jony Ive standing side-by-side in a brightly lit white design studio, examining translucent colorful plastic resin models with intense mutual reverence. Clean studio lighting. Handwritten comic label: "THE SOULMATES: JOBS & IVE".
+
+================================================================================
+SCENE 084 / 120 | DOWNLOAD / SAVE AS: scene_084.png
+SCENE LABEL: THE BONDI BLUE iMAC
+VOICEOVER: "In May 1998, they unveiled the iMac: a teardrop of translucent Bondi Blue plastic with a built-in handle and no floppy disk drive. Wall Street critics laughed and predicted disaster because it abandoned legacy ports."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 84 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The original Bondi Blue translucent iMac glowing on stage under blue spotlights, revealing its internal copper coils and circuitry. Steve Jobs carries it easily by its recessed handle like a friendly lunchbox. Handwritten comic label: "THE BONDI BLUE iMAC (1998)".
+
+================================================================================
+SCENE 085 / 120 | DOWNLOAD / SAVE AS: scene_085.png
+SCENE LABEL: THE BESTSELLER
+VOICEOVER: "It became the fastest-selling personal computer in Apple's history. Apple was profitable again. The bleeding had stopped."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 85 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Long winding lines of colorful consumer stick figures wrapped around city blocks in 1998, carrying turquoise iMac boxes to their cars with happy smiles. Apple financial graph spikes into clean green territory. Handwritten comic label: "PROFITABILITY RESTORED".
+
+================================================================================
+SCENE 086 / 120 | DOWNLOAD / SAVE AS: scene_086.png
+SCENE LABEL: THE RETAIL GAMBLE
+VOICEOVER: "In May 2001, Jobs opened the first Apple Store in Tysons Corner, Virginia. Retail analysts in BusinessWeek declared: 'Apple will turn the lights out on these stores within two years.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 86 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs standing inside the pristine first Apple Store with warm blonde maple wood tables, pure white glowing ceiling panels, and glass walls. Outside, a BusinessWeek newspaper sits on the pavement with the headline: 'SORRY STEVE: RETAIL IS DOOMED'. Handwritten comic label: "THE APPLE STORE: TYSONS CORNER, 2001".
+
+================================================================================
+SCENE 087 / 120 | DOWNLOAD / SAVE AS: scene_087.png
+SCENE LABEL: THE HIGHEST REVENUE ON EARTH
+VOICEOVER: "They were catastrophically wrong. Apple Stores became the most profitable retail square footage in the history of global commerce, outperforming Tiffany & Co. and luxury jewelry brands."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 87 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A busy Apple Store packed with hundreds of smiling stick figures trying out laptops on wooden tables. In the background, a stock chart compares revenue per square foot: Apple towers over Tiffany, Chanel, and Best Buy. Handwritten comic label: "$5,500 PER SQUARE FOOT".
+
+================================================================================
+SCENE 088 / 120 | DOWNLOAD / SAVE AS: scene_088.png
+SCENE LABEL: THE NAPSTER TSUNAMI
+VOICEOVER: "By 2001, the digital music revolution was tearing the record industry to shreds. Napster had unlocked free file-sharing, and consumers were burning pirated MP3s onto CDs."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 88 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A burning vinyl record and shattered compact disc melting under a green digital wave of downloaded MP3 files with pirate skulls. Confused record label executives clutch briefcases in panic. Handwritten comic label: "THE MP3 WILDFIRE".
+
+================================================================================
+SCENE 089 / 120 | DOWNLOAD / SAVE AS: scene_089.png
+SCENE LABEL: THE CLUNKY MP3 PLAYERS
+VOICEOVER: "The existing MP3 players on the market were hideous: clunky plastic bricks that could hold only ten or fifteen songs, with battery lives that lasted barely an hour."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 89 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An ugly, bulky black-and-grey early 2000s MP3 player covered in confusing buttons, with a low battery icon flashing red and an error message reading: 'STORAGE FULL (12 SONGS)'. Minimalist comedic drawing. Handwritten comic label: "THE CRUDE MP3 ERA".
+
+================================================================================
+SCENE 090 / 120 | DOWNLOAD / SAVE AS: scene_090.png
+SCENE LABEL: THE AQUARIUM TEST
+VOICEOVER: "Hardware engineer Tony Fadell and his team brought Jobs an early prototype of what would become the iPod. Jobs weighed it in his hands and said it was too big. The engineers insisted it was physically impossible to make it smaller."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 90 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs in an Apple lab standing next to an office glass aquarium with swimming fish. He drops an iPod prototype into the water; tiny air bubbles float to the surface. Jobs points: 'Those are air bubbles. That means there is empty space. Make it smaller.' Handwritten comic label: "THE AQUARIUM TEST".
+
+================================================================================
+SCENE 091 / 120 | DOWNLOAD / SAVE AS: scene_091.png
+SCENE LABEL: 1,000 SONGS IN YOUR POCKET
+VOICEOVER: "In October 2001, Jobs pulled a tiny white box with a mechanical scroll wheel from his jeans pocket: 'One thousand songs in your pocket.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 91 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs on a small stage in Cupertino pulling the sleek white original iPod out of the tiny coin pocket of his Levi's jeans. The mechanical scroll wheel shines under a spotlight. Handwritten comic label: "1,000 SONGS IN YOUR POCKET (2001)".
+
+================================================================================
+SCENE 092 / 120 | DOWNLOAD / SAVE AS: scene_092.png
+SCENE LABEL: THE WHITE HEADPHONES
+VOICEOVER: "Every other headphone on the market was dark grey or black. Apple made theirs pure white. Suddenly, every person walking down a city street with white earbuds became a walking billboard for Apple."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 92 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A dark silhouette commuter street in New York City where hundreds of stick figures blend into shadow—except for glowing pure white headphone cords trailing from their ears into their coat pockets. Striking visual contrast. Handwritten comic label: "THE WHITE EARBUD VIRAL PHENOMENON".
+
+================================================================================
+SCENE 093 / 120 | DOWNLOAD / SAVE AS: scene_093.png
+SCENE LABEL: THE 99-CENT SAVIOR
+VOICEOVER: "In 2003, Jobs launched the iTunes Music Store, convincing record labels to sell individual songs for ninety-nine cents. It saved the music industry from piracy and made Apple the undisputed gatekeeper of digital media."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 93 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A digital storefront window labeled 'iTUNES: 99 CENTS A SONG'. A musical clef flows out of a digital cash register into a line of eager stick figures holding iPods. Handwritten comic label: "99 CENTS THAT SAVED MUSIC".
+
+================================================================================
+SCENE 094 / 120 | DOWNLOAD / SAVE AS: scene_094.png
+SCENE LABEL: THE THREAT ON THE HORIZON
+VOICEOVER: "By 2005, Apple was selling tens of millions of iPods. But Jobs had a nightmare: mobile phone carriers were beginning to put cameras and crude music players into flip phones. The cell phone was coming to murder the iPod."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 94 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A giant shadow of a Motorola flip phone carrying a scythe creeping across a sunlit field toward a defenseless, glowing white iPod. Steve Jobs watches from a watchtower with binoculars. Dramatic suspense. Handwritten comic label: "THE CANNIBALIZATION NIGHTMARE".
+
+================================================================================
+SCENE 095 / 120 | DOWNLOAD / SAVE AS: scene_095.png
+SCENE LABEL: PROJECT PURPLE
+VOICEOVER: "Instead of waiting to be assassinated, Jobs decided to cannibalize his own most profitable product. He launched a super-secret project codenamed 'Project Purple,' sealing engineers on a locked floor with security badges and surveillance cameras."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 95 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A heavy stainless steel security door in an Apple building with a glowing purple biometric key scanner and a sign: 'PROJECT PURPLE: NO UNAUTHORIZED ENTRY'. Engineers inside work in secret under blue monitor glow. Handwritten comic label: "PROJECT PURPLE: TOP SECRET".
+
+================================================================================
+SCENE 096 / 120 | DOWNLOAD / SAVE AS: scene_096.png
+SCENE LABEL: THE MULTI-TOUCH GAMBLE
+VOICEOVER: "They threw away physical keyboards and plastic styluses. They bet the entire company on a fragile glass screen that could recognize multi-finger gestures through capacitance."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 96 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Close-up on a transparent glass slab. Two stickman fingers pinch together and pull apart, and a digital photograph on the glass fluidly scales up and down with realistic momentum. Clean glowing touch feedback circles. Handwritten comic label: "PINCH TO ZOOM".
+
+================================================================================
+SCENE 097 / 120 | DOWNLOAD / SAVE AS: scene_097.png
+SCENE LABEL: THE GOLDEN KEYNOTE: JAN 9, 2007
+VOICEOVER: "On January 9, 2007, Steve Jobs took the stage at the Moscone Center in San Francisco to deliver what is widely considered the greatest product presentation in history."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 97 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs on stage at Macworld 2007 in front of a giant projection screen displaying three icons: an iPod, a telephone, and an internet globe. The audience sits completely enthralled in darkness. Handwritten comic label: "MOSCONE CENTER: JAN 9, 2007".
+
+================================================================================
+SCENE 098 / 120 | DOWNLOAD / SAVE AS: scene_098.png
+SCENE LABEL: THE TRINITY
+VOICEOVER: "'Today, we are introducing three revolutionary products. A widescreen iPod with touch controls. A revolutionary mobile phone. And a breakthrough internet communicator.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 98 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The three glowing icons rotating rapidly in a circle on the keynote screen, spiraling faster and faster like atomic particles about to fuse. Handwritten comic label: "AN IPOD... A PHONE... AN INTERNET COMMUNICATOR".
+
+================================================================================
+SCENE 099 / 120 | DOWNLOAD / SAVE AS: scene_099.png
+SCENE LABEL: THE FUSION
+VOICEOVER: "'These are not three separate devices,' Jobs smiled as the crowd erupted. 'This is one device. And we are calling it iPhone.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 99 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. The three icons slam together in a flash of blinding white light on the projection screen, coalescing into the pristine silhouette of the original aluminum-and-glass iPhone with its home button. The auditorium erupts in thunderous standing applause. Handwritten comic label: "THIS IS ONE DEVICE: iPHONE".
+
+================================================================================
+SCENE 100 / 120 | DOWNLOAD / SAVE AS: scene_100.png
+SCENE LABEL: THE HELD-BREATH DEMO
+VOICEOVER: "Nobody in the audience knew that the prototype in Jobs's hand was barely functional, taped together with secret Wi-Fi workarounds that would crash if he ran apps in the wrong sequence. It held together for ninety minutes. It changed everything."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 100 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Behind the stage curtain, Apple software engineers hold their breath, gripping each other's shoulders in terror, watching Jobs smoothly swipe from music to safari without the phone crashing into a kernel panic. Sweat drops fly. Handwritten comic label: "THE TIGHTROPE DEMO".
+
+================================================================================
+SCENE 101 / 120 | DOWNLOAD / SAVE AS: scene_101.png
+SCENE LABEL: LINES AROUND THE WORLD
+VOICEOVER: "When the iPhone launched on June 29, 2007, people camped on sidewalks for days. Competitors like BlackBerry and Nokia laughed, pointing out that it had no physical keyboard and cost five hundred dollars."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 101 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft watercolor vignette border. A massive queue of stick figures in sleeping bags and camping chairs wrapping around a flagship glass Apple store. Across the street, an executive in a BlackBerry t-shirt chuckles arrogantly, holding an obsolete keyboard phone. Handwritten comic label: "CAMPING ON FIFTH AVENUE".
+
+================================================================================
+SCENE 102 / 120 | DOWNLOAD / SAVE AS: scene_102.png
+SCENE LABEL: THE EXTINCTION OF GIANTS
+VOICEOVER: "Within five years, BlackBerry lost ninety percent of its market value, Nokia's mobile business was dismantled, and the entire computing landscape belonged to smartphones."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 102 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A prehistoric landscape where giant dinosaur skeletons labeled 'BLACKBERRY', 'NOKIA', and 'PALM' lie half-buried in volcanic dust, while a tiny glowing touchscreen rectangle shines brightly in the foreground. Handwritten comic label: "THE SMARTPHONE METEOR".
+
+================================================================================
+SCENE 103 / 120 | DOWNLOAD / SAVE AS: scene_103.png
+SCENE LABEL: THE APP STORE GOLD RUSH
+VOICEOVER: "In 2008, Apple launched the App Store. Jobs was initially against letting outside developers build apps. But within years, it gave birth to Uber, Instagram, and a trillion-dollar app economy, with Apple collecting a thirty percent toll on every transaction."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 103 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A bustling futuristic digital marketplace with neon stands labeled 'UBER', 'INSTAGRAM', 'TIKTOK', 'GAMES'. At the main entrance gate stands a golden turnstile where Apple collects 30% coins from every passing vendor. Handwritten comic label: "THE 30% APP STORE TOLL".
+
+================================================================================
+SCENE 104 / 120 | DOWNLOAD / SAVE AS: scene_104.png
+SCENE LABEL: THE FINAL MASTERPIECE: iPAD
+VOICEOVER: "In 2010, Jobs introduced the iPad, sitting in a comfortable leather armchair on stage. It was his final new product category. Apple was now the most valuable technology company on earth."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 104 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs sitting peacefully in a vintage black leather Le Corbusier armchair on stage, holding a thin glowing tablet (iPad) like a digital magazine. Warm, gentle lighting. Handwritten comic label: "THE LEATHER ARMCHAIR: iPAD (2010)".
+
+================================================================================
+SCENE 105 / 120 | DOWNLOAD / SAVE AS: scene_105.png
+SCENE LABEL: THE FAILING LIGHT
+VOICEOVER: "Behind the triumphant keynotes, Jobs was losing his private, agonizing battle with pancreatic cancer. He knew his time was running out."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 105 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs walking slowly down an Apple glass hallway at sunset, his silhouette visibly thin and frail in his black turtleneck, casting a long shadow toward the setting California sun. Somber, reverent atmosphere. Handwritten comic label: "RACING AGAINST TIME".
+
+================================================================================
+SCENE 106 / 120 | DOWNLOAD / SAVE AS: scene_106.png
+SCENE LABEL: THE SUCCESSOR
+VOICEOVER: "He summoned his Chief Operating Officer, a quiet, analytical supply-chain genius from Alabama named Tim Cook. Jobs told him: 'Never ask what I would have done. Just do what is right.'"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 106 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Steve Jobs sitting in a home garden in Palo Alto with Tim Cook, resting a hand gently on Cook's arm while speaking quietly under apple trees. Peaceful, poignant mood. Handwritten comic label: "DO WHAT IS RIGHT".
+
+================================================================================
+SCENE 107 / 120 | DOWNLOAD / SAVE AS: scene_107.png
+SCENE LABEL: OCTOBER 5, 2011
+VOICEOVER: "On October 5, 2011, the day after Apple introduced the iPhone 4S and Siri, Steve Jobs passed away at the age of fifty-six. Around the world, people gathered outside Apple stores, placing candles, flowers, and half-eaten apples on the glass."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 107 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Night exterior of a glass Apple cube store surrounded by hundreds of flickering vigil candles, bouquets of flowers, and real apples with bites taken out of them. People mourn quietly with bowed heads under the moonlight. Handwritten comic label: "OCTOBER 5, 2011: CANDLES ON THE GLASS".
+
+================================================================================
+SCENE 108 / 120 | DOWNLOAD / SAVE AS: scene_108.png
+SCENE LABEL: THE SKEPTICS RETURN
+VOICEOVER: "Every tech commentator predicted Apple's immediate demise. Without Steve Jobs's creative genius, they argued, Apple was just an assembly line that would slowly fade into irrelevance."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 108 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Television talk show hosts in news studios with smug expressions pointing at downward prediction charts titled 'APPLE WITHOUT STEVE: THE SLOW DEATH'. Handwritten comic label: "THE DOOMSDAY PREDICTIONS".
+
+================================================================================
+SCENE 109 / 120 | DOWNLOAD / SAVE AS: scene_109.png
+SCENE LABEL: THE INDUSTRIAL LOGISTICS GOD
+VOICEOVER: "They completely misunderstood Tim Cook. Where Jobs was a tempest of artistic intuition, Cook was an industrial god of operational efficiency. He turned Apple's supply chain into a weapon that rivaled nation-states."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 109 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A calm, measured 2D stickman Tim Cook with grey hair and neat glasses, standing before a vast holographic control room monitoring millions of global components, semiconductor wafers, and freight lines moving with nanosecond synchronization. Handwritten comic label: "THE SUPPLY CHAIN ARCHITECT".
+
+================================================================================
+SCENE 110 / 120 | DOWNLOAD / SAVE AS: scene_110.png
+SCENE LABEL: THE SERVICES FORTRESS
+VOICEOVER: "Under Cook, Apple did not need to invent a brand new category every three years. He expanded the ecosystem: Apple Watch, AirPods, Apple Pay, and iCloud services."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 110 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An isometric illustrated web of interconnected hardware and software products: Apple Watch on a wrist, AirPods floating with music notes, Apple Pay tapping a terminal, and iCloud servers glowing in the center like a magnetic force field. Handwritten comic label: "THE ECOSYSTEM WALLED GARDEN".
+
+================================================================================
+SCENE 111 / 120 | DOWNLOAD / SAVE AS: scene_111.png
+SCENE LABEL: THE REVENUE TIDAL WAVE
+VOICEOVER: "AirPods alone generated more annual revenue than Spotify, Twitter, and Snapchat combined. Apple became a compounding cash machine the likes of which Wall Street had never witnessed."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 111 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A single pair of white wireless AirPods resting on an enormous golden vault that out-earns giant neon logos of Spotify, Twitter, and Snapchat stacked beneath it. Minimalist comic infographic. Handwritten comic label: "THE $20B AIRPODS EMPIRE".
+
+================================================================================
+SCENE 112 / 120 | DOWNLOAD / SAVE AS: scene_112.png
+SCENE LABEL: THE FIRST TRILLION
+VOICEOVER: "In August 2018, Apple became the first publicly traded U.S. company in history to reach a market valuation of one trillion dollars."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 112 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A giant glowing banner across the New York Stock Exchange facade reading '$1,000,000,000,000'. Ticker tape falls over Wall Street as traders applaud in awe. Handwritten comic label: "THE FIRST TRILLION (AUG 2018)".
+
+================================================================================
+SCENE 113 / 120 | DOWNLOAD / SAVE AS: scene_113.png
+SCENE LABEL: TWO TRILLION IN THE PANDEMIC
+VOICEOVER: "Just two years later, during the global pandemic of 2020, as the entire world retreated indoors to work, study, and live through screens, Apple crossed two trillion."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 113 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A cityscape at night during lockdown where every apartment window glows in blue monitor light showing stick figures working from home on MacBooks and iPads. Above the city rises a golden numeral '$2T'. Handwritten comic label: "THE PANDEMIC SURGE: $2 TRILLION".
+
+================================================================================
+SCENE 114 / 120 | DOWNLOAD / SAVE AS: scene_114.png
+SCENE LABEL: THE THREE TRILLION SUMMIT
+VOICEOVER: "And by 2023, it touched three trillion dollars—more valuable than the entire stock market of Germany, France, or the United Kingdom."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 114 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A colossal mountain peak touching the stars labeled '$3 TRILLION'. Below in the clouds sit the smaller peaks of major European national stock markets. Clean, majestic storybook illustration. Handwritten comic label: "$3,000,000,000,000".
+
+================================================================================
+SCENE 115 / 120 | DOWNLOAD / SAVE AS: scene_115.png
+SCENE LABEL: THE MORAL COST: FOXCONN
+VOICEOVER: "Yet the fortress carries a heavy ledger. Behind the pristine brushed aluminum and titanium are sprawling mega-factories like Foxconn in Zhengzhou—where hundreds of thousands of workers live in cramped dormitories, assembling millions of circuit boards under grueling twenty-four-hour shifts."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 115 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A sprawling, bleak industrial factory complex under grey smoggy skies at dawn. Endless rows of factory workers in uniforms and hairnets sit along conveyor lines under harsh fluorescent lights, assembling microscopic components with mechanical focus. Handwritten comic label: "THE ASSEMBLY FACTORY CITIES".
+
+================================================================================
+SCENE 116 / 120 | DOWNLOAD / SAVE AS: scene_116.png
+SCENE LABEL: THE WALLED PRISON
+VOICEOVER: "And across the globe, governments and antitrust regulators are circling, accusing Apple of abusing its monopoly power to lock consumers in a gilded cage and squeeze thirty percent from every digital creator."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 116 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. An elegant, beautiful birdcage made of solid polished gold and glass with an Apple logo on top. Inside, smiling consumers use their phones happily, while stern government regulators in suits with legal gavels and magnifying glasses inspect the locked golden door. Handwritten comic label: "THE GILDED CAGE".
+
+================================================================================
+SCENE 117 / 120 | DOWNLOAD / SAVE AS: scene_117.png
+SCENE LABEL: THE VISION PRO FRONTIER
+VOICEOVER: "Today, as Apple ventures into spatial computing with the Vision Pro and battles the artificial intelligence revolution, the company stands at another historic crossroads."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 117 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A futuristic stickman wearing a sleek spatial computing glass headset (Vision Pro), floating glowing digital windows and artificial intelligence neural networks in the air of a darkened room. Mysterious, high-tech mood. Handwritten comic label: "THE SPATIAL HORIZON".
+
+================================================================================
+SCENE 118 / 120 | DOWNLOAD / SAVE AS: scene_118.png
+SCENE LABEL: THE FULL CIRCLE
+VOICEOVER: "No matter how colossal the empire becomes, its DNA is forever tied to that single garage on Crist Drive in Los Altos."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 118 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. A split-screen composition: on the left, the massive multi-billion-dollar circular glass spaceship of Apple Park; on the right, mirroring its circular shape, the modest single-car wooden garage from 1976. Warm poetic light connects both halves. Handwritten comic label: "SPACESHIP AND GARAGE".
+
+================================================================================
+SCENE 119 / 120 | DOWNLOAD / SAVE AS: scene_119.png
+SCENE LABEL: THE TWO DROP-OUTS
+VOICEOVER: "To the two barefoot kids who sold an HP calculator and a Volkswagen bus because they believed that regular human beings deserved to have a computer that felt like a bicycle for the mind."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 119 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Young Steve Jobs and Steve Wozniak in 1976 sitting on the hood of their old VW bus under California eucalyptus trees at sunset, laughing together, holding their first green circuit board up toward the golden horizon. Touching, nostalgic storybook art. Handwritten comic label: "A BICYCLE FOR THE MIND".
+
+================================================================================
+SCENE 120 / 120 | DOWNLOAD / SAVE AS: scene_120.png
+SCENE LABEL: THE COMMUNITY QUESTION
+VOICEOVER: "From a wooden garage in Los Altos to a three-trillion-dollar fortress in your pocket. What was the first Apple device you ever held in your hands? Tell us in the comments below, and subscribe as we build the history of 100 empires, one founder at a time."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram / Flux):
+Scene 120 of The Entire History of Apple: 16:9 widescreen minimalist 2D cartoon webcomic illustration, soft vignette border. Single cohesive 16:9 image split horizontally with central circular (VS) badge. TOP PANEL: Vintage 1980s classroom with kids marveling at an Apple IIe computer. BOTTOM PANEL: Modern subway train where every commuter holds an iPhone, AirPods, or Apple Watch. Large comic speech bubble: 'What was your first Apple product?'. Handwritten comic label: "TELL US IN THE COMMENTS".

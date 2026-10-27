@@ -1,0 +1,239 @@
+Pick up an iPhone tonight, and you are holding the single most profitable consumer object ever conceived in the history of human civilization.
+
+A pocket-sized slab of machined glass and aerospace titanium that generates more raw cash in ninety days than Nike, Coca-Cola, and McDonald's combined in an entire year.
+
+Behind that screen sits a financial fortress valued at over three trillion dollars—a private balance sheet with cash reserves larger than the annual gross domestic product of most European nations.
+
+Its supply chains span six continents, commanding fleets of Boeing cargo jets, millions of factory workers, and satellite networks that alter global trade at the stroke of a pen.
+
+It feels inevitable. It feels like an ancient, untouchable corporate titan that has always ruled the world with cold, flawless precision.
+
+That is the illusion. Because if you rewind fifty years, Apple was not an empire. It was not even a business.
+
+It was two young college dropouts in a drafty suburban garage in Los Altos, California, surrounded by soldering smoke, cardboard boxes, and unpaid bills.
+
+One was Steve Jobs: twenty-one years old, erratic, barefoot, and convinced that eating strictly apples meant he did not need to shower or wear deodorant.
+
+The other was Steve Wozniak: twenty-five years old, a gentle engineering savant who had no interest in money and just wanted to build beautiful circuit boards for his friends.
+
+They had no business plan. They had no investors. Most nights, they scraped together spare change from sofa cushions just to buy tacos for dinner.
+
+This is the entire story of Apple. Not the polished PR keynote version, but the raw, chaotic, near-fatal drama of how a pirate experiment nearly died a dozen times.
+
+A story of betrayed friendships, palace coups, boardroom betrayals, and a twelve-year exile that almost ended in utter bankruptcy.
+
+A company that came within ninety days of going out of business before an arch-rival wrote a check that changed technology forever.
+
+And how one man's fanatical obsession with aesthetics turned silicon chips and plastic into the world's first corporate religion.
+
+To understand how the fortress was built, you have to go back to a prank phone call that almost got them thrown in federal prison.
+
+In the early 1970s, Steve Wozniak figured out that AT&T's long-distance telephone network routed international calls using specific acoustic audio frequencies.
+
+He built an electronic device called the Blue Box that generated the tones for free. One night, Jobs and Wozniak used it to call Vatican City, pretending to be Henry Kissinger wanting to speak to the Pope.
+
+Wozniak treated it as an engineering puzzle. But Jobs saw something else entirely: two kids in a bedroom could control an infrastructure built by a multi-billion-dollar telecom monopoly.
+
+Jobs convinced Wozniak to sell them on college campuses for one hundred and fifty dollars each. It was their first venture, and it taught them that Woz's engineering could be weaponized by Jobs's salesmanship.
+
+By 1975, the personal computer revolution was brewing in Menlo Park at the Homebrew Computer Club—a gathering of scruffy hobbyists who believed computing should belong to the people.
+
+Most members brought clunky metal boxes that communicated only in blinking red lights. Wozniak went home, sat at his desk, and designed something miraculous.
+
+He connected a keyboard and a standard television monitor to a single microprocessor. For the first time in human history, typing on a keyboard instantly made letters appear on a screen.
+
+Wozniak wanted to hand out the schematics for free to everyone at the club. Jobs said absolutely not: we are going to sell it.
+
+To raise the thirteen hundred dollars needed to print printed circuit boards, Wozniak sold his prized HP-65 calculator for five hundred dollars, and Jobs sold his Volkswagen bus for fifteen hundred.
+
+On April Fools' Day, 1976, Apple Computer was officially born. Jobs picked the name because he had just returned from an apple orchard and thought the word sounded friendly and approachable.
+
+Jobs walked barefoot into the Byte Shop in Mountain View, owned by Paul Terrell. Terrell did not want hobbyist kits; he wanted fully assembled computers, and he ordered fifty units on the spot for twenty-five thousand dollars.
+
+They had thirty days to deliver. The Jobs family garage became a sweatshop. Friends, siblings, and pregnant ex-girlfriends were drafted to stuff chips into green circuit boards for a dollar a board.
+
+The Apple I was sold for six hundred and sixty-six dollars and sixty-six cents—because Wozniak liked repeating digits. It was a bare board with no case, no power supply, and no monitor.
+
+It made enough money to fund the next machine. But while Wozniak wanted to build an even faster circuit board, Jobs had a radical realization: regular people do not want to assemble a computer with a screwdriver.
+
+Enter the Apple II: an all-in-one consumer appliance with a sleek beige molded plastic case, built-in color graphics, and a silent power supply that did not require a noisy fan.
+
+Jobs refused to install a cooling fan because he believed the noise distracted the user from contemplation. It was the birth of his lifelong obsession: engineering must bow to design.
+
+When an accountant named Dan Bricklin created VisiCalc—the first electronic spreadsheet—the Apple II transformed from an expensive toy into a mandatory business tool. Sales erupted.
+
+In December 1980, Apple went public. It created over three hundred instant millionaires—more than any IPO since the Ford Motor Company in 1956.
+
+Steve Jobs was twenty-five years old and worth a quarter of a billion dollars. But immense wealth did not make him patient; it made him unbearable.
+
+And lurking just over the horizon was an eighty-billion-dollar giant that was about to wake up from its slumber: IBM.
+
+In December 1979, Steve Jobs visited the Xerox PARC research laboratory in Palo Alto in exchange for allowing Xerox to buy one hundred thousand shares of pre-IPO Apple stock.
+
+When he saw a graphical user interface and a mouse pointing at digital desktop windows, Jobs literally leaped out of his chair shouting: 'Why aren't you doing anything with this? You are sitting on a gold mine!'
+
+Jobs hijacked a struggling internal project called the Macintosh. He declared war on IBM and even on the rest of Apple itself, famously proclaiming: 'It's better to be a pirate than join the navy.'
+
+The Macintosh team worked ninety-hour weeks for three straight years under Jobs's brutal reality distortion field. If an engineer designed a board that worked, Jobs would scream that the internal solder lines looked ugly.
+
+Because artists sign their work, Jobs had the signatures of all forty-seven team members engraved into the inside plastic mold of every single Macintosh case. Nobody would ever see them—except the people who made it.
+
+To manage Apple's explosive growth, Jobs needed an experienced CEO. He targeted John Sculley, the president of Pepsi-Cola, who initially turned him down.
+
+Jobs looked Sculley dead in the eye and delivered the most famous recruiting pitch in business history: 'Do you want to sell sugar water for the rest of your life, or do you want a chance to change the world?'
+
+Sculley accepted. He thought he was coming to Silicon Valley to mentor a young prodigy. He had no idea he was stepping into a cage with a tiger.
+
+In January 1984, Apple aired a sixty-second television commercial during Super Bowl Eighteen, directed by Ridley Scott. It showed a female athlete hurling a sledgehammer through the telescreen of Big Brother.
+
+The commercial never showed the computer. It ended with the voiceover: 'On January 24th, Apple Computer will introduce Macintosh. And you'll see why 1984 won't be like 1984.' It was a cultural earthquake.
+
+Two days later, Jobs walked onto a stage in Cupertino, pulled the Macintosh out of a canvas duffel bag, and turned it on. The computer drew a cursive 'Hello' across its nine-inch screen and spoke using a synthesized voice.
+
+The audience went insane. But behind the curtain, a fatal flaw was looming. Jobs wanted to price it at nineteen hundred dollars. Sculley, terrified by advertising costs, forced the price to twenty-four hundred and ninety-five.
+
+It was too expensive. It had only one hundred and twenty-eight kilobytes of RAM, no hard drive, and quickly overheated because Jobs still refused to include a fan. By late 1984, sales fell off a cliff.
+
+Apple was descending into civil war. The Apple II division, which brought in eighty-five percent of the company's revenue, despised Jobs and his pampered pirate Mac team.
+
+In May 1985, Jobs discovered that John Sculley was planning to strip him of operational power. Jobs decided to strike first: while Sculley was on a scheduled business trip to China, Jobs would stage a boardroom coup.
+
+Someone leaked the plot. Sculley canceled his flight, walked into the board meeting, and laid down an ultimatum: 'It's him or me. You must choose.'
+
+One by one, the board members voted. Every single director—even the ones Jobs thought were his closest allies—sided with John Sculley.
+
+On May 31, 1985, Steve Jobs was stripped of all operational duties. His office was moved to an empty satellite building across the street dubbed 'Siberia.' Nobody visited. Nobody called.
+
+In September 1985, Jobs handed in his formal resignation. He sold all but a single share of his Apple stock—hundreds of millions of dollars—declaring that the company had lost its soul.
+
+He sat in his car in the parking lot and wept. At thirty years old, he had been kicked out of the kingdom he built with his own two hands.
+
+Steve Jobs did not quit. With seven million dollars of his own money, he founded NeXT—determined to build the ultimate workstation for higher education.
+
+Jobs was so obsessed with design that he paid graphic designer Paul Rand one hundred thousand dollars for a single logo and spent millions repainting factory machines in custom shades of grey.
+
+The NeXT computer was an engineering masterpiece running an advanced UNIX operating system called NeXTSTEP. But priced at nearly ten thousand dollars, it was a commercial disaster. Hardly anyone bought it.
+
+Yet in an irony of history, a scientist at CERN named Tim Berners-Lee used a NeXT computer to invent the World Wide Web and host the world's very first website.
+
+Meanwhile, in 1986, George Lucas was getting divorced and needed cash. Jobs bought his small computer graphics division for five million dollars and invested another five million into it. It was called Pixar.
+
+For nearly ten years, Pixar bled money. Jobs wrote personal checks month after month to keep the animation dream alive while John Lasseter and his team animated digital short films.
+
+In November 1995, Pixar released Toy Story. It was the first fully computer-animated feature film in history. One week later, Pixar went public, and Steve Jobs's eighty percent stake was suddenly worth one point two billion dollars.
+
+While Jobs was in the wilderness, Apple was rotting from the inside out.
+
+John Sculley had expanded Apple's product line into a confusing maze of dozens of identical beige boxes: Performa, Quadra, Centris, LC, and the failed Newton handheld.
+
+The Newton was so bad at handwriting recognition that Doonesbury cartoons mocked it daily. If you wrote 'Catching on,' it transcribed 'Egg freckles.'
+
+In August 1995, Microsoft launched Windows 95 with the Rolling Stones singing 'Start Me Up.' Bill Gates had copied the Mac's graphical interface and licensed it to every cheap PC clone manufacturer on earth.
+
+Apple's market share collapsed from sixteen percent down to four percent. The company was losing hundreds of millions of dollars every single quarter.
+
+Apple fired John Sculley. They hired Michael Spindler, who suffered a nervous breakdown and hid under his desk during board meetings. Then they hired Gil Amelio, who was paid millions to give rambling, incoherent keynote speeches.
+
+Worst of all, Apple's aging operating system was crumbling. Their multi-year project to build a modern replacement—code-named Copland—was a bloated, unfixable disaster.
+
+In 1996, Fortune magazine published a black cover with the Apple logo wrapped in barbed wire and the headline: 'The Fall of an American Icon.' The Wall Street consensus was unanimous: Apple was dead.
+
+By late 1996, Apple had less than ninety days of cash left in the bank. They desperately needed an operating system, or they would be forced to liquidate.
+
+Gil Amelio looked at buying BeOS, built by former Apple executive Jean-Louis Gassée. But Gassée got greedy and demanded nearly three hundred million dollars.
+
+Then, a call was placed to Redwood City. Steve Jobs smelled blood. He arranged a presentation to pit NeXTSTEP against BeOS.
+
+Jobs arrived at Apple headquarters for the first time in eleven years. He charmed the board with an effortless demonstration of NeXT's rock-solid software architecture.
+
+In December 1996, Apple bought NeXT for four hundred and twenty-nine million dollars. Gil Amelio announced that Steve Jobs would return to Apple as an 'unpaid informal advisor.' Amelio thought he had bought software. He had just invited the wolf through the front door.
+
+Within six months, Jobs systematically undermined Gil Amelio with the board. In July 1997, the board fired Amelio. Jobs was named interim CEO—or as he called it, the iCEO.
+
+His first major act caused a riot. At Macworld Boston in August 1997, Jobs walked onto stage and announced that Apple had accepted a one hundred and fifty million dollar investment from their sworn enemy: Bill Gates and Microsoft.
+
+The crowd booed. Jobs stopped them cold with words that redefined the industry: 'We have to let go of this notion that for Apple to win, Microsoft has to lose. Apple has to execute well.'
+
+Next came the bloodbath. Jobs marched into a product review meeting, grabbed a marker, and drew a simple two-by-two grid on the whiteboard: Consumer, Pro, Desktop, Portable.
+
+'We are making three thousand different products and they are all junk,' he shouted. He ordered Apple to kill seventy percent of its product line, canceling printers, monitors, and the Newton on the spot, firing thousands of workers.
+
+To heal the company's wounded soul, Jobs partnered with advertising agency TBWA\Chiat\Day to create 'Think Different.' It featured black-and-white footage of Einstein, Gandhi, Martin Luther King, and Picasso.
+
+'Here's to the crazy ones. The misfits. The rebels. The round pegs in the square holes. Because the people who are crazy enough to think they can change the world, are the ones who do.'
+
+Wandering through Apple's design lab, Jobs discovered a shy British industrial designer named Jony Ive who was on the verge of resigning. Jobs looked at his foam prototypes and saw a soulmate.
+
+In May 1998, they unveiled the iMac: a teardrop of translucent Bondi Blue plastic with a built-in handle and no floppy disk drive. Wall Street critics laughed and predicted disaster because it abandoned legacy ports.
+
+It became the fastest-selling personal computer in Apple's history. Apple was profitable again. The bleeding had stopped.
+
+In May 2001, Jobs opened the first Apple Store in Tysons Corner, Virginia. Retail analysts in BusinessWeek declared: 'Apple will turn the lights out on these stores within two years.'
+
+They were catastrophically wrong. Apple Stores became the most profitable retail square footage in the history of global commerce, outperforming Tiffany & Co. and luxury jewelry brands.
+
+By 2001, the digital music revolution was tearing the record industry to shreds. Napster had unlocked free file-sharing, and consumers were burning pirated MP3s onto CDs.
+
+The existing MP3 players on the market were hideous: clunky plastic bricks that could hold only ten or fifteen songs, with battery lives that lasted barely an hour.
+
+Hardware engineer Tony Fadell and his team brought Jobs an early prototype of what would become the iPod. Jobs weighed it in his hands and said it was too big. The engineers insisted it was physically impossible to make it smaller.
+
+In October 2001, Jobs pulled a tiny white box with a mechanical scroll wheel from his jeans pocket: 'One thousand songs in your pocket.'
+
+Every other headphone on the market was dark grey or black. Apple made theirs pure white. Suddenly, every person walking down a city street with white earbuds became a walking billboard for Apple.
+
+In 2003, Jobs launched the iTunes Music Store, convincing record labels to sell individual songs for ninety-nine cents. It saved the music industry from piracy and made Apple the undisputed gatekeeper of digital media.
+
+By 2005, Apple was selling tens of millions of iPods. But Jobs had a nightmare: mobile phone carriers were beginning to put cameras and crude music players into flip phones. The cell phone was coming to murder the iPod.
+
+Instead of waiting to be assassinated, Jobs decided to cannibalize his own most profitable product. He launched a super-secret project codenamed 'Project Purple,' sealing engineers on a locked floor with security badges and surveillance cameras.
+
+They threw away physical keyboards and plastic styluses. They bet the entire company on a fragile glass screen that could recognize multi-finger gestures through capacitance.
+
+On January 9, 2007, Steve Jobs took the stage at the Moscone Center in San Francisco to deliver what is widely considered the greatest product presentation in history.
+
+'Today, we are introducing three revolutionary products. A widescreen iPod with touch controls. A revolutionary mobile phone. And a breakthrough internet communicator.'
+
+'These are not three separate devices,' Jobs smiled as the crowd erupted. 'This is one device. And we are calling it iPhone.'
+
+Nobody in the audience knew that the prototype in Jobs's hand was barely functional, taped together with secret Wi-Fi workarounds that would crash if he ran apps in the wrong sequence. It held together for ninety minutes. It changed everything.
+
+When the iPhone launched on June 29, 2007, people camped on sidewalks for days. Competitors like BlackBerry and Nokia laughed, pointing out that it had no physical keyboard and cost five hundred dollars.
+
+Within five years, BlackBerry lost ninety percent of its market value, Nokia's mobile business was dismantled, and the entire computing landscape belonged to smartphones.
+
+In 2008, Apple launched the App Store. Jobs was initially against letting outside developers build apps. But within years, it gave birth to Uber, Instagram, and a trillion-dollar app economy, with Apple collecting a thirty percent toll on every transaction.
+
+In 2010, Jobs introduced the iPad, sitting in a comfortable leather armchair on stage. It was his final new product category. Apple was now the most valuable technology company on earth.
+
+Behind the triumphant keynotes, Jobs was losing his private, agonizing battle with pancreatic cancer. He knew his time was running out.
+
+He summoned his Chief Operating Officer, a quiet, analytical supply-chain genius from Alabama named Tim Cook. Jobs told him: 'Never ask what I would have done. Just do what is right.'
+
+On October 5, 2011, the day after Apple introduced the iPhone 4S and Siri, Steve Jobs passed away at the age of fifty-six. Around the world, people gathered outside Apple stores, placing candles, flowers, and half-eaten apples on the glass.
+
+Every tech commentator predicted Apple's immediate demise. Without Steve Jobs's creative genius, they argued, Apple was just an assembly line that would slowly fade into irrelevance.
+
+They completely misunderstood Tim Cook. Where Jobs was a tempest of artistic intuition, Cook was an industrial god of operational efficiency. He turned Apple's supply chain into a weapon that rivaled nation-states.
+
+Under Cook, Apple did not need to invent a brand new category every three years. He expanded the ecosystem: Apple Watch, AirPods, Apple Pay, and iCloud services.
+
+AirPods alone generated more annual revenue than Spotify, Twitter, and Snapchat combined. Apple became a compounding cash machine the likes of which Wall Street had never witnessed.
+
+In August 2018, Apple became the first publicly traded U.S. company in history to reach a market valuation of one trillion dollars.
+
+Just two years later, during the global pandemic of 2020, as the entire world retreated indoors to work, study, and live through screens, Apple crossed two trillion.
+
+And by 2023, it touched three trillion dollars—more valuable than the entire stock market of Germany, France, or the United Kingdom.
+
+Yet the fortress carries a heavy ledger. Behind the pristine brushed aluminum and titanium are sprawling mega-factories like Foxconn in Zhengzhou—where hundreds of thousands of workers live in cramped dormitories, assembling millions of circuit boards under grueling twenty-four-hour shifts.
+
+And across the globe, governments and antitrust regulators are circling, accusing Apple of abusing its monopoly power to lock consumers in a gilded cage and squeeze thirty percent from every digital creator.
+
+Today, as Apple ventures into spatial computing with the Vision Pro and battles the artificial intelligence revolution, the company stands at another historic crossroads.
+
+No matter how colossal the empire becomes, its DNA is forever tied to that single garage on Crist Drive in Los Altos.
+
+To the two barefoot kids who sold an HP calculator and a Volkswagen bus because they believed that regular human beings deserved to have a computer that felt like a bicycle for the mind.
+
+From a wooden garage in Los Altos to a three-trillion-dollar fortress in your pocket. What was the first Apple device you ever held in your hands? Tell us in the comments below, and subscribe as we build the history of 100 empires, one founder at a time.

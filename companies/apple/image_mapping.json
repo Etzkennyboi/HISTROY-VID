@@ -1,0 +1,2557 @@
+[
+  {
+    "scene_id": 1,
+    "src_file": "Stickman_holding_glowing_smartphone_20261025033310.jpg",
+    "dst_file": "scene_001.jpg",
+    "label": "\"THE GLOW\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 2,
+    "src_file": "Smartphone_floating_in_center_frame_20261025033310.jpg",
+    "dst_file": "scene_002.jpg",
+    "label": "\"THE ARTIFACT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 3,
+    "src_file": "Exploded_smartphone_architectura\u2026_20261025033310.jpg",
+    "dst_file": "scene_003.jpg",
+    "label": "\"PRECISION\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 4,
+    "src_file": "iPhone_tips_balance_scale_20261025033310.jpg",
+    "dst_file": "scene_004.jpg",
+    "label": "\"THE IPHONE HEAVYWEIGHT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 5,
+    "src_file": "Skyscraper_shaped_like_numeral_t\u2026_20261025033310.jpg",
+    "dst_file": "scene_005.jpg",
+    "label": "\"$3,000,000,000,000\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 6,
+    "src_file": "Apple_silhouette_overshadows_wor\u2026_20261025033310.jpg",
+    "dst_file": "scene_006.jpg",
+    "label": "\"ECONOMIC WEIGHT\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 7,
+    "src_file": "Bank_vault_spilling_cash_20261025033310.jpg",
+    "dst_file": "scene_007.jpg",
+    "label": "\"LIQUID FORTRESS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 8,
+    "src_file": "Global_map_connecting_cargo_ships_20261025033310.jpg",
+    "dst_file": "scene_008.jpg",
+    "label": "\"THE WEB\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 9,
+    "src_file": "Desk_lamps_hopping_across_floor_20261025033310.jpg",
+    "dst_file": "scene_009.jpg",
+    "label": "\"ONE BILLION POCKETS\"",
+    "score": 0.2
+  },
+  {
+    "scene_id": 10,
+    "src_file": "Stick_figures_paying_toll_20261025033310.jpg",
+    "dst_file": "scene_010.jpg",
+    "label": "\"THE DAILY TOLL\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 11,
+    "src_file": "Human_silhouette_with_circuit_board_20261025033310.jpg",
+    "dst_file": "scene_011.jpg",
+    "label": "\"THE CIVIL ENGINE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 12,
+    "src_file": "Man_standing_in_cartoon_style_20261025033310.jpg",
+    "dst_file": "scene_012.jpg",
+    "label": "\"THE TEMPLE\"",
+    "score": 0.25
+  },
+  {
+    "scene_id": 13,
+    "src_file": "Opening_white_box_20261025033310.jpg",
+    "dst_file": "scene_013.jpg",
+    "label": "\"THE RITUAL\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 14,
+    "src_file": "Stickman_looking_in_mirror_20261025033310.jpg",
+    "dst_file": "scene_014.jpg",
+    "label": "\"THE MIRROR\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 15,
+    "src_file": "Stickman_holding_glowing_laptop_20261025033310.jpg",
+    "dst_file": "scene_015.jpg",
+    "label": "\"THINK DIFFERENT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 16,
+    "src_file": "Logo_floating_from_top_hat_20261025033310.jpg",
+    "dst_file": "scene_016.jpg",
+    "label": "\"THE PRESTIGE\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 17,
+    "src_file": "Apple_Park_campus_aerial_view_20261025033310.jpg",
+    "dst_file": "scene_017.jpg",
+    "label": "\"THE SPACESHIP (TODAY)\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 18,
+    "src_file": "Stick_figures_viewing_empty_budget_20261025033310.jpg",
+    "dst_file": "scene_018.jpg",
+    "label": "\"YEAR ZERO\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 19,
+    "src_file": "Two_figures_standing_in_driveway_20261025033310.jpg",
+    "dst_file": "scene_019.jpg",
+    "label": "\"11161 CRIST DRIVE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 20,
+    "src_file": "Stickmen_sitting_in_messy_garage_20261025033310.jpg",
+    "dst_file": "scene_020.jpg",
+    "label": "\"THE OUTSIDERS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 21,
+    "src_file": "Man_soldering_wires_at_desk_20261025033310.jpg",
+    "dst_file": "scene_021.jpg",
+    "label": "\"THE WIZARD (WOZ)\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 22,
+    "src_file": "Man_pacing_with_apple_core_20261025033310.jpg",
+    "dst_file": "scene_022.jpg",
+    "label": "\"THE PROPHET (JOBS)\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 23,
+    "src_file": "Figures_negotiating_price_20261025033310.jpg",
+    "dst_file": "scene_023.jpg",
+    "label": "\"CIRCUITS & WILL\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 24,
+    "src_file": "Circuit_board_emits_shockwaves_20261025033310.jpg",
+    "dst_file": "scene_024.jpg",
+    "label": "\"THE SEED\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 25,
+    "src_file": "Stickmen_standing_with_floor_fis\u2026_20261025033310.jpg",
+    "dst_file": "scene_025.jpg",
+    "label": "\"THE RIFT\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 26,
+    "src_file": "Stickman_carrying_box_in_rain_20261025033310.jpg",
+    "dst_file": "scene_026.jpg",
+    "label": "\"THE EXILE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 27,
+    "src_file": "Spotlight_illuminates_stool_and_\u2026_20261025033310.jpg",
+    "dst_file": "scene_027.jpg",
+    "label": "\"THE COMEBACK\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 28,
+    "src_file": "Executives_fighting_behind_corpo\u2026_20261025033310.jpg",
+    "dst_file": "scene_028.jpg",
+    "label": "\"BEHIND THE CURTAIN\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 29,
+    "src_file": "Clock_flipping_numbers_backward_20261025033310.jpg",
+    "dst_file": "scene_029.jpg",
+    "label": "\"REWIND: 1975\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 30,
+    "src_file": "Figures_viewing_closed_computer_\u2026_20261025033310.jpg",
+    "dst_file": "scene_030.jpg",
+    "label": "\"THE BEHEMOTHS\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 31,
+    "src_file": "Guards_in_military_command_room_20261025033310.jpg",
+    "dst_file": "scene_031.jpg",
+    "label": "\"THE PRIESTHOOD\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 32,
+    "src_file": "Stickmen_holding_punch_cards_20261025033310.jpg",
+    "dst_file": "scene_032.jpg",
+    "label": "\"THE PUNCH CARDS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 33,
+    "src_file": "Computer_monitor_shadow_looming_\u2026_20261025033310.jpg",
+    "dst_file": "scene_033.jpg",
+    "label": "\"THE SYSTEM\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 34,
+    "src_file": "Parents_looking_at_typewriter_te\u2026_20261025033310.jpg",
+    "dst_file": "scene_034.jpg",
+    "label": "\"WHY WOULD YOU WANT ONE?\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 35,
+    "src_file": "Executive_wagging_finger_dismiss\u2026_20261025033310.jpg",
+    "dst_file": "scene_035.jpg",
+    "label": "\"THE EXPERT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 36,
+    "src_file": "Comic_dialogue_bubble_in_room_20261025033310.jpg",
+    "dst_file": "scene_036.jpg",
+    "label": "\"FAMOUS LAST WORDS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 37,
+    "src_file": "Stick_figures_at_garage_workbench_20261025033310.jpg",
+    "dst_file": "scene_037.jpg",
+    "label": "\"THE COUNTER-CULTURE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 38,
+    "src_file": "Stickmen_arguing_in_crowded_garage_20261025033310.jpg",
+    "dst_file": "scene_038.jpg",
+    "label": "\"HOMEBREW COMPUTER CLUB\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 39,
+    "src_file": "Four_stickmen_sitting_around_table_20261025033310.jpg",
+    "dst_file": "scene_039.jpg",
+    "label": "\"THE REBELS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 40,
+    "src_file": "Stickman_raising_soldering_iron_20261025033310.jpg",
+    "dst_file": "scene_040.jpg",
+    "label": "\"POWER TO THE PEOPLE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 41,
+    "src_file": "Person_sitting_with_blue_notebook_20261025033310.jpg",
+    "dst_file": "scene_041.jpg",
+    "label": "\"THE QUIET GENIUS\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 42,
+    "src_file": "Stickman_building_electronic_game_20261025033310.jpg",
+    "dst_file": "scene_042.jpg",
+    "label": "\"PURE HOBBY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 43,
+    "src_file": "Stick_figures_organizing_circuit\u2026_20261025033310.jpg",
+    "dst_file": "scene_043.jpg",
+    "label": "\"ELEGANCE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 44,
+    "src_file": "Person_looking_at_television_screen_20261025033310.jpg",
+    "dst_file": "scene_044.jpg",
+    "label": "\"THE BREAKTHROUGH\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 45,
+    "src_file": "Keyboard_connecting_to_small_cir\u2026_20261025033310.jpg",
+    "dst_file": "scene_045.jpg",
+    "label": "\"THE HOOKUP\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 46,
+    "src_file": "Man_typing_on_keyboard_20261025033310.jpg",
+    "dst_file": "scene_046.jpg",
+    "label": "\"FIRST STROKES\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 47,
+    "src_file": "Wozniak_gasping_at_screen_20261025033310.jpg",
+    "dst_file": "scene_047.jpg",
+    "label": "\"IT SPEAKS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 48,
+    "src_file": "Trash_can_overflowing_with_paper_20261025033310.jpg",
+    "dst_file": "scene_048.jpg",
+    "label": "\"THE OLD WAY DIES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 49,
+    "src_file": "Stickman_tapping_keyboard_20261025033310.jpg",
+    "dst_file": "scene_049.jpg",
+    "label": "\"INSTANT RESPONSE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 50,
+    "src_file": "Man_sharing_paper_schematics_20261025033310.jpg",
+    "dst_file": "scene_050.jpg",
+    "label": "\"THE OPEN HAND\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 51,
+    "src_file": "Stickman_miner_chipping_mineral_\u2026_20261025033310.jpg",
+    "dst_file": "scene_051.jpg",
+    "label": "\"RAW COBALT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 52,
+    "src_file": "Cargo_freighter_cutting_ocean_waves_20261025033310.jpg",
+    "dst_file": "scene_052.jpg",
+    "label": "\"THE VOYAGE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 53,
+    "src_file": "Battery_placed_into_phone_chassis_20261025033310.jpg",
+    "dst_file": "scene_053.jpg",
+    "label": "\"SEALED POWER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 54,
+    "src_file": "Stickman_touching_iPhone_screen_20261025033310.jpg",
+    "dst_file": "scene_054.jpg",
+    "label": "\"COOL GLASS\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 55,
+    "src_file": "Scientists_analyzing_smartphone_\u2026_20261025033310.jpg",
+    "dst_file": "scene_055.jpg",
+    "label": "\"THE DOPAMINE TRIGGER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 56,
+    "src_file": "Glowing_musical_note_floating_20261025033310.jpg",
+    "dst_file": "scene_056.jpg",
+    "label": "\"MARIMBA CHIME\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 57,
+    "src_file": "Young_men_tinkering_with_electro\u2026_20261025033310.jpg",
+    "dst_file": "scene_057.jpg",
+    "label": "\"THE BLUE BOX HACKERS\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 58,
+    "src_file": "Cereal_box_spilling_yellow_whistle_20261025033310.jpg",
+    "dst_file": "scene_058.jpg",
+    "label": "\"2600 HERTZ\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 59,
+    "src_file": "Fooling_the_switches_cartoon_dia\u2026_20261025033310.jpg",
+    "dst_file": "scene_059.jpg",
+    "label": "\"FOOLING THE SWITCHES\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 60,
+    "src_file": "Man_calling_the_pope_20261025033310.jpg",
+    "dst_file": "scene_060.jpg",
+    "label": "\"CALLING THE POPE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 61,
+    "src_file": "Comparing_circuit_board_designs_20261025033310.jpg",
+    "dst_file": "scene_061.jpg",
+    "label": "\"THE REALIZATION\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 62,
+    "src_file": "Jobs_burning_fingers_with_iron_20261025033310.jpg",
+    "dst_file": "scene_062.jpg",
+    "label": "\"NOT AN ENGINEER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 63,
+    "src_file": "Lightbulb_illuminating_brain_20261025033310.jpg",
+    "dst_file": "scene_063.jpg",
+    "label": "\"SEEING THE FUTURE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 64,
+    "src_file": "Men_pointing_at_workbench_20261025033310.jpg",
+    "dst_file": "scene_064.jpg",
+    "label": "\"THE PITCH\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 65,
+    "src_file": "Man_holding_empty_wallet_20261025033310.jpg",
+    "dst_file": "scene_065.jpg",
+    "label": "\"THE DOUBT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 66,
+    "src_file": "Person_opening_arms_with_confidence_20261025033310.jpg",
+    "dst_file": "scene_066.jpg",
+    "label": "\"FOR ONCE IN OUR LIVES\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 67,
+    "src_file": "Man_handing_van_keys_20261025033310.jpg",
+    "dst_file": "scene_067.jpg",
+    "label": "\"SOLD: THE BUS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 68,
+    "src_file": "Person_selling_calculator_for_cash_20261025033310.jpg",
+    "dst_file": "scene_068.jpg",
+    "label": "\"SOLD: THE CALCULATOR\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 69,
+    "src_file": "Seed_capital_on_table_20261025033310.jpg",
+    "dst_file": "scene_069.jpg",
+    "label": "\"SEED CAPITAL: $1,300\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 70,
+    "src_file": "Car_driving_through_apple_orchard_20261025033310.jpg",
+    "dst_file": "scene_070.jpg",
+    "label": "\"THE COMMUNE ROAD\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 71,
+    "src_file": "Two_men_driving_car_20261025033310.jpg",
+    "dst_file": "scene_071.jpg",
+    "label": "\"APPLE COMPUTER?\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 72,
+    "src_file": "Phone_book_listing_Apple_Computer_20261025033310.jpg",
+    "dst_file": "scene_072.jpg",
+    "label": "\"PAGE ONE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 73,
+    "src_file": "Founders_signing_partnership_agr\u2026_20261025033310.jpg",
+    "dst_file": "scene_073.jpg",
+    "label": "\"APRIL FOOLS' DAY, 1976\"",
+    "score": 0.25
+  },
+  {
+    "scene_id": 74,
+    "src_file": "Stickman_signing_exit_form_20261025033310.jpg",
+    "dst_file": "scene_074.jpg",
+    "label": "\"THE EXIT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 75,
+    "src_file": "Man_counting_cash_20261025033310.jpg",
+    "dst_file": "scene_075.jpg",
+    "label": "\"CASHED OUT FOR $800\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 76,
+    "src_file": "Stickman_looking_at_gold_skyscraper_20261025033310.jpg",
+    "dst_file": "scene_076.jpg",
+    "label": "\"THE $300B REGRET\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 77,
+    "src_file": "Man_entering_electronics_storefront_20261025033310.jpg",
+    "dst_file": "scene_077.jpg",
+    "label": "\"THE BYTE SHOP\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 78,
+    "src_file": "Store_owner_writing_purchase_order_20261025033310.jpg",
+    "dst_file": "scene_078.jpg",
+    "label": "\"THE 50-UNIT ORDER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 79,
+    "src_file": "Purchase_order_for_assembled_boards_20261025033310.jpg",
+    "dst_file": "scene_079.jpg",
+    "label": "\"$25,000 CONTRACT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 80,
+    "src_file": "Men_staring_at_signed_paper_20261025033310.jpg",
+    "dst_file": "scene_080.jpg",
+    "label": "\"THE JACKPOT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 81,
+    "src_file": "People_working_in_garage_20261025033310.jpg",
+    "dst_file": "scene_081.jpg",
+    "label": "\"THE FACTORY IN THE GARAGE\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 82,
+    "src_file": "Girl_soldering_circuit_boards_20261025033310.jpg",
+    "dst_file": "scene_082.jpg",
+    "label": "\"$1 PER BOARD\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 83,
+    "src_file": "Circuit_boards_packed_in_boxes_20261025033310.jpg",
+    "dst_file": "scene_083.jpg",
+    "label": "\"MISSION COMPLETE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 84,
+    "src_file": "Wozniak_laughing_at_price_card_20261025033310.jpg",
+    "dst_file": "scene_084.jpg",
+    "label": "\"$666.66\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 85,
+    "src_file": "Wozniak_tapping_adding_machine_20261025033310.jpg",
+    "dst_file": "scene_085.jpg",
+    "label": "\"REPEATING DIGITS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 86,
+    "src_file": "Man_tossing_circuit_board_desk_20261025033310.jpg",
+    "dst_file": "scene_086.jpg",
+    "label": "\"NOT GOOD ENOUGH\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 87,
+    "src_file": "Raw_wires_sprawled_on_floor_20261025033310.jpg",
+    "dst_file": "scene_087.jpg",
+    "label": "\"RAW WIRES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 88,
+    "src_file": "Mother_and_son_viewing_appliance_20261025033310.jpg",
+    "dst_file": "scene_088.jpg",
+    "label": "\"THE CONSUMER\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 89,
+    "src_file": "Characters_discussing_toaster_an\u2026_20261025033310.jpg",
+    "dst_file": "scene_089.jpg",
+    "label": "\"LIKE A TOASTER\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 90,
+    "src_file": "Man_drawing_circuitry_at_desk_20261025033310.jpg",
+    "dst_file": "scene_090.jpg",
+    "label": "\"THE MASTERPIECE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 91,
+    "src_file": "Computer_displaying_color_and_sound_20261025033310.jpg",
+    "dst_file": "scene_091.jpg",
+    "label": "\"COLOR & SOUND\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 92,
+    "src_file": "Man_smiling_at_plastic_casing_20261025033310.jpg",
+    "dst_file": "scene_092.jpg",
+    "label": "\"SILENT & SMOOTH\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 93,
+    "src_file": "Man_rejecting_beige_plastic_swat\u2026_20261025033310.jpg",
+    "dst_file": "scene_093.jpg",
+    "label": "\"THE EXACT BEIGE\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 94,
+    "src_file": "Man_stepping_out_of_car_20261025033310.jpg",
+    "dst_file": "scene_094.jpg",
+    "label": "\"THE ANGEL (MARKKULA)\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 95,
+    "src_file": "Markkula_looking_at_Woz's_demo_20261025033310.jpg",
+    "dst_file": "scene_095.jpg",
+    "label": "\"SPOTTING GENIUS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 96,
+    "src_file": "Markkula_shaking_hands_with_Jobs_20261025033310.jpg",
+    "dst_file": "scene_096.jpg",
+    "label": "\"THE $250K LIFEBLOOD\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 97,
+    "src_file": "People_at_computer_convention_20261025033310.jpg",
+    "dst_file": "scene_097.jpg",
+    "label": "\"WEST COAST COMPUTER FAIRE\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 98,
+    "src_file": "Competitor_cabinet_beside_Apple_\u2026_20261025033310.jpg",
+    "dst_file": "scene_098.jpg",
+    "label": "\"FUTURE ARRIVES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 99,
+    "src_file": "Truck_unloading_mail_into_office_20261025033310.jpg",
+    "dst_file": "scene_099.jpg",
+    "label": "\"THE AVALANCHE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 100,
+    "src_file": "Finger_taps_calculating_financia\u2026_20261025033310.jpg",
+    "dst_file": "scene_100.jpg",
+    "label": "\"VISICALC: THE SPREADSHEET\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 101,
+    "src_file": "Executive_calculating_budget_on_\u2026_20261025033310.jpg",
+    "dst_file": "scene_101.jpg",
+    "label": "\"THE KILLER APP\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 102,
+    "src_file": "Hourglass_flipping_and_dissolvin\u2026_20261025033310.jpg",
+    "dst_file": "scene_102.jpg",
+    "label": "\"20 SECONDS VS 20 HOURS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 103,
+    "src_file": "Bar_chart_growing_rapidly_20261025033310.jpg",
+    "dst_file": "scene_103.jpg",
+    "label": "\"THE ROCKET SHIP\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 104,
+    "src_file": "Traders_trading_at_stock_exchange_20261025033310.jpg",
+    "dst_file": "scene_104.jpg",
+    "label": "\"DECEMBER 12, 1980: IPO\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 105,
+    "src_file": "Apple_IPO_shatters_records_20261025033310.jpg",
+    "dst_file": "scene_105.jpg",
+    "label": "\"HISTORIC OFFERING\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 106,
+    "src_file": "Stickmen_cheering_in_parking_lot_20261025033310.jpg",
+    "dst_file": "scene_106.jpg",
+    "label": "\"300 NEW MILLIONAIRES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 107,
+    "src_file": "Man_standing_on_terrace_overlook\u2026_20261025033310.jpg",
+    "dst_file": "scene_107.jpg",
+    "label": "\"WORTH $256,000,000 AT 25\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 108,
+    "src_file": "Man_on_magazine_cover_sketch_20261025033310.jpg",
+    "dst_file": "scene_108.jpg",
+    "label": "\"TIME MAGAZINE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 109,
+    "src_file": "Man_holding_apple_20261025033310.jpg",
+    "dst_file": "scene_109.jpg",
+    "label": "\"THE BOY KING\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 110,
+    "src_file": "Crack_running_through_apple_logo_20261025033310.jpg",
+    "dst_file": "scene_110.jpg",
+    "label": "\"HUBRIS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 111,
+    "src_file": "Artist_sketching_apple_silhouettes_20261025033310.jpg",
+    "dst_file": "scene_111.jpg",
+    "label": "\"ROB JANOFF SKETCHES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 112,
+    "src_file": "Fruit_silhouette_transforming_in\u2026_20261025033310.jpg",
+    "dst_file": "scene_112.jpg",
+    "label": "\"NOT A CHERRY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 113,
+    "src_file": "Stick_figures_viewing_rainbow_logo_20261025033310.jpg",
+    "dst_file": "scene_113.jpg",
+    "label": "\"THE RAINBOW LOGO\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 114,
+    "src_file": "Man_driving_up_rainy_hill_20261025033310.jpg",
+    "dst_file": "scene_114.jpg",
+    "label": "\"XEROX PARC (DEC 1979)\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 115,
+    "src_file": "Scientists_playing_with_computer\u2026_20261025033310.jpg",
+    "dst_file": "scene_115.jpg",
+    "label": "\"THE PLAYGROUND OF GENIUSES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 116,
+    "src_file": "Executive_stamping_agreement_gra\u2026_20261025033310.jpg",
+    "dst_file": "scene_116.jpg",
+    "label": "\"THE SECRET VISIT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 117,
+    "src_file": "Stick_figures_viewing_treasure_c\u2026_20261025033310.jpg",
+    "dst_file": "scene_117.jpg",
+    "label": "\"THE THREE TREASURES\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 118,
+    "src_file": "Man_leaning_toward_screen_20261025033310.jpg",
+    "dst_file": "scene_118.jpg",
+    "label": "\"BLINDED BY THE SCREEN\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 119,
+    "src_file": "Xerox_mechanical_mouse_rolling_20261025033310.jpg",
+    "dst_file": "scene_119.jpg",
+    "label": "\"THE CRUDE MOUSE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 120,
+    "src_file": "Man_waving_in_conference_room_20261025033310.jpg",
+    "dst_file": "scene_120.jpg",
+    "label": "\"WHY AREN'T YOU USING THIS?\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 121,
+    "src_file": "Executives_ignore_gold_mountain_20261025033310.jpg",
+    "dst_file": "scene_121.jpg",
+    "label": "\"SITTING ON A GOLD MINE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 122,
+    "src_file": "Executive_discarding_blueprint_f\u2026_20261025033310.jpg",
+    "dst_file": "scene_122.jpg",
+    "label": "\"BLIND COPIER TYCOONS\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 123,
+    "src_file": "Leader_slamming_fist_on_table_20261025033310.jpg",
+    "dst_file": "scene_123.jpg",
+    "label": "\"THE $15 MOUSE CHALLENGE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 124,
+    "src_file": "Deodorant_bottle_beside_mouse_pr\u2026_20261025033310.jpg",
+    "dst_file": "scene_124.jpg",
+    "label": "\"THE DEODORANT BALL HACK\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 125,
+    "src_file": "Steve_Jobs_dipping_calligraphy_nib_20261025033310.jpg",
+    "dst_file": "scene_125.jpg",
+    "label": "\"CALLIGRAPHY AT REED\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 126,
+    "src_file": "Calligraphy_flowing_across_parch\u2026_20261025033310.jpg",
+    "dst_file": "scene_126.jpg",
+    "label": "\"THE BEAUTY OF LETTERS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 127,
+    "src_file": "Font_menu_dropping_down_20261025033310.jpg",
+    "dst_file": "scene_127.jpg",
+    "label": "\"PROPORTIONAL FONTS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 128,
+    "src_file": "Comparing_calligraphy_nib_and_font_20261025033310.jpg",
+    "dst_file": "scene_128.jpg",
+    "label": "\"CONNECTING THE DOTS\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 129,
+    "src_file": "Man_walking_down_hallway_20261025033310.jpg",
+    "dst_file": "scene_129.jpg",
+    "label": "\"INFALLIBLE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 130,
+    "src_file": "Computer_on_pedestal_20261025033310.jpg",
+    "dst_file": "scene_130.jpg",
+    "label": "\"THE LISA\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 131,
+    "src_file": "Lightning_bolts_zapping_customer_20261025033310.jpg",
+    "dst_file": "scene_131.jpg",
+    "label": "\"$10,000 MISTAKE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 132,
+    "src_file": "Money_pile_reaching_ceiling_20261025033310.jpg",
+    "dst_file": "scene_132.jpg",
+    "label": "\"LUXURY SHIPWRECK\"",
+    "score": 0.25
+  },
+  {
+    "scene_id": 133,
+    "src_file": "Bulldozer_pushing_computers_into\u2026_20261025033310.jpg",
+    "dst_file": "scene_133.jpg",
+    "label": "\"BURIED IN UTAH\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 134,
+    "src_file": "Man_locked_out_of_boardroom_20261025033310.jpg",
+    "dst_file": "scene_134.jpg",
+    "label": "\"LOCKED OUT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 135,
+    "src_file": "Jobs_walking_down_corridor_20261025033310.jpg",
+    "dst_file": "scene_135.jpg",
+    "label": "\"BANDLEY 3\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 136,
+    "src_file": "Man_unfurling_pirate_flag_20261025033310.jpg",
+    "dst_file": "scene_136.jpg",
+    "label": "\"THE PIRATE FLAG\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 137,
+    "src_file": "Pirate_flag_fluttering_on_roof_20261025033310.jpg",
+    "dst_file": "scene_137.jpg",
+    "label": "\"BETTER TO BE A PIRATE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 138,
+    "src_file": "Man_addressing_exhausted_engineers_20261025033310.jpg",
+    "dst_file": "scene_138.jpg",
+    "label": "\"THE CREW\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 139,
+    "src_file": "Engineers_sleeping_under_desks_20261025033310.jpg",
+    "dst_file": "scene_139.jpg",
+    "label": "\"90 HOURS A WEEK\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 140,
+    "src_file": "Man_yelling_at_engineer_20261025033310.jpg",
+    "dst_file": "scene_140.jpg",
+    "label": "\"THE REALITY DISTORTION FIELD\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 141,
+    "src_file": "Man_presenting_idea_on_whiteboard_20261025033310.jpg",
+    "dst_file": "scene_141.jpg",
+    "label": "\"STOLEN GENIUS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 142,
+    "src_file": "Engineers_viewing_digital_drawin\u2026_20261025033310.jpg",
+    "dst_file": "scene_142.jpg",
+    "label": "\"THE IMPOSSIBLE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 143,
+    "src_file": "Jobs_reviewing_storyboards_in_sc\u2026_20261025033310.jpg",
+    "dst_file": "scene_143.jpg",
+    "label": "\"THE SUPER BOWL MISSION\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 144,
+    "src_file": "Ridley_Scott_pointing_movie_camera_20261025033310.jpg",
+    "dst_file": "scene_144.jpg",
+    "label": "\"RIDLEY SCOTT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 145,
+    "src_file": "Robotic_workers_marching_in_amph\u2026_20261025033310.jpg",
+    "dst_file": "scene_145.jpg",
+    "label": "\"THE ORWELLIAN CROWD\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 146,
+    "src_file": "Face_projecting_propaganda_on_wall_20261025033310.jpg",
+    "dst_file": "scene_146.jpg",
+    "label": "\"BIG BROTHER (IBM)\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 147,
+    "src_file": "Stickman_woman_running_down_aisle_20261025033310.jpg",
+    "dst_file": "scene_147.jpg",
+    "label": "\"THE RUNNER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 148,
+    "src_file": "Sledgehammer_smashing_glass_face_20261025033310.jpg",
+    "dst_file": "scene_148.jpg",
+    "label": "\"THE SMASH\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 149,
+    "src_file": "Apple_introduces_Macintosh_computer_20261025033310.jpg",
+    "dst_file": "scene_149.jpg",
+    "label": "\"1984 WILL NOT BE LIKE 1984\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 150,
+    "src_file": "Board_members_rejecting_proposal_20261025033310.jpg",
+    "dst_file": "scene_150.jpg",
+    "label": "\"THE BOARD REJECTS\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 151,
+    "src_file": "Man_writing_personal_check_20261025033310.jpg",
+    "dst_file": "scene_151.jpg",
+    "label": "\"WOZ'S CHEQUE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 152,
+    "src_file": "Family_watching_television_20261025033310.jpg",
+    "dst_file": "scene_152.jpg",
+    "label": "\"96 MILLION STUNNED\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 153,
+    "src_file": "News_anchors_replaying_commercial_20261025033310.jpg",
+    "dst_file": "scene_153.jpg",
+    "label": "\"ADVERTISING CHANGED FOREVER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 154,
+    "src_file": "Crowd_cheering_at_Flint_Center_20261025033310.jpg",
+    "dst_file": "scene_154.jpg",
+    "label": "\"FLINT CENTER, JAN 24, 1984\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 155,
+    "src_file": "Man_unveiling_machine_on_stage_20261025033310.jpg",
+    "dst_file": "scene_155.jpg",
+    "label": "\"THE UNVEILING\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 156,
+    "src_file": "Person_inserting_floppy_disk_int\u2026_20261025033310.jpg",
+    "dst_file": "scene_156.jpg",
+    "label": "\"THE FLOPPY DISK\"",
+    "score": 0.4
+  },
+  {
+    "scene_id": 157,
+    "src_file": "Macintosh_drawing_hello_script_20261025033310.jpg",
+    "dst_file": "scene_157.jpg",
+    "label": "\"HELLO\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 158,
+    "src_file": "Computer_talking_to_audience_20261025033310.jpg",
+    "dst_file": "scene_158.jpg",
+    "label": "\"IT TALKS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 159,
+    "src_file": "Audience_cheering_with_flying_pa\u2026_20261025033310.jpg",
+    "dst_file": "scene_159.jpg",
+    "label": "\"PANDEMONIUM\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 160,
+    "src_file": "Hand_moving_desktop_mouse_20261025033310.jpg",
+    "dst_file": "scene_160.jpg",
+    "label": "\"THE GUI IS BORN\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 161,
+    "src_file": "Devices_sharing_same_desktop_met\u2026_20261025033310.jpg",
+    "dst_file": "scene_161.jpg",
+    "label": "\"THE ANCESTOR\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 162,
+    "src_file": "Rain_streaking_empty_office_floor_20261025033310.jpg",
+    "dst_file": "scene_162.jpg",
+    "label": "\"THE HANGOVER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 163,
+    "src_file": "Engine_puffing_smoke_inside_comp\u2026_20261025033310.jpg",
+    "dst_file": "scene_163.jpg",
+    "label": "\"128K OF RAM\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 164,
+    "src_file": "Computer_overheating_with_no_fan_20261025033310.jpg",
+    "dst_file": "scene_164.jpg",
+    "label": "\"NO FAN, OVERHEATING\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 165,
+    "src_file": "Stickman_ejecting_floppy_disks_20261025033310.jpg",
+    "dst_file": "scene_165.jpg",
+    "label": "\"THE DISK SWAP DANCE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 166,
+    "src_file": "Sales_graph_crashing_through_flo\u2026_20261025033310.jpg",
+    "dst_file": "scene_166.jpg",
+    "label": "\"SALES FREEZE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 167,
+    "src_file": "Ledger_book_bleeding_red_ink_20261025033310.jpg",
+    "dst_file": "scene_167.jpg",
+    "label": "\"HEMORRHAGING CASH\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 168,
+    "src_file": "Two_men_arguing_at_table_20261025033310.jpg",
+    "dst_file": "scene_168.jpg",
+    "label": "\"CIVIL WAR\"",
+    "score": 0.25
+  },
+  {
+    "scene_id": 169,
+    "src_file": "Figures_whispering_over_champagn\u2026_20261025033310.jpg",
+    "dst_file": "scene_169.jpg",
+    "label": "\"THE PEPSI CHALLENGE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 170,
+    "src_file": "Bottle_turning_into_apple_20261025033310.jpg",
+    "dst_file": "scene_170.jpg",
+    "label": "\"SUGAR WATER OR DESTINY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 171,
+    "src_file": "Man_holding_financial_losses_binder_20261025033310.jpg",
+    "dst_file": "scene_171.jpg",
+    "label": "\"THE EXECUTIVE ULTIMATUM\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 172,
+    "src_file": "Jobs_plotting_board_ambush_20261025033310.jpg",
+    "dst_file": "scene_172.jpg",
+    "label": "\"THE COUP ATTEMPT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 173,
+    "src_file": "Man_confronting_man_at_table_20261025033310.jpg",
+    "dst_file": "scene_173.jpg",
+    "label": "\"THE CONFRONTATION\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 174,
+    "src_file": "Board_members_voting_at_table_20261025033310.jpg",
+    "dst_file": "scene_174.jpg",
+    "label": "\"THE VOTE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 175,
+    "src_file": "Man_sitting_at_table_20261025033310.jpg",
+    "dst_file": "scene_175.jpg",
+    "label": "\"STRIPPED OF POWER\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 176,
+    "src_file": "Man_sitting_at_desk_20261025033310.jpg",
+    "dst_file": "scene_176.jpg",
+    "label": "\"SIBERIA\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 177,
+    "src_file": "Man_signing_resignation_letter_20261025033310.jpg",
+    "dst_file": "scene_177.jpg",
+    "label": "\"SEPTEMBER 17, 1985: RESIGNATION\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 178,
+    "src_file": "Person_mailing_stock_certificates_20261025033310.jpg",
+    "dst_file": "scene_178.jpg",
+    "label": "\"ONE LONE SHARE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 179,
+    "src_file": "Figure_sitting_on_grass_20261025033310.jpg",
+    "dst_file": "scene_179.jpg",
+    "label": "\"BROKEN\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 180,
+    "src_file": "Man_holding_cup_of_espresso_20261025033310.jpg",
+    "dst_file": "scene_180.jpg",
+    "label": "\"THE ARTISTS' GUILD\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 181,
+    "src_file": "Engineers_raising_champagne_glas\u2026_20261025033310.jpg",
+    "dst_file": "scene_181.jpg",
+    "label": "\"THE CHAMPAGNE TOAST\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 182,
+    "src_file": "Engineers_signing_paper_sheet_20261025033310.jpg",
+    "dst_file": "scene_182.jpg",
+    "label": "\"THE SIGNATURE SHEET\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 183,
+    "src_file": "Macintosh_signatures_molded_in_p\u2026_20261025033310.jpg",
+    "dst_file": "scene_183.jpg",
+    "label": "\"MOLDED IN PLASTIC\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 184,
+    "src_file": "Jobs_pointing_at_hidden_signatures_20261025033310.jpg",
+    "dst_file": "scene_184.jpg",
+    "label": "\"REAL ARTISTS SIGN THEIR WORK\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 185,
+    "src_file": "Man_inspecting_circuit_board_20261025033310.jpg",
+    "dst_file": "scene_185.jpg",
+    "label": "\"THE HIDDEN BEAUTY\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 186,
+    "src_file": "Father_and_son_painting_fence_20261025033310.jpg",
+    "dst_file": "scene_186.jpg",
+    "label": "\"PAINT THE BACK OF THE FENCE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 187,
+    "src_file": "Man_examining_circuit_board_20261025033310.jpg",
+    "dst_file": "scene_187.jpg",
+    "label": "\"CIRCUITS AS ARCHITECTURE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 188,
+    "src_file": "Man_arriving_at_corporate_headqu\u2026_20261025033310.jpg",
+    "dst_file": "scene_188.jpg",
+    "label": "\"THE PEPSI SAVIOR\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 189,
+    "src_file": "Man_presenting_marketing_slide_deck_20261025033310.jpg",
+    "dst_file": "scene_189.jpg",
+    "label": "\"THE CONSUMER PACKAGED EXECUTIVE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 190,
+    "src_file": "Men_walking_arm-in-arm_20261025033310.jpg",
+    "dst_file": "scene_190.jpg",
+    "label": "\"THE HONEYMOON\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 191,
+    "src_file": "Sculley_managing_finances_and_Jobs_20261025033310.jpg",
+    "dst_file": "scene_191.jpg",
+    "label": "\"THE PARTNERSHIP\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 192,
+    "src_file": "Two_figures_glare_over_poison_20261025033310.jpg",
+    "dst_file": "scene_192.jpg",
+    "label": "\"TOXIC COLLISION\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 193,
+    "src_file": "Price_tag_crushing_Macintosh_sales_20261025033310.jpg",
+    "dst_file": "scene_193.jpg",
+    "label": "\"THE $2,495 PRICING DISPUTE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 194,
+    "src_file": "Sculley_pointing_at_unsold_boxes_20261025033310.jpg",
+    "dst_file": "scene_194.jpg",
+    "label": "\"ROTTING INVENTORY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 195,
+    "src_file": "Stickman_walking_across_desert_20261025033310.jpg",
+    "dst_file": "scene_195.jpg",
+    "label": "\"THE WILDERNESS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 196,
+    "src_file": "Printers_and_computers_producing\u2026_20261025033310.jpg",
+    "dst_file": "scene_196.jpg",
+    "label": "\"DESKTOP PUBLISHING WAVE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 197,
+    "src_file": "Designer_smiling_near_laser_printer_20261025033310.jpg",
+    "dst_file": "scene_197.jpg",
+    "label": "\"THE DESIGN STANDARD\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 198,
+    "src_file": "Gold_coin_balancing_on_finger_20261025033310.jpg",
+    "dst_file": "scene_198.jpg",
+    "label": "\"50% MARGINS, ZERO SOUL\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 199,
+    "src_file": "Three_CEO_portraits_hanging_20261025033310.jpg",
+    "dst_file": "scene_199.jpg",
+    "label": "\"THE SUITS TAKE OVER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 200,
+    "src_file": "Stick_figures_inside_retail_store_20261025033310.jpg",
+    "dst_file": "scene_200.jpg",
+    "label": "\"THE CONFUSION LABYRINTH\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 201,
+    "src_file": "Customer_confused_by_sales_specs_20261025033310.jpg",
+    "dst_file": "scene_201.jpg",
+    "label": "\"WHAT DO I BUY?\"",
+    "score": 0.25
+  },
+  {
+    "scene_id": 202,
+    "src_file": "Gadgets_in_scrap_heap_20261025033310.jpg",
+    "dst_file": "scene_202.jpg",
+    "label": "\"GRAVEYARD OF GADGETS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 203,
+    "src_file": "Silhouette_in_office_coding_20261025033310.jpg",
+    "dst_file": "scene_203.jpg",
+    "label": "\"THE ARCHITECT (GATES)\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 204,
+    "src_file": "Crowds_lining_up_for_software_20261025033310.jpg",
+    "dst_file": "scene_204.jpg",
+    "label": "\"WINDOWS 95 FEVER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 205,
+    "src_file": "Windows_95_desktop_interface_shown_20261025033310.jpg",
+    "dst_file": "scene_205.jpg",
+    "label": "\"THE COPYCAT TRIUMPH\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 206,
+    "src_file": "Microsoft_eats_pie_chart_market_20261025033310.jpg",
+    "dst_file": "scene_206.jpg",
+    "label": "\"90% MONOPOLY\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 207,
+    "src_file": "Apple_icon_sliding_down_cliff_20261025033310.jpg",
+    "dst_file": "scene_207.jpg",
+    "label": "\"THE COLLAPSE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 208,
+    "src_file": "Corporate_balance_sheet_showing_\u2026_20261025033310.jpg",
+    "dst_file": "scene_208.jpg",
+    "label": "\"$1 BILLION IN THE RED\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 209,
+    "src_file": "Mac_screen_freezing_with_bomb_20261025033310.jpg",
+    "dst_file": "scene_209.jpg",
+    "label": "\"THE SYSTEM BOMB\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 210,
+    "src_file": "Programmer_banging_head_on_desk_20261025033310.jpg",
+    "dst_file": "scene_210.jpg",
+    "label": "\"COPLAND DERAILS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 211,
+    "src_file": "Hourglass_with_sand_remaining_20261025033310.jpg",
+    "dst_file": "scene_211.jpg",
+    "label": "\"90 DAYS TO EXTINCTION\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 212,
+    "src_file": "Man_speaking_into_microphone_20261025033310.jpg",
+    "dst_file": "scene_212.jpg",
+    "label": "\"MICHAEL DELL'S ADVICE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 213,
+    "src_file": "Padlock_locking_closed_doors_20261025033310.jpg",
+    "dst_file": "scene_213.jpg",
+    "label": "\"SHUT IT DOWN\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 214,
+    "src_file": "Man_holding_black_cube_computer_20261025033310.jpg",
+    "dst_file": "scene_214.jpg",
+    "label": "\"THE EXILE'S LAB\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 215,
+    "src_file": "Cube_workstation_on_architectura\u2026_20261025033310.jpg",
+    "dst_file": "scene_215.jpg",
+    "label": "\"THE NeXT CUBE\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 216,
+    "src_file": "Person_typing_on_computer_20261025033310.jpg",
+    "dst_file": "scene_216.jpg",
+    "label": "\"WHERE THE WEB WAS BORN\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 217,
+    "src_file": "Lamp_hopping_across_letters_20261025033310.jpg",
+    "dst_file": "scene_217.jpg",
+    "label": "\"PIXAR\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 218,
+    "src_file": "Person_writing_payroll_checks_20261025033310.jpg",
+    "dst_file": "scene_218.jpg",
+    "label": "\"$50M OF HIS OWN MONEY\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 219,
+    "src_file": "Projector_beaming_animation_reel_20261025033310.jpg",
+    "dst_file": "scene_219.jpg",
+    "label": "\"TOY STORY: 1995\"",
+    "score": 0.0
+  },
+  {
+    "scene_id": 220,
+    "src_file": "Jobs_looking_at_soaring_stock_20261025033310.jpg",
+    "dst_file": "scene_220.jpg",
+    "label": "\"BILLIONAIRE PRODIGY\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 221,
+    "src_file": "Stick_figures_celebrating_subscr\u2026_20261025033310.jpg",
+    "dst_file": "scene_221.jpg",
+    "label": "\"THE MATURE TITAN\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 222,
+    "src_file": "Man_reviewing_architectural_blue\u2026_20261025033310.jpg",
+    "dst_file": "scene_222.jpg",
+    "label": "\"SEASONED WILL\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 223,
+    "src_file": "Men_announcing_company_merger_20261025033310.jpg",
+    "dst_file": "scene_223.jpg",
+    "label": "\"DECEMBER 1996: THE BUYOUT\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 224,
+    "src_file": "Apple_acquires_NeXT_software_20261025033310.jpg",
+    "dst_file": "scene_224.jpg",
+    "label": "\"THE $429M TROJAN HORSE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 225,
+    "src_file": "Man_walking_in_glass_lobby_20261025033310.jpg",
+    "dst_file": "scene_225.jpg",
+    "label": "\"THE RETURN TO INFINITE LOOP\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 226,
+    "src_file": "Trojan_horse_enters_fortress_20261025033310.jpg",
+    "dst_file": "scene_226.jpg",
+    "label": "\"THE TROJAN HORSE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 227,
+    "src_file": "Jobs_meeting_graphic_designer_20261025033310.jpg",
+    "dst_file": "scene_227.jpg",
+    "label": "\"PAUL RAND (1986)\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 228,
+    "src_file": "Designer_viewing_iconic_logos_20261025033310.jpg",
+    "dst_file": "scene_228.jpg",
+    "label": "\"THE MASTER OF LOGOS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 229,
+    "src_file": "Designer_glaring_at_young_millio\u2026_20261025033310.jpg",
+    "dst_file": "scene_229.jpg",
+    "label": "\"THE BRUTAL DESIGNER\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 230,
+    "src_file": "Stickmen_crossing_street_looking\u2026_20261025033310.jpg",
+    "dst_file": "scene_230.jpg",
+    "label": "\"$100,000 OR NOTHING\"",
+    "score": 0.0
+  },
+  {
+    "scene_id": 231,
+    "src_file": "Stick_figures_observing_NeXT_cube_20261025033310.jpg",
+    "dst_file": "scene_231.jpg",
+    "label": "\"THE NeXT CUBE LOGO\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 232,
+    "src_file": "Robotic_laser_cutter_carving_cube_20261025033310.jpg",
+    "dst_file": "scene_232.jpg",
+    "label": "\"PERFECT 90-DEGREE ANGLES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 233,
+    "src_file": "Computer_showing_NeXTSTEP_interface_20261025033310.jpg",
+    "dst_file": "scene_233.jpg",
+    "label": "\"DECADE AHEAD\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 234,
+    "src_file": "Programmer_typing_Objective-C_code_20261025033310.jpg",
+    "dst_file": "scene_234.jpg",
+    "label": "\"OBJECTIVE-C\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 235,
+    "src_file": "Digital_root_system_growing_upward_20261025033310.jpg",
+    "dst_file": "scene_235.jpg",
+    "label": "\"THE HIDDEN FOUNDATION\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 236,
+    "src_file": "Person_sketching_lamp_storyboards_20261025033310.jpg",
+    "dst_file": "scene_236.jpg",
+    "label": "\"JOHN LASSETER\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 237,
+    "src_file": "Desk_lamp_hopping_on_desk_20261025033310.jpg",
+    "dst_file": "scene_237.jpg",
+    "label": "\"LUXO JR. (1986)\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 238,
+    "src_file": "Theater_audience_watching_desk_l\u2026_20261025033310.jpg",
+    "dst_file": "scene_238.jpg",
+    "label": "\"SOUL IN SILICON\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 239,
+    "src_file": "Signpost_at_technology_intersection_20261025033310.jpg",
+    "dst_file": "scene_239.jpg",
+    "label": "\"THE INTERSECTION\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 240,
+    "src_file": "Stick_figures_exploring_decaying\u2026_20261025033310.jpg",
+    "dst_file": "scene_240.jpg",
+    "label": "\"DECAY IN CUPERTINO\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 241,
+    "src_file": "Man_speaking_on_stage_sweating_20261025033310.jpg",
+    "dst_file": "scene_241.jpg",
+    "label": "\"THE EMBARRASSING KEYNOTES\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 242,
+    "src_file": "Gil_Amelio_cleaning_desk_20261025033310.jpg",
+    "dst_file": "scene_242.jpg",
+    "label": "\"THE PURGE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 243,
+    "src_file": "Steve_Jobs_earns_one_dollar_20261025033310.jpg",
+    "dst_file": "scene_243.jpg",
+    "label": "\"THE $1 SALARY\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 244,
+    "src_file": "Man_standing_on_stage_20261025033310.jpg",
+    "dst_file": "scene_244.jpg",
+    "label": "\"MACWORLD BOSTON 1997\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 245,
+    "src_file": "Bill_Gates_on_screen_20261025033310.jpg",
+    "dst_file": "scene_245.jpg",
+    "label": "\"BILL GATES ON THE SCREEN\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 246,
+    "src_file": "Microsoft_wire_transfer_and_pledge_20261025033310.jpg",
+    "dst_file": "scene_246.jpg",
+    "label": "\"THE $150M TRUCE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 247,
+    "src_file": "Audience_jeering_at_man_raising_20261025033310.jpg",
+    "dst_file": "scene_247.jpg",
+    "label": "\"THE BOOS\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 248,
+    "src_file": "Figure_speaking_to_crowd_20261025033310.jpg",
+    "dst_file": "scene_248.jpg",
+    "label": "\"A NEW DOCTRINE\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 249,
+    "src_file": "Man_standing_before_whiteboard_20261025033310.jpg",
+    "dst_file": "scene_249.jpg",
+    "label": "\"THE CLEAN SWEEP\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 250,
+    "src_file": "Presenting_the_2x2_matrix_20261025033310.jpg",
+    "dst_file": "scene_250.jpg",
+    "label": "\"THE 2x2 MATRIX\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 251,
+    "src_file": "Person_slashing_red_X_marks_20261025033310.jpg",
+    "dst_file": "scene_251.jpg",
+    "label": "\"CANCEL THE REST\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 252,
+    "src_file": "Stick_figures_packing_corporate_\u2026_20261025033310.jpg",
+    "dst_file": "scene_252.jpg",
+    "label": "\"SURGICAL FOCUS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 253,
+    "src_file": "Jobs_meeting_Jony_Ive_20261025033310.jpg",
+    "dst_file": "scene_253.jpg",
+    "label": "\"MEETING JONY IVE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 254,
+    "src_file": "Two_figures_examining_plastic_shell_20261025033310.jpg",
+    "dst_file": "scene_254.jpg",
+    "label": "\"THE DUO\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 255,
+    "src_file": "Computer_made_of_translucent_pla\u2026_20261025033310.jpg",
+    "dst_file": "scene_255.jpg",
+    "label": "\"THE iMAC G3: BONDI BLUE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 256,
+    "src_file": "Stickman_picking_up_iMac_20261025033310.jpg",
+    "dst_file": "scene_256.jpg",
+    "label": "\"TRANSLUCENT & FRIENDLY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 257,
+    "src_file": "Colorful_iMacs_flying_from_stores_20261025033310.jpg",
+    "dst_file": "scene_257.jpg",
+    "label": "\"FIVE FLAVORS\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 258,
+    "src_file": "Balance_sheet_showing_profit_inc\u2026_20261025033310.jpg",
+    "dst_file": "scene_258.jpg",
+    "label": "\"BACK FROM THE DEAD\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 259,
+    "src_file": "Diagram_connecting_devices_to_co\u2026_20261025033310.jpg",
+    "dst_file": "scene_259.jpg",
+    "label": "\"THE DIGITAL HUB\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 260,
+    "src_file": "Stickman_editing_videos_on_Mac_20261025033310.jpg",
+    "dst_file": "scene_260.jpg",
+    "label": "\"THE DIGITAL LIFESTYLE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 261,
+    "src_file": "Man_pulling_object_from_pocket_20261025033310.jpg",
+    "dst_file": "scene_261.jpg",
+    "label": "\"OCTOBER 23, 2001\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 262,
+    "src_file": "Person_holding_the_first_iPod_20261025033310.jpg",
+    "dst_file": "scene_262.jpg",
+    "label": "\"THE FIRST iPOD\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 263,
+    "src_file": "Blue_jeans_holding_music_player_20261025033310.jpg",
+    "dst_file": "scene_263.jpg",
+    "label": "\"1,000 SONGS IN YOUR POCKET\"",
+    "score": 0.4
+  },
+  {
+    "scene_id": 264,
+    "src_file": "Engineer_presenting_prototype_to\u2026_20261025033310.jpg",
+    "dst_file": "scene_264.jpg",
+    "label": "\"IT CANNOT BE SMALLER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 265,
+    "src_file": "Man_dropping_device_into_aquarium_20261025033310.jpg",
+    "dst_file": "scene_265.jpg",
+    "label": "\"THE AQUARIUM TEST\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 266,
+    "src_file": "Engineer_looking_at_air_bubbles_20261025033310.jpg",
+    "dst_file": "scene_266.jpg",
+    "label": "\"THOSE ARE AIR BUBBLES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 267,
+    "src_file": "Billboard_featuring_dancer_jumping_20261025033310.jpg",
+    "dst_file": "scene_267.jpg",
+    "label": "\"THE SILHOUETTES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 268,
+    "src_file": "Music_tracks_emerging_from_iTunes_20261025033310.jpg",
+    "dst_file": "scene_268.jpg",
+    "label": "\"99 CENTS A TRACK\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 269,
+    "src_file": "Executives_signing_distribution_\u2026_20261025033310.jpg",
+    "dst_file": "scene_269.jpg",
+    "label": "\"THE MUSIC INDUSTRY SURRENDERS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 270,
+    "src_file": "Stickmen_wearing_white_earbuds_20261025033310.jpg",
+    "dst_file": "scene_270.jpg",
+    "label": "\"THE WHITE CORDS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 271,
+    "src_file": "Figure_looking_at_iPod_mountain_20261025033310.jpg",
+    "dst_file": "scene_271.jpg",
+    "label": "\"400 MILLION SOLD\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 272,
+    "src_file": "Figures_viewing_old_mobile_phones_20261025033310.jpg",
+    "dst_file": "scene_272.jpg",
+    "label": "\"THE HORRIBLE PHONES\"",
+    "score": 0.6
+  },
+  {
+    "scene_id": 273,
+    "src_file": "Stickman_yelling_at_dropped_call_20261025033310.jpg",
+    "dst_file": "scene_273.jpg",
+    "label": "\"EVERYONE HATES THEIR PHONE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 274,
+    "src_file": "Phone_biting_iPod_20261025033310.jpg",
+    "dst_file": "scene_274.jpg",
+    "label": "\"CANNIBALIZATION THREAT\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 275,
+    "src_file": "Person_pointing_at_whiteboard_20261025033310.jpg",
+    "dst_file": "scene_275.jpg",
+    "label": "\"CANNIBALIZE YOURSELF\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 276,
+    "src_file": "Guarded_corridor_with_warning_li\u2026_20261025033310.jpg",
+    "dst_file": "scene_276.jpg",
+    "label": "\"PROJECT PURPLE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 277,
+    "src_file": "Fingers_zooming_digital_map_20261025033310.jpg",
+    "dst_file": "scene_277.jpg",
+    "label": "\"PINCH TO ZOOM\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 278,
+    "src_file": "Man_pacing_on_stage_20261025033310.jpg",
+    "dst_file": "scene_278.jpg",
+    "label": "\"MOSCONE CENTER: JAN 9, 2007\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 279,
+    "src_file": "Characters_observing_vintage_com\u2026_20261025033310.jpg",
+    "dst_file": "scene_279.jpg",
+    "label": "\"THE PINNACLE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 280,
+    "src_file": "Man_speaking_holding_invisible_d\u2026_20261025033310.jpg",
+    "dst_file": "scene_280.jpg",
+    "label": "\"CHANGES EVERYTHING\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 281,
+    "src_file": "Icons_displayed_on_giant_screen_20261025033310.jpg",
+    "dst_file": "scene_281.jpg",
+    "label": "\"THREE PRODUCTS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 282,
+    "src_file": "Icons_rotating_in_circle_animation_20261025033310.jpg",
+    "dst_file": "scene_282.jpg",
+    "label": "\"IPOD... PHONE... INTERNET...\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 283,
+    "src_file": "Man_repeating_names_for_audience_20261025033310.jpg",
+    "dst_file": "scene_283.jpg",
+    "label": "\"ARE YOU GETTING IT?\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 284,
+    "src_file": "Icons_collapsing_into_glowing_de\u2026_20261025033310.jpg",
+    "dst_file": "scene_284.jpg",
+    "label": "\"ONE DEVICE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 285,
+    "src_file": "Explosion_reveals_the_first_iPhone_20261025033310.jpg",
+    "dst_file": "scene_285.jpg",
+    "label": "\"iPHONE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 286,
+    "src_file": "Engineers_sweating_behind_the_cu\u2026_20261025033310.jpg",
+    "dst_file": "scene_286.jpg",
+    "label": "\"SWEATING BEHIND THE CURTAIN\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 287,
+    "src_file": "Thumb_tapping_phone_screen_20261025033310.jpg",
+    "dst_file": "scene_287.jpg",
+    "label": "\"THE GOLDEN PATH\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 288,
+    "src_file": "Phone_rotating_playing_video_20261025033310.jpg",
+    "dst_file": "scene_288.jpg",
+    "label": "\"ROTATION MAGIC\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 289,
+    "src_file": "Companies_shaking_during_earthquake_20261025033310.jpg",
+    "dst_file": "scene_289.jpg",
+    "label": "\"THE EARTHQUAKE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 290,
+    "src_file": "BlackBerry_executive_typing_on_k\u2026_20261025033310.jpg",
+    "dst_file": "scene_290.jpg",
+    "label": "\"BLACKBERRY'S FATAL SNEER\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 291,
+    "src_file": "Man_laughing_during_interview_20261025033310.jpg",
+    "dst_file": "scene_291.jpg",
+    "label": "\"BALLMER'S LAUGH\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 292,
+    "src_file": "Cartoon_quote_bubble_with_price_20261025033310.jpg",
+    "dst_file": "scene_292.jpg",
+    "label": "\"$500 LAUGH\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 293,
+    "src_file": "Stick_figures_visiting_graveyard_20261025033310.jpg",
+    "dst_file": "scene_293.jpg",
+    "label": "\"THE FALLEN GIANTS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 294,
+    "src_file": "Apple_logo_on_mountain_peak_20261025033310.jpg",
+    "dst_file": "scene_294.jpg",
+    "label": "\"THE SUMMIT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 295,
+    "src_file": "App_Store_virtual_shopfront_opening_20261025033310.jpg",
+    "dst_file": "scene_295.jpg",
+    "label": "\"THE APP STORE: 2008\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 296,
+    "src_file": "Tech_icons_branching_from_iPhone_20261025033310.jpg",
+    "dst_file": "scene_296.jpg",
+    "label": "\"THE ECOSYSTEM TREE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 297,
+    "src_file": "Crowd_anticipating_event_in_audi\u2026_20261025033310.jpg",
+    "dst_file": "scene_297.jpg",
+    "label": "\"THE 30% TOLL\"",
+    "score": 0.0
+  },
+  {
+    "scene_id": 298,
+    "src_file": "Montage_of_Apple_hardware_products_20261025033310.jpg",
+    "dst_file": "scene_298.jpg",
+    "label": "\"THE UNSTOPPABLE RUN\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 299,
+    "src_file": "Person_reviewing_historical_phot\u2026_20261025033310.jpg",
+    "dst_file": "scene_299.jpg",
+    "label": "\"NO COMPUTERS SHOWN\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 300,
+    "src_file": "Misfits_montage_portraits_20261025033310.jpg",
+    "dst_file": "scene_300.jpg",
+    "label": "\"THE MISFITS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 301,
+    "src_file": "Peg_refusing_square_hole_20261025033310.jpg",
+    "dst_file": "scene_301.jpg",
+    "label": "\"ROUND PEGS IN SQUARE HOLES\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 302,
+    "src_file": "Stickman_girl_looking_at_stars_20261025033310.jpg",
+    "dst_file": "scene_302.jpg",
+    "label": "\"THOSE WHO DO\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 303,
+    "src_file": "Artist_placing_iMac_on_desk_20261025033310.jpg",
+    "dst_file": "scene_303.jpg",
+    "label": "\"THE RE-ENCHANTMENT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 304,
+    "src_file": "Water_droplet_splashing_on_screen_20261025033310.jpg",
+    "dst_file": "scene_304.jpg",
+    "label": "\"AQUA INTERFACE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 305,
+    "src_file": "Jobs_smiling_beside_glowing_button_20261025033310.jpg",
+    "dst_file": "scene_305.jpg",
+    "label": "\"BUTTONS YOU WANT TO LICK\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 306,
+    "src_file": "Analysts_predicting_Apple_store_\u2026_20261025033310.jpg",
+    "dst_file": "scene_306.jpg",
+    "label": "\"RETAIL WILL FAIL\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 307,
+    "src_file": "Stick_figures_examining_computer\u2026_20261025033310.jpg",
+    "dst_file": "scene_307.jpg",
+    "label": "\"CONVENTIONAL WISDOM\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 308,
+    "src_file": "Men_walking_in_warehouse_20261025033310.jpg",
+    "dst_file": "scene_308.jpg",
+    "label": "\"THE SECRET WAREHOUSE PROTOTYPE\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 309,
+    "src_file": "Stone_masons_cutting_sandstone_s\u2026_20261025033310.jpg",
+    "dst_file": "scene_309.jpg",
+    "label": "\"FLORENTINE SANDSTONE FLOORS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 310,
+    "src_file": "Glass_staircase_in_comic_illustr\u2026_20261025033310.jpg",
+    "dst_file": "scene_310.jpg",
+    "label": "\"THE PATENTED GLASS STAIRCASE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 311,
+    "src_file": "Stickman_fixing_laptop_at_counter_20261025033310.jpg",
+    "dst_file": "scene_311.jpg",
+    "label": "\"THE GENIUS BAR\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 312,
+    "src_file": "Chart_showing_sales_per_foot_20261025033310.jpg",
+    "dst_file": "scene_312.jpg",
+    "label": "\"$5,500 PER SQUARE FOOT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 313,
+    "src_file": "Man_inspecting_iPhone_prototype_20261025033310.jpg",
+    "dst_file": "scene_313.jpg",
+    "label": "\"SCRATCHED PLASTIC\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 314,
+    "src_file": "Screen_scratched_by_keys_20261025033310.jpg",
+    "dst_file": "scene_314.jpg",
+    "label": "\"THE SCRATCH CRISIS\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 315,
+    "src_file": "Jobs_shouting_holding_scratched_\u2026_20261025033310.jpg",
+    "dst_file": "scene_315.jpg",
+    "label": "\"IT MUST BE GLASS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 316,
+    "src_file": "Man_holding_flexible_glass_20261025033310.jpg",
+    "dst_file": "scene_316.jpg",
+    "label": "\"WENDELL WEEKS & GORILLA GLASS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 317,
+    "src_file": "Person_walking_down_hallway_20261025033310.jpg",
+    "dst_file": "scene_317.jpg",
+    "label": "\"THE FINAL SHADOW\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 318,
+    "src_file": "Bedside_table_with_medical_monitors_20261025033310.jpg",
+    "dst_file": "scene_318.jpg",
+    "label": "\"THE PRIVATE FIGHT\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 319,
+    "src_file": "Man_handing_key_to_man_20261025033310.jpg",
+    "dst_file": "scene_319.jpg",
+    "label": "\"PASSING THE REINS\"",
+    "score": 0.33
+  },
+  {
+    "scene_id": 320,
+    "src_file": "Man_reviewing_inventory_at_desk_20261025033310.jpg",
+    "dst_file": "scene_320.jpg",
+    "label": "\"THE MASTER OF LOGISTICS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 321,
+    "src_file": "Stone_quote_card_about_right_20261025033310.jpg",
+    "dst_file": "scene_321.jpg",
+    "label": "\"THE LAST ADVICE\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 322,
+    "src_file": "Steve_Jobs_portrait_with_dates_20261025033310.jpg",
+    "dst_file": "scene_322.jpg",
+    "label": "\"OCTOBER 5, 2011\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 323,
+    "src_file": "People_gathering_at_Apple_stores_20261025033310.jpg",
+    "dst_file": "scene_323.jpg",
+    "label": "\"THE GLOBAL SHRINES\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 324,
+    "src_file": "Apple_on_sidewalk_with_note_20261025033310.jpg",
+    "dst_file": "scene_324.jpg",
+    "label": "\"THANK YOU, STEVE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 325,
+    "src_file": "Newspaper_predicting_Apple's_demise_20261025033310.jpg",
+    "dst_file": "scene_325.jpg",
+    "label": "\"THE SKEPTICS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 326,
+    "src_file": "Red_stamp_slamming_newspaper_20261025033310.jpg",
+    "dst_file": "scene_326.jpg",
+    "label": "\"WRONG AGAIN\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 327,
+    "src_file": "Man_viewing_global_dashboard_inv\u2026_20261025033310.jpg",
+    "dst_file": "scene_327.jpg",
+    "label": "\"THE INDUSTRIAL ENGINE\"",
+    "score": 0.4
+  },
+  {
+    "scene_id": 328,
+    "src_file": "Apple_Watch_outselling_Swiss_wat\u2026_20261025033310.jpg",
+    "dst_file": "scene_328.jpg",
+    "label": "\"OUTSELLING SWITZERLAND\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 329,
+    "src_file": "AirPods_outweighing_corporate_logos_20261025033310.jpg",
+    "dst_file": "scene_329.jpg",
+    "label": "\"AIRPODS EMPIRE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 330,
+    "src_file": "Microscope_examining_chip_20261025033310.jpg",
+    "dst_file": "scene_330.jpg",
+    "label": "\"APPLE SILICON\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 331,
+    "src_file": "Ticker_board_hitting_one_trillion_20261025033310.jpg",
+    "dst_file": "scene_331.jpg",
+    "label": "\"ONE TRILLION (2018)\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 332,
+    "src_file": "Stickman_planting_summit_flags_20261025033310.jpg",
+    "dst_file": "scene_332.jpg",
+    "label": "\"TWO TRILLION... THREE TRILLION\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 333,
+    "src_file": "Vault_with_capital_flowing_out_20261025033310.jpg",
+    "dst_file": "scene_333.jpg",
+    "label": "\"THE WEALTH MACHINE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 334,
+    "src_file": "Storm_cloud_over_glass_campus_20261025033310.jpg",
+    "dst_file": "scene_334.jpg",
+    "label": "\"THE MORAL RECKONING\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 335,
+    "src_file": "Workers_moving_in_industrial_fac\u2026_20261025033310.jpg",
+    "dst_file": "scene_335.jpg",
+    "label": "\"IPHONE CITY: ZHENGZHOU\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 336,
+    "src_file": "Stick_figures_near_safety_netting_20261025033310.jpg",
+    "dst_file": "scene_336.jpg",
+    "label": "\"THE NETS\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 337,
+    "src_file": "Developers_protesting_outside_me\u2026_20261025033310.jpg",
+    "dst_file": "scene_337.jpg",
+    "label": "\"THE 30% APP TAX WAR\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 338,
+    "src_file": "Official_removing_lightning_conn\u2026_20261025033310.jpg",
+    "dst_file": "scene_338.jpg",
+    "label": "\"USB-C MANDATE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 339,
+    "src_file": "Gavel_slamming_during_antitrust_\u2026_20261025033310.jpg",
+    "dst_file": "scene_339.jpg",
+    "label": "\"ANTITRUST SCRUTINY\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 340,
+    "src_file": "Family_staring_at_screens_together_20261025033310.jpg",
+    "dst_file": "scene_340.jpg",
+    "label": "\"THE SILENT DINNER\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 341,
+    "src_file": "Stickman_holding_iPhone_in_birdcage_20261025033310.jpg",
+    "dst_file": "scene_341.jpg",
+    "label": "\"THE GOLDEN CAGE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 342,
+    "src_file": "Stickman_reclining_in_golden_cage_20261025033310.jpg",
+    "dst_file": "scene_342.jpg",
+    "label": "\"COMFORTABLE CAPTIVITY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 343,
+    "src_file": "Founders_laughing_in_garage_20261025033310.jpg",
+    "dst_file": "scene_343.jpg",
+    "label": "\"THE GARAGE MEMORY\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 344,
+    "src_file": "Earth_viewed_from_space_night_20261025033310.jpg",
+    "dst_file": "scene_344.jpg",
+    "label": "\"ONE BILLION HEARTS\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 345,
+    "src_file": "Stickman_riding_futuristic_bicycle_20261025033310.jpg",
+    "dst_file": "scene_345.jpg",
+    "label": "\"BICYCLE FOR THE MIND\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 346,
+    "src_file": "Smartphone_carrying_stickman_in_\u2026_20261025033310.jpg",
+    "dst_file": "scene_346.jpg",
+    "label": "\"WHO RIDES WHOM?\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 347,
+    "src_file": "Split-screen_transition_from_gar\u2026_20261025033310.jpg",
+    "dst_file": "scene_347.jpg",
+    "label": "\"CRIST DRIVE TO APPLE PARK\"",
+    "score": 0.8
+  },
+  {
+    "scene_id": 348,
+    "src_file": "Narrator_signature_with_quill_pen_20261025033310.jpg",
+    "dst_file": "scene_348.jpg",
+    "label": "\"BUILT WITH US\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 349,
+    "src_file": "Stick_figures_in_global_cities_20261025033310.jpg",
+    "dst_file": "scene_349.jpg",
+    "label": "\"SUBSCRIBE & LIKE\"",
+    "score": 0.5
+  },
+  {
+    "scene_id": 350,
+    "src_file": "Stickmen_sharing_vintage_Apple_m\u2026_20261025033310.jpg",
+    "dst_file": "scene_350.jpg",
+    "label": "\"TELL US IN THE COMMENTS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 351,
+    "src_file": "Apple_logo_fading_out_20261025033310.jpg",
+    "dst_file": "scene_351.jpg",
+    "label": "\"SEE YOU AT THE NEXT BUILD\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 352,
+    "src_file": "Figures_inspecting_idle_glass_fa\u2026_20261025033310.jpg",
+    "dst_file": "scene_352.jpg",
+    "label": "\"IDLE OVENS\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 353,
+    "src_file": "Glass_factory_pouring_molten_glass_20261025033310.jpg",
+    "dst_file": "scene_353.jpg",
+    "label": "\"SIX MONTHS TO RE-TOOL\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 354,
+    "src_file": "Key_scraping_iPhone_screen_20261025033310.jpg",
+    "dst_file": "scene_354.jpg",
+    "label": "\"UNBREAKABLE GLASS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 355,
+    "src_file": "Man_examining_manufacturing_map_20261025033310.jpg",
+    "dst_file": "scene_355.jpg",
+    "label": "\"THE SUPPLY CHAIN ARCHITECT\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 356,
+    "src_file": "Warehouse_clearing_out_completely_20261025033310.jpg",
+    "dst_file": "scene_356.jpg",
+    "label": "\"ZERO INVENTORY DELAY\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 357,
+    "src_file": "Digital_stopwatch_ticking_down_h\u2026_20261025033310.jpg",
+    "dst_file": "scene_357.jpg",
+    "label": "\"THE 48-HOUR PIPELINE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 358,
+    "src_file": "Titanium_card_dropped_on_table_20261025033310.jpg",
+    "dst_file": "scene_358.jpg",
+    "label": "\"THE TITANIUM CARD\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 359,
+    "src_file": "Stickman_wearing_ski_goggles_20261025033310.jpg",
+    "dst_file": "scene_359.jpg",
+    "label": "\"THE VISION PRO\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 360,
+    "src_file": "Apple_technological_evolution_hi\u2026_20261025033310.jpg",
+    "dst_file": "scene_360.jpg",
+    "label": "\"THE 50-YEAR EVOLUTION\"",
+    "score": 0.67
+  },
+  {
+    "scene_id": 361,
+    "src_file": "Digital_circuit_merging_with_brain_20261025033310.jpg",
+    "dst_file": "scene_361.jpg",
+    "label": "\"CLOSER TO CONSCIOUSNESS\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 362,
+    "src_file": "Stickman_riding_bicycle_on_clouds_20261025033310.jpg",
+    "dst_file": "scene_362.jpg",
+    "label": "\"A BICYCLE FOR THE MIND\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 363,
+    "src_file": "Golden_bicycle_soaring_above_Earth_20261025033310.jpg",
+    "dst_file": "scene_363.jpg",
+    "label": "\"INTO THE STRATOSPHERE\"",
+    "score": 1.0
+  },
+  {
+    "scene_id": 364,
+    "src_file": "Two_figures_looking_at_stars_20261025033310.jpg",
+    "dst_file": "scene_364.jpg",
+    "label": "\"A DENT IN THE UNIVERSE\"",
+    "score": 0.75
+  },
+  {
+    "scene_id": 365,
+    "src_file": "Stick_figures_viewing_cosmic_bite_20261025033310.jpg",
+    "dst_file": "scene_365.jpg",
+    "label": "\"THE DENT REMAINS\"",
+    "score": 0.8
+  }
+]

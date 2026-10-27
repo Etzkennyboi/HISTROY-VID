@@ -1,0 +1,4396 @@
+{
+  "total_scenes": 439,
+  "total_duration": 1968.54,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "label": "THE GLOW",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 0.0,
+      "vo": "Pick up an iPhone tonight,",
+      "end_time": 1.58,
+      "duration": 1.58
+    },
+    {
+      "scene_id": 2,
+      "label": "NOT A TELEPHONE",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 1.58,
+      "vo": "and you are not holding a telephone.",
+      "end_time": 3.456,
+      "duration": 1.876
+    },
+    {
+      "scene_id": 3,
+      "label": "THE ARTIFACT",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 3.456,
+      "vo": "You are holding the most profitable consumer object ever engineered by the human species.",
+      "end_time": 7.716,
+      "duration": 4.26
+    },
+    {
+      "scene_id": 4,
+      "label": "TITANIUM & SILICON",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 7.716,
+      "vo": "A seamless slab of titanium, sapphire glass, and microscopic silicon",
+      "end_time": 13.676,
+      "duration": 5.96
+    },
+    {
+      "scene_id": 5,
+      "label": "90-DAY PROFIT",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 13.676,
+      "vo": "that generates more net profit in a single ninety-day quarter",
+      "end_time": 16.896,
+      "duration": 3.22
+    },
+    {
+      "scene_id": 6,
+      "label": "THE PROFIT MONSTER",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 16.896,
+      "vo": "than Nike, Coca-Cola, and McDonald\u00e2\u20ac\u2122s combined.",
+      "end_time": 20.064,
+      "duration": 3.168
+    },
+    {
+      "scene_id": 7,
+      "label": "$3,000,000,000,000",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 20.064,
+      "vo": "Behind that glass sits a corporate empire valued at over three trillion dollars.",
+      "end_time": 26.024,
+      "duration": 5.96
+    },
+    {
+      "scene_id": 8,
+      "label": "LARGER THAN NATIONS",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 26.024,
+      "vo": "That is larger than the entire gross domestic product of the United Kingdom, France, or India.",
+      "end_time": 31.904,
+      "duration": 5.88
+    },
+    {
+      "scene_id": 9,
+      "label": "FLEETS IN CASH",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 31.904,
+      "vo": "Its cash reserves could purchase entire commercial airline fleets",
+      "end_time": 35.244,
+      "duration": 3.34
+    },
+    {
+      "scene_id": 10,
+      "label": "BOUGHT BY LUNCH",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 35.244,
+      "vo": "or defense contractors in cash before the markets close for lunch.",
+      "end_time": 40.164,
+      "duration": 4.92
+    },
+    {
+      "scene_id": 11,
+      "label": "ONE BILLION POCKETS",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 40.164,
+      "vo": "Over one billion human beings carry this device in their pockets every second of the day.",
+      "end_time": 44.704,
+      "duration": 4.54
+    },
+    {
+      "scene_id": 12,
+      "label": "SYDNEY 6:00 AM",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 44.704,
+      "vo": "When an alarm rings in Sydney,",
+      "end_time": 47.384,
+      "duration": 2.68
+    },
+    {
+      "scene_id": 13,
+      "label": "TOKYO COMMUTE",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 47.384,
+      "vo": "a podcast plays in Tokyo,",
+      "end_time": 48.704,
+      "duration": 1.32
+    },
+    {
+      "scene_id": 14,
+      "label": "LONDON TAP-TO-PAY",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 48.704,
+      "vo": "or a contactless card taps in London,",
+      "end_time": 52.004,
+      "duration": 3.3
+    },
+    {
+      "scene_id": 15,
+      "label": "THE DIGITAL TOLL",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 52.004,
+      "vo": "Apple quietly takes its toll.",
+      "end_time": 54.144,
+      "duration": 2.14
+    },
+    {
+      "scene_id": 16,
+      "label": "SENSORY APPARATUS",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 54.144,
+      "vo": "It has become the default sensory apparatus for modern human civilization.",
+      "end_time": 58.32,
+      "duration": 4.176
+    },
+    {
+      "scene_id": 17,
+      "label": "THE ILLUSION",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 58.32,
+      "vo": "Yet the entire empire is constructed on an illusion.",
+      "end_time": 61.944,
+      "duration": 3.624
+    },
+    {
+      "scene_id": 18,
+      "label": "CONTINUOUS RADII",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 61.944,
+      "vo": "Smooth rounded corners.",
+      "end_time": 64.384,
+      "duration": 2.44
+    },
+    {
+      "scene_id": 19,
+      "label": "PNEUMATIC GLIDE",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 64.384,
+      "vo": "Minimalist white boxes that slide open with a slow pneumatic glide.",
+      "end_time": 68.724,
+      "duration": 4.34
+    },
+    {
+      "scene_id": 20,
+      "label": "WOVEN SILK",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 68.724,
+      "vo": "Silk-wrapped charging cords.",
+      "end_time": 69.574,
+      "duration": 0.85
+    },
+    {
+      "scene_id": 21,
+      "label": "LOWERCASE PURITY",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 69.574,
+      "vo": "Friendly, lowercase typography.",
+      "end_time": 72.552,
+      "duration": 2.978
+    },
+    {
+      "scene_id": 22,
+      "label": "NOT ELECTRONICS",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 72.552,
+      "vo": "Apple does not sell consumer electronics.",
+      "end_time": 75.812,
+      "duration": 3.26
+    },
+    {
+      "scene_id": 23,
+      "label": "THE IDENTITY",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 75.812,
+      "vo": "Apple sells an identity.",
+      "end_time": 77.812,
+      "duration": 2.0
+    },
+    {
+      "scene_id": 24,
+      "label": "MIDNIGHT EMAILS",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 77.812,
+      "vo": "It sells the flattering, comforting belief that by tapping on their glass, you are not merely a corporate worker checking emails at midnight.",
+      "end_time": 86.132,
+      "duration": 8.32
+    },
+    {
+      "scene_id": 25,
+      "label": "THE ARTIST",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 86.132,
+      "vo": "You are an artist.",
+      "end_time": 87.712,
+      "duration": 1.58
+    },
+    {
+      "scene_id": 26,
+      "label": "THE CREATOR",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 87.712,
+      "vo": "A creator.",
+      "end_time": 88.792,
+      "duration": 1.08
+    },
+    {
+      "scene_id": 27,
+      "label": "THE REBEL",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 88.792,
+      "vo": "A rebel who thinks a little differently than the uninspired masses around you.",
+      "end_time": 92.76,
+      "duration": 3.968
+    },
+    {
+      "scene_id": 28,
+      "label": "PSYCHOLOGICAL TRICK",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 92.76,
+      "vo": "It is the greatest psychological trick in corporate history.",
+      "end_time": 96.168,
+      "duration": 3.408
+    },
+    {
+      "scene_id": 29,
+      "label": "CUPERTINO ORCHARDS, 1970",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 96.168,
+      "vo": "Because fifty years ago, there was no glass spaceship campus rising out of Cupertino apricot orchards.",
+      "end_time": 102.868,
+      "duration": 6.7
+    },
+    {
+      "scene_id": 30,
+      "label": "NO MARBLE TEMPLES",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 102.868,
+      "vo": "There were no pristine marble retail temples.",
+      "end_time": 105.688,
+      "duration": 2.82
+    },
+    {
+      "scene_id": 31,
+      "label": "NO BILLION-DOLLAR ADS",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 105.688,
+      "vo": "There were no billion-dollar marketing campaigns.",
+      "end_time": 107.976,
+      "duration": 2.288
+    },
+    {
+      "scene_id": 32,
+      "label": "CRIST DRIVE GARAGE",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 107.976,
+      "vo": "There was only a drafty suburban garage in Los Altos, California,",
+      "end_time": 112.116,
+      "duration": 4.14
+    },
+    {
+      "scene_id": 33,
+      "label": "OIL STAINS ON CONCRETE",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 112.116,
+      "vo": "with oil stains soaked into the concrete floor,",
+      "end_time": 114.936,
+      "duration": 2.82
+    },
+    {
+      "scene_id": 34,
+      "label": "BARELY $25",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 114.936,
+      "vo": "two college dropouts who had barely twenty-five dollars between them,",
+      "end_time": 117.776,
+      "duration": 2.84
+    },
+    {
+      "scene_id": 35,
+      "label": "THE SEED OF BETRAYAL",
+      "act_num": 1,
+      "act_title": "THE MONOLITH & THE REBELLION",
+      "start_time": 117.776,
+      "vo": "and an act of petty corporate theft that almost destroyed their friendship before it even began.",
+      "end_time": 123.384,
+      "duration": 5.608
+    },
+    {
+      "scene_id": 36,
+      "label": "NOT AN ENGINEERING COMPANY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 123.384,
+      "vo": "To understand Apple, you have to understand that it was never an engineering company.",
+      "end_time": 128.804,
+      "duration": 5.42
+    },
+    {
+      "scene_id": 37,
+      "label": "THE SAINT & THE PROPHET",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 128.804,
+      "vo": "It was an uneasy partnership between an engineering saint and a ruthless commercial prophet.",
+      "end_time": 133.752,
+      "duration": 4.948
+    },
+    {
+      "scene_id": 38,
+      "label": "VALLEY MISFITS, 1971",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 133.752,
+      "vo": "In 1971, Steve Wozniak and Steve Jobs were teenage misfits in the smoggy suburbs of Silicon Valley.",
+      "end_time": 142.712,
+      "duration": 8.96
+    },
+    {
+      "scene_id": 39,
+      "label": "THE ELECTRON DANCE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 142.712,
+      "vo": "Wozniak was a gentle, childlike prodigy who built electronic circuits for the pure, uncorrupted joy of making electrons dance.",
+      "end_time": 151.452,
+      "duration": 8.74
+    },
+    {
+      "scene_id": 40,
+      "label": "REED COLLEGE DROPOUT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 151.452,
+      "vo": "Jobs was a barefoot, brooding wanderer who attended Reed College, dropped out after one semester,",
+      "end_time": 157.992,
+      "duration": 6.54
+    },
+    {
+      "scene_id": 41,
+      "label": "5-CENT DEPOSIT BOTTLES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 157.992,
+      "vo": "slept on dorm room floors, and returned deposit bottles for five cents to buy food.",
+      "end_time": 163.008,
+      "duration": 5.016
+    },
+    {
+      "scene_id": 42,
+      "label": "ILLEGAL VENTURES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 163.008,
+      "vo": "Their first commercial venture was illegal.",
+      "end_time": 166.108,
+      "duration": 3.1
+    },
+    {
+      "scene_id": 43,
+      "label": "CAP'N CRUNCH WHISTLE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 166.108,
+      "vo": "Wozniak discovered that toy whistles packed inside Cap'n Crunch cereal boxes emitted a tone at exactly twenty-six hundred hertz.",
+      "end_time": 174.248,
+      "duration": 8.14
+    },
+    {
+      "scene_id": 44,
+      "label": "FOOLING THE SWITCHES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 174.248,
+      "vo": "That precise frequency fooled AT&T\u00e2\u20ac\u2122s automated telephone switches into granting free, untraceable long-distance calls across the globe.",
+      "end_time": 183.408,
+      "duration": 9.16
+    },
+    {
+      "scene_id": 45,
+      "label": "THE BLUE BOX",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 183.408,
+      "vo": "Woz built an electronic version called a Blue Box.",
+      "end_time": 186.588,
+      "duration": 3.18
+    },
+    {
+      "scene_id": 46,
+      "label": "SELLING FOR $150",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 186.588,
+      "vo": "Jobs realized they shouldn't just prank phone companies\u00e2\u20ac\u201dthey should sell the boxes to college students for one hundred and fifty dollars each.",
+      "end_time": 194.448,
+      "duration": 7.86
+    },
+    {
+      "scene_id": 47,
+      "label": "CALLING THE VATICAN",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 194.448,
+      "vo": "They used one to call the Vatican in Rome, with Wozniak pretending to be Henry Kissinger asking to speak to the Pope in the middle of the night.",
+      "end_time": 201.936,
+      "duration": 7.488
+    },
+    {
+      "scene_id": 48,
+      "label": "THE COLD SHADOW",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 201.936,
+      "vo": "Then came the incident that revealed the cold shadow inside Steve Jobs.",
+      "end_time": 206.064,
+      "duration": 4.128
+    },
+    {
+      "scene_id": 49,
+      "label": "ATARI & BREAKOUT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 206.064,
+      "vo": "In 1975, Atari founder Nolan Bushnell hired Jobs to build a single-player version of Pong called Breakout.",
+      "end_time": 213.604,
+      "duration": 7.54
+    },
+    {
+      "scene_id": 50,
+      "label": "THE $700 BASE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 213.604,
+      "vo": "Bushnell offered a bonus: seven hundred dollars for the game,",
+      "end_time": 217.124,
+      "duration": 3.52
+    },
+    {
+      "scene_id": 51,
+      "label": "$100 PER CHIP BOUNTY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 217.124,
+      "vo": "plus an extra one hundred dollars for every computer chip eliminated from the design.",
+      "end_time": 222.044,
+      "duration": 4.92
+    },
+    {
+      "scene_id": 52,
+      "label": "LACKING THE CHOPS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 222.044,
+      "vo": "Jobs knew he lacked the engineering chops to do it,",
+      "end_time": 224.804,
+      "duration": 2.76
+    },
+    {
+      "scene_id": 53,
+      "label": "THE 50/50 PROMISE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 224.804,
+      "vo": "so he begged Wozniak to help, promising they would split the payout fifty-fifty.",
+      "end_time": 229.488,
+      "duration": 4.684
+    },
+    {
+      "scene_id": 54,
+      "label": "FOUR SLEEPLESS NIGHTS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 229.488,
+      "vo": "Wozniak worked for four straight nights without sleep, contracting mono,",
+      "end_time": 233.748,
+      "duration": 4.26
+    },
+    {
+      "scene_id": 55,
+      "label": "50 CHIPS ELIMINATED",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 233.748,
+      "vo": "and designed a masterpiece that cut fifty chips from the circuit board.",
+      "end_time": 238.068,
+      "duration": 4.32
+    },
+    {
+      "scene_id": 56,
+      "label": "THE $5,000 PAYOUT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 238.068,
+      "vo": "Atari paid Jobs a massive five-thousand-dollar bonus.",
+      "end_time": 241.152,
+      "duration": 3.084
+    },
+    {
+      "scene_id": 57,
+      "label": "THE $700 LIE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 241.152,
+      "vo": "Jobs returned to the garage, looked his exhausted best friend in the eye, and told him Atari had paid only seven hundred dollars.",
+      "end_time": 246.952,
+      "duration": 5.8
+    },
+    {
+      "scene_id": 58,
+      "label": "HANDING OVER $350",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 246.952,
+      "vo": "He handed Wozniak three hundred and fifty dollars,",
+      "end_time": 250.552,
+      "duration": 3.6
+    },
+    {
+      "scene_id": 59,
+      "label": "POCKETING $4,650",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 250.552,
+      "vo": "and pocketed the remaining four thousand six hundred and fifty dollars for himself.",
+      "end_time": 255.596,
+      "duration": 5.044
+    },
+    {
+      "scene_id": 60,
+      "label": "THE TEARS OF WOZ",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 255.596,
+      "vo": "Years later, when Wozniak discovered the truth, he broke down and cried.",
+      "end_time": 259.996,
+      "duration": 4.4
+    },
+    {
+      "scene_id": 61,
+      "label": "HE DIDN'T WALK AWAY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 259.996,
+      "vo": "But he didn't walk away.",
+      "end_time": 260.846,
+      "duration": 0.85
+    },
+    {
+      "scene_id": 62,
+      "label": "THE CARDBOARD BOX TRAP",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 260.846,
+      "vo": "Because despite Jobs\u00e2\u20ac\u2122s ruthless deceit, Woz knew that without Jobs, his brilliant inventions would sit in a cardboard box on a bedroom floor forever.",
+      "end_time": 270.72,
+      "duration": 9.874
+    },
+    {
+      "scene_id": 63,
+      "label": "THE 1976 EPIPHANY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 270.72,
+      "vo": "In early 1976, Wozniak had an epiphany that changed computing history.",
+      "end_time": 276.168,
+      "duration": 5.448
+    },
+    {
+      "scene_id": 64,
+      "label": "MAINFRAME MONSTERS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 276.168,
+      "vo": "At the time, computers were terrifying, multi-million-dollar metal cabinets locked behind plate glass in air-conditioned basements of banks and military installations.",
+      "end_time": 287.108,
+      "duration": 10.94
+    },
+    {
+      "scene_id": 65,
+      "label": "THE WHITE COAT PRIESTHOOD",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 287.108,
+      "vo": "They were fed paper punch cards by men in white lab coats.",
+      "end_time": 291.088,
+      "duration": 3.98
+    },
+    {
+      "scene_id": 66,
+      "label": "ABSURDITY IN THE HOME",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 291.088,
+      "vo": "The idea that an ordinary human would want a computer in their living room was considered absurd.",
+      "end_time": 296.588,
+      "duration": 5.5
+    },
+    {
+      "scene_id": 67,
+      "label": "KEN OLSEN'S MOCKERY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 296.588,
+      "vo": "Ken Olsen, founder of Digital Equipment Corporation, famously mocked: \"There is no reason anyone would want a computer in their home.\"",
+      "end_time": 304.584,
+      "duration": 7.996
+    },
+    {
+      "scene_id": 68,
+      "label": "WOZNIAK DISAGREED",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 304.584,
+      "vo": "Wozniak disagreed.",
+      "end_time": 306.584,
+      "duration": 2.0
+    },
+    {
+      "scene_id": 69,
+      "label": "WIRING ON THE FLOOR",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 306.584,
+      "vo": "Sitting on the floor of his cramped apartment, he wired an ordinary keyboard directly to a microprocessor,",
+      "end_time": 311.704,
+      "duration": 5.12
+    },
+    {
+      "scene_id": 70,
+      "label": "THE B&W TV MONITOR",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 311.704,
+      "vo": "and hooked the output to a portable black-and-white television screen.",
+      "end_time": 315.944,
+      "duration": 4.24
+    },
+    {
+      "scene_id": 71,
+      "label": "THE KEYPRESS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 315.944,
+      "vo": "He pressed a key.",
+      "end_time": 317.384,
+      "duration": 1.44
+    },
+    {
+      "scene_id": 72,
+      "label": "THE INSTANT LETTER",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 317.384,
+      "vo": "And for the first time in human history, the letter appeared instantly on the screen in front of him.",
+      "end_time": 322.152,
+      "duration": 4.768
+    },
+    {
+      "scene_id": 73,
+      "label": "NO PUNCH CARDS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 322.152,
+      "vo": "No punch cards.",
+      "end_time": 324.072,
+      "duration": 1.92
+    },
+    {
+      "scene_id": 74,
+      "label": "NO PRINTOUTS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 324.072,
+      "vo": "No paper printouts.",
+      "end_time": 325.832,
+      "duration": 1.76
+    },
+    {
+      "scene_id": 75,
+      "label": "NO WAITING OVERNIGHT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 325.832,
+      "vo": "No waiting overnight.",
+      "end_time": 327.352,
+      "duration": 1.52
+    },
+    {
+      "scene_id": 76,
+      "label": "PERSONAL COMPUTING BORN",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 327.352,
+      "vo": "It was instantaneous, personal computing.",
+      "end_time": 330.168,
+      "duration": 2.816
+    },
+    {
+      "scene_id": 77,
+      "label": "HOMEBREW GYMNASIUM",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 330.168,
+      "vo": "Woz was so proud that he took his schematics to the Homebrew Computer Club in Menlo Park",
+      "end_time": 335.208,
+      "duration": 5.04
+    },
+    {
+      "scene_id": 78,
+      "label": "GIVING SCHEMATICS FREE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 335.208,
+      "vo": "and gave them away to fellow hobbyists for free.",
+      "end_time": 338.184,
+      "duration": 2.976
+    },
+    {
+      "scene_id": 79,
+      "label": "JOBS INTERVENES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 338.184,
+      "vo": "When Jobs saw the machine, he intervened immediately.",
+      "end_time": 341.964,
+      "duration": 3.78
+    },
+    {
+      "scene_id": 80,
+      "label": "STOP GIVING IT AWAY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 341.964,
+      "vo": "\"Stop giving it away,\" Jobs demanded.",
+      "end_time": 345.064,
+      "duration": 3.1
+    },
+    {
+      "scene_id": 81,
+      "label": "BUILD BOARDS AND SELL",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 345.064,
+      "vo": "\"Let's build circuit boards and sell them.\"",
+      "end_time": 346.92,
+      "duration": 1.856
+    },
+    {
+      "scene_id": 82,
+      "label": "SELLING THE VW BUS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 346.92,
+      "vo": "To raise the seed capital, Jobs sold his beloved red-and-white Volkswagen microbus for a few hundred dollars.",
+      "end_time": 354.24,
+      "duration": 7.32
+    },
+    {
+      "scene_id": 83,
+      "label": "SELLING THE HP CALCULATOR",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 354.24,
+      "vo": "Wozniak sold his prized Hewlett-Packard scientific calculator for five hundred.",
+      "end_time": 359.1,
+      "duration": 4.86
+    },
+    {
+      "scene_id": 84,
+      "label": "$1,300 SEED MONEY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 359.1,
+      "vo": "Combined, they had thirteen hundred dollars.",
+      "end_time": 361.368,
+      "duration": 2.268
+    },
+    {
+      "scene_id": 85,
+      "label": "APRIL FOOLS' DAY, 1976",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 361.368,
+      "vo": "They incorporated on April Fools\u00e2\u20ac\u2122 Day, 1976.",
+      "end_time": 365.788,
+      "duration": 4.42
+    },
+    {
+      "scene_id": 86,
+      "label": "THE OREGON ORCHARD",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 365.788,
+      "vo": "Jobs named it Apple Computer after spending time pruning Gravenstein trees on an Oregon orchard commune.",
+      "end_time": 372.288,
+      "duration": 6.5
+    },
+    {
+      "scene_id": 87,
+      "label": "FRIENDLY & APPROACHABLE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 372.288,
+      "vo": "It sounded friendly, non-threatening,",
+      "end_time": 374.608,
+      "duration": 2.32
+    },
+    {
+      "scene_id": 88,
+      "label": "BEFORE ATARI IN DIRECTORY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 374.608,
+      "vo": "and crucially, it appeared before Atari in the phone book.",
+      "end_time": 377.616,
+      "duration": 3.008
+    },
+    {
+      "scene_id": 89,
+      "label": "BYTE SHOP PITCH",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 377.616,
+      "vo": "Jobs marched into the Byte Shop in Mountain View and pitched their naked circuit board to owner Paul Terrell.",
+      "end_time": 384.276,
+      "duration": 6.66
+    },
+    {
+      "scene_id": 90,
+      "label": "TERRELL'S COUNTEROFFER",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 384.276,
+      "vo": "Terrell looked at the board of exposed wires and made an unexpected counteroffer:",
+      "end_time": 388.756,
+      "duration": 4.48
+    },
+    {
+      "scene_id": 91,
+      "label": "50 ASSEMBLED COMPUTERS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 388.756,
+      "vo": "he would buy fifty units, but only if they were fully assembled, working computers.",
+      "end_time": 392.216,
+      "duration": 3.46
+    },
+    {
+      "scene_id": 92,
+      "label": "$500 CASH ON DELIVERY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 392.216,
+      "vo": "Price: five hundred dollars each, cash on delivery.",
+      "end_time": 395.456,
+      "duration": 3.24
+    },
+    {
+      "scene_id": 93,
+      "label": "$25,000 STAGGERING SUM",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 395.456,
+      "vo": "Twenty-five thousand dollars.",
+      "end_time": 400.004,
+      "duration": 4.548
+    },
+    {
+      "scene_id": 94,
+      "label": "UNIMAGINED WEALTH",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 400.004,
+      "vo": "It was more money than either of them had ever contemplated.",
+      "end_time": 402.648,
+      "duration": 2.644
+    },
+    {
+      "scene_id": 95,
+      "label": "GARAGE ASSEMBLY PLANT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 402.648,
+      "vo": "The garage on Crist Drive became an assembly plant.",
+      "end_time": 406.088,
+      "duration": 3.44
+    },
+    {
+      "scene_id": 96,
+      "label": "$1 PER BOARD SOLDERING",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 406.088,
+      "vo": "Jobs\u00e2\u20ac\u2122s sister was paid one dollar per board to solder chip sockets.",
+      "end_time": 409.148,
+      "duration": 3.06
+    },
+    {
+      "scene_id": 97,
+      "label": "30 DAYS PARTS CREDIT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 409.148,
+      "vo": "Jobs badgered electronic suppliers into giving him thirty days of credit on parts.",
+      "end_time": 415.328,
+      "duration": 6.18
+    },
+    {
+      "scene_id": 98,
+      "label": "50 DELIVERED IN WOOD",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 415.328,
+      "vo": "They delivered all fifty computers on time in wooden boxes.",
+      "end_time": 418.536,
+      "duration": 3.208
+    },
+    {
+      "scene_id": 99,
+      "label": "APPLE I HOBBYIST HIT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 418.536,
+      "vo": "The Apple I was an underground hit among hardcore hobbyists.",
+      "end_time": 422.496,
+      "duration": 3.96
+    },
+    {
+      "scene_id": 100,
+      "label": "JOBS DISSATISFIED",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 422.496,
+      "vo": "But Jobs was already dissatisfied.",
+      "end_time": 424.916,
+      "duration": 2.42
+    },
+    {
+      "scene_id": 101,
+      "label": "RAW BOARD FOR NERDS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 424.916,
+      "vo": "It was still just a raw circuit board for nerds with soldering irons.",
+      "end_time": 428.592,
+      "duration": 3.676
+    },
+    {
+      "scene_id": 102,
+      "label": "CONSUMER APPLIANCE VISION",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 428.592,
+      "vo": "Jobs understood that a true revolution wouldn't happen until computers became consumer appliances.",
+      "end_time": 434.792,
+      "duration": 6.2
+    },
+    {
+      "scene_id": 103,
+      "label": "SIMPLE AS A TOASTER",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 434.792,
+      "vo": "Friendly, beautiful, quiet machines that worked straight out of the box, as simple as a kitchen toaster.",
+      "end_time": 441.096,
+      "duration": 6.304
+    },
+    {
+      "scene_id": 104,
+      "label": "THE APPLE II MAGNUM OPUS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 441.096,
+      "vo": "Woz sat down and engineered his magnum opus: the Apple II.",
+      "end_time": 444.996,
+      "duration": 3.9
+    },
+    {
+      "scene_id": 105,
+      "label": "COLOR GRAPHICS & SOUND",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 444.996,
+      "vo": "It featured built-in color graphics, sound, game ports, and expansion slots.",
+      "end_time": 451.556,
+      "duration": 6.56
+    },
+    {
+      "scene_id": 106,
+      "label": "OBSESSING OVER ENCLOSURE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 451.556,
+      "vo": "Jobs obsessed over the industrial enclosure.",
+      "end_time": 454.616,
+      "duration": 3.06
+    },
+    {
+      "scene_id": 107,
+      "label": "NO VISIBLE SCREWS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 454.616,
+      "vo": "No visible metal screws.",
+      "end_time": 456.636,
+      "duration": 2.02
+    },
+    {
+      "scene_id": 108,
+      "label": "NO COOLING FAN",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 456.636,
+      "vo": "No ugly, noisy cooling fan\u00e2\u20ac\u201dthe machine had to be completely silent,",
+      "end_time": 461.816,
+      "duration": 5.18
+    },
+    {
+      "scene_id": 109,
+      "label": "SWITCHING POWER SUPPLY",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 461.816,
+      "vo": "requiring a custom lightweight switching power supply.",
+      "end_time": 465.156,
+      "duration": 3.34
+    },
+    {
+      "scene_id": 110,
+      "label": "40 SHADES OF BEIGE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 465.156,
+      "vo": "He spent weeks examining forty different plastic color swatches to find the precise, warm shade of beige.",
+      "end_time": 471.624,
+      "duration": 6.468
+    },
+    {
+      "scene_id": 111,
+      "label": "NEEDING SERIOUS CAPITAL",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 471.624,
+      "vo": "To manufacture it, they needed serious capital.",
+      "end_time": 473.864,
+      "duration": 2.24
+    },
+    {
+      "scene_id": 112,
+      "label": "ENTER MIKE MARKKULA",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 473.864,
+      "vo": "Enter Mike Markkula, an Intel millionaire who recognized genius in the mismatched duo.",
+      "end_time": 479.524,
+      "duration": 5.66
+    },
+    {
+      "scene_id": 113,
+      "label": "$92,000 INVESTMENT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 479.524,
+      "vo": "Markkula invested ninety-two thousand dollars of his own money,",
+      "end_time": 483.504,
+      "duration": 3.98
+    },
+    {
+      "scene_id": 114,
+      "label": "$250,000 LINE OF CREDIT",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 483.504,
+      "vo": "secured a quarter-million-dollar line of credit,",
+      "end_time": 486.724,
+      "duration": 3.22
+    },
+    {
+      "scene_id": 115,
+      "label": "EMPATHY & FOCUS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 486.724,
+      "vo": "and instituted Apple's corporate philosophy: empathy with the customer, focus,",
+      "end_time": 490.104,
+      "duration": 3.38
+    },
+    {
+      "scene_id": 116,
+      "label": "THE IMPUTING DOCTRINE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 490.104,
+      "vo": "and \"imputing\"\u00e2\u20ac\u201dthe belief that people judge a book by its cover, and that beautiful design signals quality before the power switch is even flipped.",
+      "end_time": 499.632,
+      "duration": 9.528
+    },
+    {
+      "scene_id": 117,
+      "label": "WEST COAST COMPUTER FAIRE",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 499.632,
+      "vo": "The Apple II debuted at the 1977 West Coast Computer Faire.",
+      "end_time": 505.412,
+      "duration": 5.78
+    },
+    {
+      "scene_id": 118,
+      "label": "COMPETITORS' DRAB GREY BOXES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 505.412,
+      "vo": "While competitors displayed drab grey metal industrial boxes,",
+      "end_time": 509.832,
+      "duration": 4.42
+    },
+    {
+      "scene_id": 119,
+      "label": "GLOWING ACRYLIC RAINBOW",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 509.832,
+      "vo": "Apple\u00e2\u20ac\u2122s booth glowed with backlit acrylic signs and friendly beige appliances.",
+      "end_time": 514.92,
+      "duration": 5.088
+    },
+    {
+      "scene_id": 120,
+      "label": "VISICALC SPREADSHEET",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 514.92,
+      "vo": "Then, in 1979, two Harvard students wrote VisiCalc\u00e2\u20ac\u201dthe world\u00e2\u20ac\u2122s first electronic spreadsheet.",
+      "end_time": 523.48,
+      "duration": 8.56
+    },
+    {
+      "scene_id": 121,
+      "label": "NOT FOR ARCADE GAMES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 523.48,
+      "vo": "Suddenly, corporate executives weren't buying an Apple II to play breakout games.",
+      "end_time": 528.94,
+      "duration": 5.46
+    },
+    {
+      "scene_id": 122,
+      "label": "20 SECONDS VS 20 DAYS",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 528.94,
+      "vo": "They were buying it because it calculated corporate financial forecasts in twenty seconds instead of twenty days.",
+      "end_time": 535.176,
+      "duration": 6.236
+    },
+    {
+      "scene_id": 123,
+      "label": "ECONOMIC ROCKET SHIP",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 535.176,
+      "vo": "Apple became an economic rocket ship.",
+      "end_time": 538.476,
+      "duration": 3.3
+    },
+    {
+      "scene_id": 124,
+      "label": "$8M TO $117M EXPLOSION",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 538.476,
+      "vo": "Revenue skyrocketed from eight million dollars in 1978 to one hundred and seventeen million in 1980.",
+      "end_time": 544.584,
+      "duration": 6.108
+    },
+    {
+      "scene_id": 125,
+      "label": "WALL STREET IPO, DEC 1980",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 544.584,
+      "vo": "On December 12, 1980, Apple Computer went public on Wall Street.",
+      "end_time": 550.624,
+      "duration": 6.04
+    },
+    {
+      "scene_id": 126,
+      "label": "LARGEST IPO SINCE FORD",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 550.624,
+      "vo": "It was the largest stock market debut since Ford Motor Company in 1956.",
+      "end_time": 556.504,
+      "duration": 5.88
+    },
+    {
+      "scene_id": 127,
+      "label": "300 INSTANT MILLIONAIRES",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 556.504,
+      "vo": "In an afternoon, three hundred Apple employees became instant millionaires.",
+      "end_time": 561.672,
+      "duration": 5.168
+    },
+    {
+      "scene_id": 128,
+      "label": "AGE 25: $256 MILLION",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 561.672,
+      "vo": "Steve Jobs, at age twenty-five, was suddenly worth two hundred and fifty-six million dollars.",
+      "end_time": 567.872,
+      "duration": 6.2
+    },
+    {
+      "scene_id": 129,
+      "label": "VALLEY CONQUEROR",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 567.872,
+      "vo": "He had conquered Silicon Valley before his hair had even begun to thin.",
+      "end_time": 571.608,
+      "duration": 3.736
+    },
+    {
+      "scene_id": 130,
+      "label": "HUBRIS TAKES CONTROL",
+      "act_num": 2,
+      "act_title": "THE WIZARD, THE MERCHANT & THE GARAGE",
+      "start_time": 571.608,
+      "vo": "And that is when the hubris took control.",
+      "end_time": 573.188,
+      "duration": 1.58
+    },
+    {
+      "scene_id": 131,
+      "label": "THE HUBRIS OF WEALTH",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 573.188,
+      "vo": "Wealth amplified Jobs's worst instincts.",
+      "end_time": 577.536,
+      "duration": 4.348
+    },
+    {
+      "scene_id": 132,
+      "label": "THE INFALLIBLE EMPEROR",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 577.536,
+      "vo": "He became convinced of his absolute infallibility.",
+      "end_time": 580.344,
+      "duration": 2.808
+    },
+    {
+      "scene_id": 133,
+      "label": "XEROX PARC, DEC 1979",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 580.344,
+      "vo": "In December 1979, Jobs visited the Xerox Palo Alto Research Center.",
+      "end_time": 587.024,
+      "duration": 6.68
+    },
+    {
+      "scene_id": 134,
+      "label": "THE 100,000 SHARE DEAL",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 587.024,
+      "vo": "In exchange for one million dollars of pre-IPO Apple stock, Xerox scientists agreed to give Jobs a tour of their secret computer laboratories.",
+      "end_time": 595.44,
+      "duration": 8.416
+    },
+    {
+      "scene_id": 135,
+      "label": "THE SECRET LAB",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 595.44,
+      "vo": "They showed him three revolutionary technologies:",
+      "end_time": 599.04,
+      "duration": 3.6
+    },
+    {
+      "scene_id": 136,
+      "label": "OBJECT-ORIENTED CODE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 599.04,
+      "vo": "object-oriented programming,",
+      "end_time": 600.68,
+      "duration": 1.64
+    },
+    {
+      "scene_id": 137,
+      "label": "ETHERNET NETWORKING",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 600.68,
+      "vo": "networked Ethernet,",
+      "end_time": 601.64,
+      "duration": 0.96
+    },
+    {
+      "scene_id": 138,
+      "label": "THE MOUSE & WINDOWS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 601.64,
+      "vo": "and a graphical user interface where a handheld mouse moved a cursor across virtual windows on a screen.",
+      "end_time": 607.608,
+      "duration": 5.968
+    },
+    {
+      "scene_id": 139,
+      "label": "PUPILS OF SHOCK",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 607.608,
+      "vo": "Jobs stared at the screen, his pupils dilated in pure shock.",
+      "end_time": 612.168,
+      "duration": 4.56
+    },
+    {
+      "scene_id": 140,
+      "label": "BLIND COPIER GIANT",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 612.168,
+      "vo": "Xerox was a copier company whose corporate executives had zero idea what their scientists had built.",
+      "end_time": 617.968,
+      "duration": 5.8
+    },
+    {
+      "scene_id": 141,
+      "label": "WHY AREN'T YOU DOING THIS?",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 617.968,
+      "vo": "Jobs began pacing the room, shouting: \"Why aren't you doing anything with this?",
+      "end_time": 622.528,
+      "duration": 4.56
+    },
+    {
+      "scene_id": 142,
+      "label": "THE GREATEST THING",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 622.528,
+      "vo": "This is the greatest thing!",
+      "end_time": 624.148,
+      "duration": 1.62
+    },
+    {
+      "scene_id": 143,
+      "label": "THE DIGITAL GOLD MINE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 624.148,
+      "vo": "You are sitting on a gold mine!\"",
+      "end_time": 625.632,
+      "duration": 1.484
+    },
+    {
+      "scene_id": 144,
+      "label": "THE LISA OBSESSION",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 625.632,
+      "vo": "Jobs raced back to Apple, determined to build the graphical interface into Apple\u00e2\u20ac\u2122s next corporate machine: the Lisa.",
+      "end_time": 632.4,
+      "duration": 6.768
+    },
+    {
+      "scene_id": 145,
+      "label": "THE LISA DISASTER",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 632.4,
+      "vo": "It was a disaster.",
+      "end_time": 634.48,
+      "duration": 2.08
+    },
+    {
+      "scene_id": 146,
+      "label": "DAILY SPEC SHIFTS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 634.48,
+      "vo": "Jobs meddled with engineering teams, changed architectural specs daily,",
+      "end_time": 638.78,
+      "duration": 4.3
+    },
+    {
+      "scene_id": 147,
+      "label": "STRATOSPHERIC COSTS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 638.78,
+      "vo": "and drove costs into the stratosphere.",
+      "end_time": 640.06,
+      "duration": 1.28
+    },
+    {
+      "scene_id": 148,
+      "label": "$9,995 PRICE TAG",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 640.06,
+      "vo": "When the Lisa finally launched in 1983, it carried a price tag of nine thousand nine hundred and ninety-five dollars\u00e2\u20ac\u201dnearly thirty thousand dollars in today\u00e2\u20ac\u2122s money.",
+      "end_time": 651.56,
+      "duration": 11.5
+    },
+    {
+      "scene_id": 149,
+      "label": "THE CATASTROPHIC FLOP",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 651.56,
+      "vo": "It flopped catastrophically.",
+      "end_time": 653.6,
+      "duration": 2.04
+    },
+    {
+      "scene_id": 150,
+      "label": "CONVOY TO UTAH",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 653.6,
+      "vo": "Apple eventually hauled thousands of unsold Lisas into the Utah desert",
+      "end_time": 657.38,
+      "duration": 3.78
+    },
+    {
+      "scene_id": 151,
+      "label": "THE UTAH LANDFILL",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 657.38,
+      "vo": "and buried them in a landfill.",
+      "end_time": 659.184,
+      "duration": 1.804
+    },
+    {
+      "scene_id": 152,
+      "label": "STRIPPED OF LISA AUTHORITY",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 659.184,
+      "vo": "Humiliated, the board stripped Jobs of all authority on the Lisa project.",
+      "end_time": 663.408,
+      "duration": 4.224
+    },
+    {
+      "scene_id": 153,
+      "label": "THIRST FOR REVENGE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 663.408,
+      "vo": "Furious, Jobs sought revenge.",
+      "end_time": 666.348,
+      "duration": 2.94
+    },
+    {
+      "scene_id": 154,
+      "label": "HIJACKING THE MAC",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 666.348,
+      "vo": "He marched across the street into an annex building and hijacked a small, experimental skunkworks project led by Jef Raskin: the Macintosh.",
+      "end_time": 675.144,
+      "duration": 8.796
+    },
+    {
+      "scene_id": 155,
+      "label": "CAMPUS CIVIL WAR",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 675.144,
+      "vo": "Jobs declared open civil war against the rest of Apple.",
+      "end_time": 678.768,
+      "duration": 3.624
+    },
+    {
+      "scene_id": 156,
+      "label": "THE PIRATE FLAG",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 678.768,
+      "vo": "He hoisted a black pirate flag with a skull and rainbow Apple eye patch above the Macintosh building",
+      "end_time": 684.988,
+      "duration": 6.22
+    },
+    {
+      "scene_id": 157,
+      "label": "BETTER TO BE PIRATES",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 684.988,
+      "vo": "and told his team: \"It is better to be a pirate than to join the Navy.\"",
+      "end_time": 689.856,
+      "duration": 4.868
+    },
+    {
+      "scene_id": 158,
+      "label": "90-HOUR WEEKS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 689.856,
+      "vo": "The Macintosh engineers worked eighty to ninety hours a week,",
+      "end_time": 693.016,
+      "duration": 3.16
+    },
+    {
+      "scene_id": 159,
+      "label": "WEARING EXHAUSTION",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 693.016,
+      "vo": "wearing t-shirts that boasted of their exhaustion.",
+      "end_time": 697.136,
+      "duration": 4.12
+    },
+    {
+      "scene_id": 160,
+      "label": "REALITY DISTORTION FIELD",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 697.136,
+      "vo": "Jobs pushed them through what colleagues called his \"Reality Distortion Field\"\u00e2\u20ac\u201d",
+      "end_time": 701.956,
+      "duration": 4.82
+    },
+    {
+      "scene_id": 161,
+      "label": "CHARM & ABUSE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 701.956,
+      "vo": "a hypnotic blend of charismatic charm, relentless will, and psychological abuse.",
+      "end_time": 708.156,
+      "duration": 6.2
+    },
+    {
+      "scene_id": 162,
+      "label": "THIS IS GARBAGE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 708.156,
+      "vo": "If an engineer presented code Jobs didn't like, he would scream that it was garbage.",
+      "end_time": 713.696,
+      "duration": 5.54
+    },
+    {
+      "scene_id": 163,
+      "label": "THE STOLEN EUREKA",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 713.696,
+      "vo": "If an engineer solved an impossible problem, Jobs would return two days later and claim the idea as his own.",
+      "end_time": 720.596,
+      "duration": 6.9
+    },
+    {
+      "scene_id": 164,
+      "label": "THE DEVOTED TEAM",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 720.596,
+      "vo": "Yet they worshipped him.",
+      "end_time": 722.732,
+      "duration": 2.136
+    },
+    {
+      "scene_id": 165,
+      "label": "THE IMPOSSIBLE ACHIEVED",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 722.732,
+      "vo": "Because he forced them to achieve engineering feats they did not believe were possible.",
+      "end_time": 727.572,
+      "duration": 4.84
+    },
+    {
+      "scene_id": 166,
+      "label": "CHAMPAGNE, FEB 10 1982",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 727.572,
+      "vo": "On February 10, 1982, Jobs brought the entire team together with a bottle of champagne,",
+      "end_time": 733.852,
+      "duration": 6.28
+    },
+    {
+      "scene_id": 167,
+      "label": "SIGNING THE DRAFT",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 733.852,
+      "vo": "laid out a large sheet of drafting paper, and had all forty engineers sign their names.",
+      "end_time": 739.312,
+      "duration": 5.46
+    },
+    {
+      "scene_id": 168,
+      "label": "ENGRAVED IN PLASTIC",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 739.312,
+      "vo": "He then had their signatures engraved permanently inside the plastic tooling of every single Macintosh case.",
+      "end_time": 744.572,
+      "duration": 5.26
+    },
+    {
+      "scene_id": 169,
+      "label": "REAL ARTISTS SIGN",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 744.572,
+      "vo": "\"Real artists sign their work,\" Jobs proclaimed.",
+      "end_time": 748.776,
+      "duration": 4.204
+    },
+    {
+      "scene_id": 170,
+      "label": "ADVERTISING EARTHQUAKE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 748.776,
+      "vo": "To launch the computer, Jobs demanded an advertising earthquake.",
+      "end_time": 753.276,
+      "duration": 4.5
+    },
+    {
+      "scene_id": 171,
+      "label": "RIDLEY SCOTT ON SET",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 753.276,
+      "vo": "He hired Hollywood director Ridley Scott",
+      "end_time": 755.416,
+      "duration": 2.14
+    },
+    {
+      "scene_id": 172,
+      "label": "$750,000 SUPER BOWL AD",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 755.416,
+      "vo": "and spent an unprecedented seven hundred and fifty thousand dollars to create the iconic \"1984\" Super Bowl commercial.",
+      "end_time": 763.224,
+      "duration": 7.808
+    },
+    {
+      "scene_id": 173,
+      "label": "THE 1984 DYSTOPIA",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 763.224,
+      "vo": "It depicted a grey, totalitarian dystopia where brainwashed masses stare at a giant video wall of Big Brother\u00e2\u20ac\u201da thinly veiled stand-in for IBM.",
+      "end_time": 773.784,
+      "duration": 10.56
+    },
+    {
+      "scene_id": 174,
+      "label": "THE RED RUNNER",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 773.784,
+      "vo": "Suddenly, a lone female athlete in bright red shorts sprints down the aisle",
+      "end_time": 778.164,
+      "duration": 4.38
+    },
+    {
+      "scene_id": 175,
+      "label": "THE SLEDGEHAMMER SMASH",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 778.164,
+      "vo": "and hurls a sledgehammer through the screen, exploding it in a shower of sparks and blinding light.",
+      "end_time": 783.672,
+      "duration": 5.508
+    },
+    {
+      "scene_id": 176,
+      "label": "BOARDROOM HORROR",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 783.672,
+      "vo": "Apple\u00e2\u20ac\u2122s board of directors watched a screening in horror.",
+      "end_time": 786.972,
+      "duration": 3.3
+    },
+    {
+      "scene_id": 177,
+      "label": "RECKLESS & HUMILIATING",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 786.972,
+      "vo": "They thought it was reckless, arrogant, and humiliating.",
+      "end_time": 790.372,
+      "duration": 3.4
+    },
+    {
+      "scene_id": 178,
+      "label": "SELL OFF THE SLOTS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 790.372,
+      "vo": "They ordered the advertising agency to sell off the Super Bowl commercial slots.",
+      "end_time": 794.328,
+      "duration": 3.956
+    },
+    {
+      "scene_id": 179,
+      "label": "JOBS REFUSES",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 794.328,
+      "vo": "Jobs refused.",
+      "end_time": 796.028,
+      "duration": 1.7
+    },
+    {
+      "scene_id": 180,
+      "label": "WOZ OFFERS HIS OWN CASH",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 796.028,
+      "vo": "Steve Wozniak offered to pay for half the broadcast out of his own pocket.",
+      "end_time": 799.752,
+      "duration": 3.724
+    },
+    {
+      "scene_id": 181,
+      "label": "SUPER BOWL SUNDAY, 1984",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 799.752,
+      "vo": "On Super Bowl Sunday, January 22, 1984, the commercial aired to ninety-six million viewers.",
+      "end_time": 808.012,
+      "duration": 8.26
+    },
+    {
+      "scene_id": 182,
+      "label": "EVENING NEWS DOMINATION",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 808.012,
+      "vo": "It aired only once on national television, but it dominated every evening news broadcast in America.",
+      "end_time": 814.56,
+      "duration": 6.548
+    },
+    {
+      "scene_id": 183,
+      "label": "FLINT CENTER AUDITORIUM",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 814.56,
+      "vo": "Two days later, Jobs walked onto the stage at the Flint Center auditorium in Cupertino.",
+      "end_time": 819.7,
+      "duration": 5.14
+    },
+    {
+      "scene_id": 184,
+      "label": "THE POLKA-DOT BOW TIE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 819.7,
+      "vo": "He wore a polka-dot bow tie.",
+      "end_time": 821.88,
+      "duration": 2.18
+    },
+    {
+      "scene_id": 185,
+      "label": "OUT OF THE CANVAS BAG",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 821.88,
+      "vo": "He pulled a small, beige rectangular computer from a canvas carrying bag,",
+      "end_time": 826.28,
+      "duration": 4.4
+    },
+    {
+      "scene_id": 186,
+      "label": "THE FLOPPY SLIDE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 826.28,
+      "vo": "slid a floppy disk into the drive, and stepped back.",
+      "end_time": 828.936,
+      "duration": 2.656
+    },
+    {
+      "scene_id": 187,
+      "label": "CURSIVE HELLO",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 828.936,
+      "vo": "The computer drew cursive letters on the screen: \"hello\".",
+      "end_time": 830.976,
+      "duration": 2.04
+    },
+    {
+      "scene_id": 188,
+      "label": "SYNTHETIC VOICE: HELLO",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 830.976,
+      "vo": "Then, it spoke in a synthetic voice: \"Hello, I am Macintosh.",
+      "end_time": 837.476,
+      "duration": 6.5
+    },
+    {
+      "scene_id": 189,
+      "label": "OUT OF THAT BAG",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 837.476,
+      "vo": "It sure is great to get out of that bag...",
+      "end_time": 839.956,
+      "duration": 2.48
+    },
+    {
+      "scene_id": 190,
+      "label": "CANNOT LIFT",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 839.956,
+      "vo": "Never trust a computer you cannot lift.\"",
+      "end_time": 842.064,
+      "duration": 2.108
+    },
+    {
+      "scene_id": 191,
+      "label": "DEAFENING STANDING OVATION",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 842.064,
+      "vo": "The auditorium exploded into a deafening standing ovation.",
+      "end_time": 846.464,
+      "duration": 4.4
+    },
+    {
+      "scene_id": 192,
+      "label": "TEARS IN THE FRONT ROW",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 846.464,
+      "vo": "People in the front rows were weeping.",
+      "end_time": 848.844,
+      "duration": 2.38
+    },
+    {
+      "scene_id": 193,
+      "label": "THE GUI REVOLUTION",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 848.844,
+      "vo": "The mouse, the desktop, the trash can, and proportional typography were officially unleashed upon the world.",
+      "end_time": 856.08,
+      "duration": 7.236
+    },
+    {
+      "scene_id": 194,
+      "label": "THE COLD REALITY",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 856.08,
+      "vo": "Then, the cold reality hit.",
+      "end_time": 858.288,
+      "duration": 2.208
+    },
+    {
+      "scene_id": 195,
+      "label": "BEAUTIFUL BUT CRIPPLED",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 858.288,
+      "vo": "The Macintosh was visually breathtaking, but technologically crippled.",
+      "end_time": 862.768,
+      "duration": 4.48
+    },
+    {
+      "scene_id": 196,
+      "label": "WARPING CIRCUIT BOARDS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 862.768,
+      "vo": "In his obsession with design, Jobs had refused to install a cooling fan, causing the machine to overheat and warp circuit boards.",
+      "end_time": 870.568,
+      "duration": 7.8
+    },
+    {
+      "scene_id": 197,
+      "label": "MINUSCULE 128K",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 870.568,
+      "vo": "He had limited the memory to a minuscule 128 kilobytes.",
+      "end_time": 874.568,
+      "duration": 4.0
+    },
+    {
+      "scene_id": 198,
+      "label": "NO INTERNAL HARD DRIVE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 874.568,
+      "vo": "It had no internal hard drive.",
+      "end_time": 876.748,
+      "duration": 2.18
+    },
+    {
+      "scene_id": 199,
+      "label": "FLOPPY DISK SHUFFLE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 876.748,
+      "vo": "Users had to perform the \"floppy disk shuffle,\" ejecting and re-inserting disks dozens of times just to copy a single file.",
+      "end_time": 883.824,
+      "duration": 7.076
+    },
+    {
+      "scene_id": 200,
+      "label": "THE BRICK WALL",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 883.824,
+      "vo": "By late 1984, sales hit a brick wall.",
+      "end_time": 888.084,
+      "duration": 4.26
+    },
+    {
+      "scene_id": 201,
+      "label": "10,000 BUILT, 2,000 SOLD",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 888.084,
+      "vo": "Apple was manufacturing ten thousand Macs a month and selling fewer than two thousand.",
+      "end_time": 893.844,
+      "duration": 5.76
+    },
+    {
+      "scene_id": 202,
+      "label": "FREMONT GHOST FACTORY",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 893.844,
+      "vo": "Its highly automated manufacturing facility in Fremont, California, was running at ten percent capacity.",
+      "end_time": 900.484,
+      "duration": 6.64
+    },
+    {
+      "scene_id": 203,
+      "label": "HEMORRHAGING MILLIONS",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 900.484,
+      "vo": "The company was hemorrhaging tens of millions of dollars.",
+      "end_time": 903.552,
+      "duration": 3.068
+    },
+    {
+      "scene_id": 204,
+      "label": "TOXIC HOSTILITY",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 903.552,
+      "vo": "Tensions between Jobs and CEO John Sculley erupted into toxic hostility.",
+      "end_time": 907.952,
+      "duration": 4.4
+    },
+    {
+      "scene_id": 205,
+      "label": "THE PEPSI CHALLENGE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 907.952,
+      "vo": "Jobs had lured Sculley from Pepsi in 1983 with his famous, stinging challenge:",
+      "end_time": 914.456,
+      "duration": 6.504
+    },
+    {
+      "scene_id": 206,
+      "label": "SUGAR WATER DILEMMA",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 914.456,
+      "vo": "\"Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?\"",
+      "end_time": 919.632,
+      "duration": 5.176
+    },
+    {
+      "scene_id": 207,
+      "label": "MANAGING THE ERRATIC FOUNDER",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 919.632,
+      "vo": "Now, Sculley found himself managing an erratic, vindictive founder whose division was threatening to bankrupt the entire corporation.",
+      "end_time": 927.696,
+      "duration": 8.064
+    },
+    {
+      "scene_id": 208,
+      "label": "THE PALACE COUP",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 927.696,
+      "vo": "In May 1985, while Sculley was scheduled to be in China on a trade mission, Jobs plotted a palace coup to remove him and seize control of Apple.",
+      "end_time": 937.2,
+      "duration": 9.504
+    },
+    {
+      "scene_id": 209,
+      "label": "THE WHISPERED WARNING",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 937.2,
+      "vo": "An executive warned Sculley.",
+      "end_time": 939.66,
+      "duration": 2.46
+    },
+    {
+      "scene_id": 210,
+      "label": "THE BOARDROOM SHOWDOWN",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 939.66,
+      "vo": "Sculley cancelled the flight, walked into the boardroom, and forced an emergency showdown.",
+      "end_time": 944.64,
+      "duration": 4.98
+    },
+    {
+      "scene_id": 211,
+      "label": "STEVE OR ME?",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 944.64,
+      "vo": "He polled the board of directors one by one: \"Do you back Steve, or do you back me?\"",
+      "end_time": 949.824,
+      "duration": 5.184
+    },
+    {
+      "scene_id": 212,
+      "label": "THE UNANIMOUS BACKING",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 949.824,
+      "vo": "Every single board member voted for Sculley.",
+      "end_time": 952.128,
+      "duration": 2.304
+    },
+    {
+      "scene_id": 213,
+      "label": "STRIPPED OF ALL POWER",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 952.128,
+      "vo": "Steve Jobs was stripped of all operational responsibility.",
+      "end_time": 955.968,
+      "duration": 3.84
+    },
+    {
+      "scene_id": 214,
+      "label": "BANISHED TO SIBERIA",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 955.968,
+      "vo": "He was banished to an empty office in an auxiliary building that employees mockingly nicknamed \"Siberia.\"",
+      "end_time": 962.148,
+      "duration": 6.18
+    },
+    {
+      "scene_id": 215,
+      "label": "THE SILENT TELEPHONE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 962.148,
+      "vo": "His phone stopped ringing. Nobody came to his office.",
+      "end_time": 965.304,
+      "duration": 3.156
+    },
+    {
+      "scene_id": 216,
+      "label": "SEPTEMBER 17, 1985",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 965.304,
+      "vo": "On September 17, 1985, Steve Jobs resigned from Apple.",
+      "end_time": 969.744,
+      "duration": 4.44
+    },
+    {
+      "scene_id": 217,
+      "label": "SELLING EVERY SHARE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 969.744,
+      "vo": "In a fit of bitter fury, he sold every single share of his Apple stock\u00e2\u20ac\u201dmillions of shares worth over one hundred million dollars\u00e2\u20ac\u201d",
+      "end_time": 978.7,
+      "duration": 8.956
+    },
+    {
+      "scene_id": 218,
+      "label": "THE ONE REMAINING SHARE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 978.7,
+      "vo": "retaining only one single share so he would still receive the annual shareholder reports in the mail.",
+      "end_time": 983.82,
+      "duration": 5.12
+    },
+    {
+      "scene_id": 219,
+      "label": "THIRTY YEARS OLD",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 983.82,
+      "vo": "He was thirty years old.",
+      "end_time": 986.288,
+      "duration": 2.468
+    },
+    {
+      "scene_id": 220,
+      "label": "THE EXILED MILLIONAIRE",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 986.288,
+      "vo": "He was a multi-millionaire.",
+      "end_time": 988.108,
+      "duration": 1.82
+    },
+    {
+      "scene_id": 221,
+      "label": "COMPLETELY FINISHED",
+      "act_num": 3,
+      "act_title": "THE PIRATE SHIP, 1984 & THE FALL",
+      "start_time": 988.108,
+      "vo": "And in the eyes of Silicon Valley, he was completely finished.",
+      "end_time": 991.104,
+      "duration": 2.996
+    },
+    {
+      "scene_id": 222,
+      "label": "THE 11-YEAR WILDERNESS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 991.104,
+      "vo": "What followed was a brutal eleven-year wilderness.",
+      "end_time": 994.248,
+      "duration": 3.144
+    },
+    {
+      "scene_id": 223,
+      "label": "EMPTY MANSION FLOOR",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 994.248,
+      "vo": "Jobs retreated to his wood-paneled mansion in Los Gatos, sat on the floor,",
+      "end_time": 998.648,
+      "duration": 4.4
+    },
+    {
+      "scene_id": 224,
+      "label": "CONTEMPLATING ARCHITECTURE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 998.648,
+      "vo": "and contemplated leaving tech entirely to study architecture in Europe.",
+      "end_time": 1003.608,
+      "duration": 4.96
+    },
+    {
+      "scene_id": 225,
+      "label": "PRIDE RESURGENT",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1003.608,
+      "vo": "But his pride would not let him stay down.",
+      "end_time": 1005.308,
+      "duration": 1.7
+    },
+    {
+      "scene_id": 226,
+      "label": "$7M PERSONAL STAKE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1005.308,
+      "vo": "He took seven million dollars of his own money",
+      "end_time": 1008.716,
+      "duration": 3.408
+    },
+    {
+      "scene_id": 227,
+      "label": "THE NeXT MISSION",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1008.716,
+      "vo": "and founded NeXT Computer, determined to build the ultimate workstation for universities.",
+      "end_time": 1012.996,
+      "duration": 4.28
+    },
+    {
+      "scene_id": 228,
+      "label": "PAUL RAND'S $100,000",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1012.996,
+      "vo": "He paid seventy-one-year-old graphic design legend Paul Rand one hundred thousand dollars",
+      "end_time": 1019.696,
+      "duration": 6.7
+    },
+    {
+      "scene_id": 229,
+      "label": "THE TILTED BLACK CUBE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1019.696,
+      "vo": "to create the NeXT logo\u00e2\u20ac\u201da tilted black cube.",
+      "end_time": 1023.916,
+      "duration": 4.22
+    },
+    {
+      "scene_id": 230,
+      "label": "MAGNESIUM CHASSIS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1023.916,
+      "vo": "Jobs spent years and millions perfecting the machine's magnesium chassis,",
+      "end_time": 1028.536,
+      "duration": 4.62
+    },
+    {
+      "scene_id": 231,
+      "label": "FANATICAL 90\u00c2\u00b0 ANGLES",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1028.536,
+      "vo": "demanding perfectly precise ninety-degree internal angles that no customer would ever see.",
+      "end_time": 1033.872,
+      "duration": 5.336
+    },
+    {
+      "scene_id": 232,
+      "label": "THE 1988 NeXT REVEAL",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1033.872,
+      "vo": "When the NeXT cube launched in 1988, it was an engineering marvel",
+      "end_time": 1038.152,
+      "duration": 4.28
+    },
+    {
+      "scene_id": 233,
+      "label": "NeXTSTEP OS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1038.152,
+      "vo": "running an advanced object-oriented operating system called NeXTSTEP.",
+      "end_time": 1042.852,
+      "duration": 4.7
+    },
+    {
+      "scene_id": 234,
+      "label": "CERN: BIRTH OF THE WEB",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1042.852,
+      "vo": "In Switzerland, computer scientist Tim Berners-Lee used a NeXT computer to invent the World Wide Web.",
+      "end_time": 1048.392,
+      "duration": 5.54
+    },
+    {
+      "scene_id": 235,
+      "label": "THE $10,000 BARRIER",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1048.392,
+      "vo": "But at ten thousand dollars, universities couldn't afford it.",
+      "end_time": 1053.032,
+      "duration": 4.64
+    },
+    {
+      "scene_id": 236,
+      "label": "BARELY 50,000 MACHINES",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1053.032,
+      "vo": "NeXT sold barely fifty thousand machines over its entire lifespan.",
+      "end_time": 1057.452,
+      "duration": 4.42
+    },
+    {
+      "scene_id": 237,
+      "label": "A COMMERCIAL BLOODBATH",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1057.452,
+      "vo": "It was a commercial bloodbath.",
+      "end_time": 1058.302,
+      "duration": 0.85
+    },
+    {
+      "scene_id": 238,
+      "label": "THE SECOND BET",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1058.302,
+      "vo": "Yet Jobs had made a second bet that saved him.",
+      "end_time": 1061.592,
+      "duration": 3.29
+    },
+    {
+      "scene_id": 239,
+      "label": "LUCASFILM CGI DEAL, 1986",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1061.592,
+      "vo": "In 1986, he bought a struggling digital animation division from Star Wars director George Lucas for five million dollars.",
+      "end_time": 1070.212,
+      "duration": 8.62
+    },
+    {
+      "scene_id": 240,
+      "label": "BAPTIZED PIXAR",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1070.212,
+      "vo": "He named it Pixar.",
+      "end_time": 1071.456,
+      "duration": 1.244
+    },
+    {
+      "scene_id": 241,
+      "label": "A DECADE OF RED INK",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1071.456,
+      "vo": "For nearly a decade, Pixar hemorrhaged cash.",
+      "end_time": 1074.796,
+      "duration": 3.34
+    },
+    {
+      "scene_id": 242,
+      "label": "THE $50M PERSONAL LIFELINE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1074.796,
+      "vo": "Jobs personally bankrolled the company, writing check after check to keep the payroll alive, burning over fifty million dollars of his personal fortune.",
+      "end_time": 1083.876,
+      "duration": 9.08
+    },
+    {
+      "scene_id": 243,
+      "label": "URGED TO SHUT DOWN",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1083.876,
+      "vo": "Traditional hardware executives urged him to shut it down.",
+      "end_time": 1087.296,
+      "duration": 3.42
+    },
+    {
+      "scene_id": 244,
+      "label": "LASSETER'S VISION",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1087.296,
+      "vo": "But animators like John Lasseter were using code to make audiences feel real emotion\u00e2\u20ac\u201d",
+      "end_time": 1092.236,
+      "duration": 4.94
+    },
+    {
+      "scene_id": 245,
+      "label": "LUXO JR.",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1092.236,
+      "vo": "first with a jumping desk lamp named Luxo Jr.,",
+      "end_time": 1095.636,
+      "duration": 3.4
+    },
+    {
+      "scene_id": 246,
+      "label": "TOY STORY, NOV 1995",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1095.636,
+      "vo": "and then, in November 1995, with the world's first computer-animated feature film: Toy Story.",
+      "end_time": 1102.104,
+      "duration": 6.468
+    },
+    {
+      "scene_id": 247,
+      "label": "GLOBAL BLOCKBUSTER",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1102.104,
+      "vo": "Toy Story became a monumental global blockbuster.",
+      "end_time": 1105.864,
+      "duration": 3.76
+    },
+    {
+      "scene_id": 248,
+      "label": "PIXAR WALL STREET IPO",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1105.864,
+      "vo": "A week later, Jobs took Pixar public on Wall Street.",
+      "end_time": 1108.664,
+      "duration": 2.8
+    },
+    {
+      "scene_id": 249,
+      "label": "THE $1.2B BILLIONAIRE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1108.664,
+      "vo": "His eighty percent stake suddenly made him a billionaire in his own right, worth over one point two billion dollars.",
+      "end_time": 1116.24,
+      "duration": 7.576
+    },
+    {
+      "scene_id": 250,
+      "label": "INDEPENDENT TITAN",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1116.24,
+      "vo": "For the first time, Steve Jobs was independent of Apple.",
+      "end_time": 1120.28,
+      "duration": 4.04
+    },
+    {
+      "scene_id": 251,
+      "label": "MATURITY & GRACE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1120.28,
+      "vo": "He had matured.",
+      "end_time": 1121.76,
+      "duration": 1.48
+    },
+    {
+      "scene_id": 252,
+      "label": "LEARNING GOVERNANCE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1121.76,
+      "vo": "He had learned patience, corporate governance,",
+      "end_time": 1124.88,
+      "duration": 3.12
+    },
+    {
+      "scene_id": 253,
+      "label": "TRUSTING GENIUS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1124.88,
+      "vo": "and how to trust creative geniuses without suffocating them.",
+      "end_time": 1128.168,
+      "duration": 3.288
+    },
+    {
+      "scene_id": 254,
+      "label": "APPLE IN HUMILIATING DECAY",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1128.168,
+      "vo": "Meanwhile, back in Cupertino, Apple was dying a slow, humiliating death.",
+      "end_time": 1133.184,
+      "duration": 5.016
+    },
+    {
+      "scene_id": 255,
+      "label": "THE THREE CARETAKERS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1133.184,
+      "vo": "Under a succession of corporate caretakers\u00e2\u20ac\u201dJohn Sculley, Michael Spindler, and Gil Amelio\u00e2\u20ac\u201d",
+      "end_time": 1138.744,
+      "duration": 5.56
+    },
+    {
+      "scene_id": 256,
+      "label": "BUREAUCRATIC MONSTROSITY",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1138.744,
+      "vo": "Apple had become a bureaucratic monstrosity.",
+      "end_time": 1141.924,
+      "duration": 3.18
+    },
+    {
+      "scene_id": 257,
+      "label": "PRODUCT CONFUSION",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1141.924,
+      "vo": "To appease retailers, they fractured the product line into dozens of confusing, overlapping models: Quadra, Centris, Performa, PowerBook.",
+      "end_time": 1151.724,
+      "duration": 9.8
+    },
+    {
+      "scene_id": 258,
+      "label": "BAFFLED SALESMEN",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1151.724,
+      "vo": "Salespeople couldn't explain the differences.",
+      "end_time": 1153.8,
+      "duration": 2.076
+    },
+    {
+      "scene_id": 259,
+      "label": "WINDOWS 95 LAUNCH, AUG 1995",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1153.8,
+      "vo": "In August 1995, Bill Gates launched Windows 95.",
+      "end_time": 1158.76,
+      "duration": 4.96
+    },
+    {
+      "scene_id": 260,
+      "label": "START ME UP",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1158.76,
+      "vo": "Accompanied by the Rolling Stones' \"Start Me Up,\"",
+      "end_time": 1161.4,
+      "duration": 2.64
+    },
+    {
+      "scene_id": 261,
+      "label": "THE MAC CLONE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1161.4,
+      "vo": "Windows 95 copied the Mac's desktop interface, taskbar, and windows.",
+      "end_time": 1166.98,
+      "duration": 5.58
+    },
+    {
+      "scene_id": 262,
+      "label": "CHEAP PC CLONES",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1166.98,
+      "vo": "It wasn't as elegant as Apple's software, but it ran on cheap personal computers built by Compaq, Dell, and HP.",
+      "end_time": 1174.18,
+      "duration": 7.2
+    },
+    {
+      "scene_id": 263,
+      "label": "THE 90% TSUNAMI",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1174.18,
+      "vo": "Microsoft swallowed ninety percent of the global computer market.",
+      "end_time": 1179.024,
+      "duration": 4.844
+    },
+    {
+      "scene_id": 264,
+      "label": "COLLAPSE TO 4%",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1179.024,
+      "vo": "Apple\u00e2\u20ac\u2122s market share collapsed from sixteen percent down to an irrelevant four percent.",
+      "end_time": 1183.56,
+      "duration": 4.536
+    },
+    {
+      "scene_id": 265,
+      "label": "$1 BILLION LOSS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1183.56,
+      "vo": "In 1996 alone, Apple lost over one billion dollars.",
+      "end_time": 1188.6,
+      "duration": 5.04
+    },
+    {
+      "scene_id": 266,
+      "label": "THE SYSTEM BOMB ERROR",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1188.6,
+      "vo": "Its aging operating system was obsolete and prone to catastrophic crashes.",
+      "end_time": 1194.08,
+      "duration": 5.48
+    },
+    {
+      "scene_id": 267,
+      "label": "COPLAND CATASTROPHE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1194.08,
+      "vo": "Six years and five hundred million dollars spent developing a replacement operating system code-named Copland had resulted in total failure.",
+      "end_time": 1202.016,
+      "duration": 7.936
+    },
+    {
+      "scene_id": 268,
+      "label": "90 DAYS TO BANKRUPTCY",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1202.016,
+      "vo": "By late 1996, Apple was ninety days away from formal bankruptcy.",
+      "end_time": 1206.672,
+      "duration": 4.656
+    },
+    {
+      "scene_id": 269,
+      "label": "THE OBITUARY",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1206.672,
+      "vo": "Industry analysts were already drafting the company\u00e2\u20ac\u2122s obituary.",
+      "end_time": 1210.932,
+      "duration": 4.26
+    },
+    {
+      "scene_id": 270,
+      "label": "MICHAEL DELL'S VERDICT",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1210.932,
+      "vo": "When PC maker Michael Dell was asked what Apple should do, he offered the ultimate corporate epitaph:",
+      "end_time": 1217.172,
+      "duration": 6.24
+    },
+    {
+      "scene_id": 271,
+      "label": "SHUT IT DOWN",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1217.172,
+      "vo": "\"What would I do? I'd shut it down and give the money back to the shareholders.\"",
+      "end_time": 1221.12,
+      "duration": 3.948
+    },
+    {
+      "scene_id": 272,
+      "label": "AMELIO'S DESPERATION",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1221.12,
+      "vo": "Desperate for an operating system, CEO Gil Amelio made a fateful inquiry.",
+      "end_time": 1226.46,
+      "duration": 5.34
+    },
+    {
+      "scene_id": 273,
+      "label": "THE BeOS OPTION",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1226.46,
+      "vo": "He looked at buying BeOS, an operating system built by former Apple executive Jean-Louis Gass\u00c3\u00a9e.",
+      "end_time": 1232.5,
+      "duration": 6.04
+    },
+    {
+      "scene_id": 274,
+      "label": "GASS\u00c3\u2030E'S $300M GREED",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1232.5,
+      "vo": "But Gass\u00c3\u00a9e overplayed his hand, demanding three hundred million dollars.",
+      "end_time": 1236.336,
+      "duration": 3.836
+    },
+    {
+      "scene_id": 275,
+      "label": "THE CALCULATED CALL",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1236.336,
+      "vo": "Hearing of the negotiations, Steve Jobs picked up the phone.",
+      "end_time": 1239.436,
+      "duration": 3.1
+    },
+    {
+      "scene_id": 276,
+      "label": "PITCHING NeXT TO AMELIO",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1239.436,
+      "vo": "He pitched Amelio on NeXT.",
+      "end_time": 1241.904,
+      "duration": 2.468
+    },
+    {
+      "scene_id": 277,
+      "label": "THE $429M ACQUISITION",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1241.904,
+      "vo": "In December 1996, Apple announced it was acquiring NeXT for four hundred and twenty-nine million dollars in cash and stock.",
+      "end_time": 1249.152,
+      "duration": 7.248
+    },
+    {
+      "scene_id": 278,
+      "label": "WALKING BACK THROUGH THE DOORS",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1249.152,
+      "vo": "Eleven years after being thrown out of the company he founded, Steve Jobs walked back through the front doors of One Infinite Loop as an \"informal advisor.\"",
+      "end_time": 1258.056,
+      "duration": 8.904
+    },
+    {
+      "scene_id": 279,
+      "label": "THE GREATEST TROJAN HORSE",
+      "act_num": 4,
+      "act_title": "THE WILDERNESS, PIXAR & NINETY DAYS TO EXTINCTION",
+      "start_time": 1258.056,
+      "vo": "It was the greatest Trojan horse in corporate history.",
+      "end_time": 1261.104,
+      "duration": 3.048
+    },
+    {
+      "scene_id": 280,
+      "label": "NOT JUST AN ADVISOR",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1261.104,
+      "vo": "Jobs did not stay an informal advisor for long.",
+      "end_time": 1263.912,
+      "duration": 2.808
+    },
+    {
+      "scene_id": 281,
+      "label": "BOARDROOM REBELLION",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1263.912,
+      "vo": "Within seven months, he orchestrated a boardroom rebellion.",
+      "end_time": 1267.772,
+      "duration": 3.86
+    },
+    {
+      "scene_id": 282,
+      "label": "AMELIO OUSTED",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1267.772,
+      "vo": "Gil Amelio was ousted.",
+      "end_time": 1269.712,
+      "duration": 1.94
+    },
+    {
+      "scene_id": 283,
+      "label": "THE BOARD OVERHAULED",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1269.712,
+      "vo": "The board was overhauled.",
+      "end_time": 1270.562,
+      "duration": 0.85
+    },
+    {
+      "scene_id": 284,
+      "label": "BECOMING THE iCEO",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1270.562,
+      "vo": "Jobs became interim CEO\u00e2\u20ac\u201dthe \"iCEO\"\u00e2\u20ac\u201d",
+      "end_time": 1275.272,
+      "duration": 4.71
+    },
+    {
+      "scene_id": 285,
+      "label": "THE $1.00 SALARY",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1275.272,
+      "vo": "famously taking an annual salary of exactly one dollar.",
+      "end_time": 1278.576,
+      "duration": 3.304
+    },
+    {
+      "scene_id": 286,
+      "label": "MACWORLD BOSTON, 1997",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1278.576,
+      "vo": "In August 1997, Jobs walked onto the stage at Macworld Boston.",
+      "end_time": 1284.656,
+      "duration": 6.08
+    },
+    {
+      "scene_id": 287,
+      "label": "WEEKS OF CASH LEFT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1284.656,
+      "vo": "Apple was weeks away from running out of cash.",
+      "end_time": 1287.024,
+      "duration": 2.368
+    },
+    {
+      "scene_id": 288,
+      "label": "THE BOSTON BOMBSHELL",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1287.024,
+      "vo": "He looked out at five thousand terrified, loyal Mac users and dropped an absolute bomb.",
+      "end_time": 1292.864,
+      "duration": 5.84
+    },
+    {
+      "scene_id": 289,
+      "label": "THE SCREEN DESCENDS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1292.864,
+      "vo": "A giant satellite video screen descended from the ceiling,",
+      "end_time": 1296.104,
+      "duration": 3.24
+    },
+    {
+      "scene_id": 290,
+      "label": "GATES LOOMS OVER STAGE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1296.104,
+      "vo": "and the colossal, smiling face of Bill Gates appeared live from Redmond, Washington.",
+      "end_time": 1300.68,
+      "duration": 4.576
+    },
+    {
+      "scene_id": 291,
+      "label": "$150M TRUCE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1300.68,
+      "vo": "Microsoft was investing one hundred and fifty million dollars into Apple",
+      "end_time": 1304.46,
+      "duration": 3.78
+    },
+    {
+      "scene_id": 292,
+      "label": "OFFICE ON MAC GUARANTEED",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1304.46,
+      "vo": "and guaranteeing that Microsoft Office would remain on the Mac for five years.",
+      "end_time": 1309.056,
+      "duration": 4.596
+    },
+    {
+      "scene_id": 293,
+      "label": "FURIOUS BOOS & JEERS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1309.056,
+      "vo": "The auditorium erupted into furious boos and jeers.",
+      "end_time": 1313.536,
+      "duration": 4.48
+    },
+    {
+      "scene_id": 294,
+      "label": "CLINICAL PRAGMATISM",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1313.536,
+      "vo": "Jobs stopped them with a line of cold, clinical pragmatism:",
+      "end_time": 1317.516,
+      "duration": 3.98
+    },
+    {
+      "scene_id": 295,
+      "label": "MICROSOFT DOESN'T HAVE TO LOSE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1317.516,
+      "vo": "\"We have to let go of this notion that for Apple to win, Microsoft has to lose.",
+      "end_time": 1322.796,
+      "duration": 5.28
+    },
+    {
+      "scene_id": 296,
+      "label": "WHERE WE CAN DO GOOD",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1322.796,
+      "vo": "If we want Apple to be healthy again, we have to look at where Apple can do a really good job.\"",
+      "end_time": 1328.064,
+      "duration": 5.268
+    },
+    {
+      "scene_id": 297,
+      "label": "THE PLANNING ROOM",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1328.064,
+      "vo": "Next, Jobs marched into Apple\u00e2\u20ac\u2122s product planning room.",
+      "end_time": 1331.024,
+      "duration": 2.96
+    },
+    {
+      "scene_id": 298,
+      "label": "WHITEBOARD CHAOS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1331.024,
+      "vo": "The whiteboard was covered in dozens of confusing models.",
+      "end_time": 1335.748,
+      "duration": 4.724
+    },
+    {
+      "scene_id": 299,
+      "label": "WIPING THE SLATE CLEAN",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1335.748,
+      "vo": "Jobs grabbed a black marker, wiped the board clean,",
+      "end_time": 1339.308,
+      "duration": 3.56
+    },
+    {
+      "scene_id": 300,
+      "label": "THE 2X2 GRID",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1339.308,
+      "vo": "and drew a simple two-by-two grid.",
+      "end_time": 1341.928,
+      "duration": 2.62
+    },
+    {
+      "scene_id": 301,
+      "label": "CONSUMER VS PRO",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1341.928,
+      "vo": "Across the top, he wrote \"Consumer\" and \"Pro.\"",
+      "end_time": 1345.308,
+      "duration": 3.38
+    },
+    {
+      "scene_id": 302,
+      "label": "DESKTOP VS PORTABLE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1345.308,
+      "vo": "Down the side, he wrote \"Desktop\" and \"Portable.\"",
+      "end_time": 1348.104,
+      "duration": 2.796
+    },
+    {
+      "scene_id": 303,
+      "label": "WHAT WE ARE BUILDING",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1348.104,
+      "vo": "\"Here is what we are going to build,\" Jobs declared.",
+      "end_time": 1351.984,
+      "duration": 3.88
+    },
+    {
+      "scene_id": 304,
+      "label": "FOUR GREAT COMPUTERS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1351.984,
+      "vo": "\"Four great computers.",
+      "end_time": 1353.624,
+      "duration": 1.64
+    },
+    {
+      "scene_id": 305,
+      "label": "EVERYTHING ELSE CANCELLED",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1353.624,
+      "vo": "Everything else, we cancel.\"",
+      "end_time": 1354.474,
+      "duration": 0.85
+    },
+    {
+      "scene_id": 306,
+      "label": "70% PRODUCT PURGE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1354.474,
+      "vo": "He eliminated seventy percent of Apple\u00e2\u20ac\u2122s product line overnight.",
+      "end_time": 1359.48,
+      "duration": 5.006
+    },
+    {
+      "scene_id": 307,
+      "label": "3,000 EMPLOYEES LAID OFF",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1359.48,
+      "vo": "Three thousand employees were laid off.",
+      "end_time": 1361.92,
+      "duration": 2.44
+    },
+    {
+      "scene_id": 308,
+      "label": "KILLING THE NEWTON",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1361.92,
+      "vo": "He cancelled the Newton handheld PDA.",
+      "end_time": 1364.74,
+      "duration": 2.82
+    },
+    {
+      "scene_id": 309,
+      "label": "KILLING THE CLONES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1364.74,
+      "vo": "He shuttered outside software clones.",
+      "end_time": 1367.2,
+      "duration": 2.46
+    },
+    {
+      "scene_id": 310,
+      "label": "SURGICAL AMPUTATION",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1367.2,
+      "vo": "The bloat was surgically amputated.",
+      "end_time": 1369.056,
+      "duration": 1.856
+    },
+    {
+      "scene_id": 311,
+      "label": "THE SECRET DESIGN LAB",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1369.056,
+      "vo": "Then, Jobs walked down to Apple\u00e2\u20ac\u2122s design laboratory",
+      "end_time": 1372.696,
+      "duration": 3.64
+    },
+    {
+      "scene_id": 312,
+      "label": "DISCOVERING JONY IVE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1372.696,
+      "vo": "and discovered a young, soft-spoken British designer named Jony Ive.",
+      "end_time": 1377.864,
+      "duration": 5.168
+    },
+    {
+      "scene_id": 313,
+      "label": "RESIGNATION IN POCKET",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1377.864,
+      "vo": "Ive had his resignation letter in his pocket, exhausted by corporate executives who cared only about cost-cutting.",
+      "end_time": 1384.804,
+      "duration": 6.94
+    },
+    {
+      "scene_id": 314,
+      "label": "RADICAL PROTOTYPES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1384.804,
+      "vo": "Jobs looked at Ive\u00e2\u20ac\u2122s radical prototypes",
+      "end_time": 1386.804,
+      "duration": 2.0
+    },
+    {
+      "scene_id": 315,
+      "label": "CREATIVE SOULMATES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1386.804,
+      "vo": "and recognized a soulmate who shared his fanatical devotion to the purity of physical materials.",
+      "end_time": 1392.288,
+      "duration": 5.484
+    },
+    {
+      "scene_id": 316,
+      "label": "MAY 1998: iMAC G3",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1392.288,
+      "vo": "In May 1998, they unveiled the machine that saved Apple: the iMac G3.",
+      "end_time": 1397.592,
+      "duration": 5.304
+    },
+    {
+      "scene_id": 317,
+      "label": "BONDI BLUE TRANSLUCENCE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1397.592,
+      "vo": "It was a teardrop-shaped computer made of translucent Bondi blue plastic, glowing with friendly warmth.",
+      "end_time": 1403.992,
+      "duration": 6.4
+    },
+    {
+      "scene_id": 318,
+      "label": "BANISHING THE FLOPPY",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1403.992,
+      "vo": "It threw away the floppy drive,",
+      "end_time": 1405.972,
+      "duration": 1.98
+    },
+    {
+      "scene_id": 319,
+      "label": "CHAMPIONING USB",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1405.972,
+      "vo": "championed USB,",
+      "end_time": 1407.372,
+      "duration": 1.4
+    },
+    {
+      "scene_id": 320,
+      "label": "THE TOP HANDLE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1407.372,
+      "vo": "and featured a handle on the top.",
+      "end_time": 1409.492,
+      "duration": 2.12
+    },
+    {
+      "scene_id": 321,
+      "label": "CRITICS MOCK THE HANDLE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1409.492,
+      "vo": "Critics mocked the handle, pointing out that a desktop computer is rarely carried around.",
+      "end_time": 1414.652,
+      "duration": 5.16
+    },
+    {
+      "scene_id": 322,
+      "label": "MAKES A RELATIONSHIP",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1414.652,
+      "vo": "Jobs replied: \"If there's a handle, it makes a relationship possible.",
+      "end_time": 1418.992,
+      "duration": 4.34
+    },
+    {
+      "scene_id": 323,
+      "label": "INVITES YOU TO TOUCH",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1418.992,
+      "vo": "It invites you to touch it.\"",
+      "end_time": 1420.32,
+      "duration": 1.328
+    },
+    {
+      "scene_id": 324,
+      "label": "FASTEST-SELLING MAC",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1420.32,
+      "vo": "The iMac became the fastest-selling computer in Apple\u00e2\u20ac\u2122s history.",
+      "end_time": 1424.58,
+      "duration": 4.26
+    },
+    {
+      "scene_id": 325,
+      "label": "$87 MILLION PROFIT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1424.58,
+      "vo": "In 1998, Apple turned an eighty-seven-million-dollar profit.",
+      "end_time": 1429.42,
+      "duration": 4.84
+    },
+    {
+      "scene_id": 326,
+      "label": "THE BLEEDING STOPPED",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1429.42,
+      "vo": "The bleeding was officially stopped.",
+      "end_time": 1431.264,
+      "duration": 1.844
+    },
+    {
+      "scene_id": 327,
+      "label": "NOT JUST CALCULATION",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1431.264,
+      "vo": "Next, Jobs realized that the personal computer was no longer just a calculation tool;",
+      "end_time": 1436.824,
+      "duration": 5.56
+    },
+    {
+      "scene_id": 328,
+      "label": "THE DIGITAL HUB",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1436.824,
+      "vo": "it was becoming the \"digital hub\" for personal creative lives\u00e2\u20ac\u201dcamcorders, cameras, and music players.",
+      "end_time": 1443.48,
+      "duration": 6.656
+    },
+    {
+      "scene_id": 329,
+      "label": "MUSIC IN TOTAL CHAOS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1443.48,
+      "vo": "In early 2001, music was in total chaos.",
+      "end_time": 1447.72,
+      "duration": 4.24
+    },
+    {
+      "scene_id": 330,
+      "label": "NAPSTER TSUNAMI",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1447.72,
+      "vo": "Napster had shattered the traditional record industry.",
+      "end_time": 1450.9,
+      "duration": 3.18
+    },
+    {
+      "scene_id": 331,
+      "label": "CLUNKY MP3 PLAYERS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1450.9,
+      "vo": "Millions of people were downloading pirated MP3s onto clunky, battery-draining portable players that held barely twenty songs.",
+      "end_time": 1457.66,
+      "duration": 6.76
+    },
+    {
+      "scene_id": 332,
+      "label": "THE MUSIC OPENING",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1457.66,
+      "vo": "Jobs saw an opening.",
+      "end_time": 1460.744,
+      "duration": 3.084
+    },
+    {
+      "scene_id": 333,
+      "label": "TINY 5GB TOSHIBA DRIVE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1460.744,
+      "vo": "Apple developed an ultra-compact player built around a tiny five-gigabyte Toshiba hard drive.",
+      "end_time": 1465.92,
+      "duration": 5.176
+    },
+    {
+      "scene_id": 334,
+      "label": "CAN'T BE SMALLER",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1465.92,
+      "vo": "During development, an engineer told Jobs the prototype couldn't possibly be made any smaller.",
+      "end_time": 1472.46,
+      "duration": 6.54
+    },
+    {
+      "scene_id": 335,
+      "label": "THE AQUARIUM DROP",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1472.46,
+      "vo": "Jobs walked over to an office aquarium, dropped the prototype into the water,",
+      "end_time": 1476.98,
+      "duration": 4.52
+    },
+    {
+      "scene_id": 336,
+      "label": "AIR BUBBLES RISING",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1476.98,
+      "vo": "and pointed at the bubbles rising to the surface.",
+      "end_time": 1479.96,
+      "duration": 2.98
+    },
+    {
+      "scene_id": 337,
+      "label": "THOSE ARE AIR BUBBLES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1479.96,
+      "vo": "\"Those are air bubbles,\" Jobs said coldly.",
+      "end_time": 1483.14,
+      "duration": 3.18
+    },
+    {
+      "scene_id": 338,
+      "label": "EMPTY SPACE INSIDE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1483.14,
+      "vo": "\"That means there is empty space inside.",
+      "end_time": 1485.62,
+      "duration": 2.48
+    },
+    {
+      "scene_id": 339,
+      "label": "MAKE IT SMALLER",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1485.62,
+      "vo": "Make it smaller.\"",
+      "end_time": 1486.488,
+      "duration": 0.868
+    },
+    {
+      "scene_id": 340,
+      "label": "TOWN HALL, OCT 2001",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1486.488,
+      "vo": "On October 23, 2001, six weeks after the September 11 attacks,",
+      "end_time": 1492.648,
+      "duration": 6.16
+    },
+    {
+      "scene_id": 341,
+      "label": "A DECK OF CARDS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1492.648,
+      "vo": "Jobs pulled a device the size of a deck of playing cards from his pocket: the iPod.",
+      "end_time": 1497.336,
+      "duration": 4.688
+    },
+    {
+      "scene_id": 342,
+      "label": "1,000 SONGS IN POCKET",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1497.336,
+      "vo": "His pitch was an absolute masterpiece of copywriting: \"One thousand songs in your pocket.\"",
+      "end_time": 1503.24,
+      "duration": 5.904
+    },
+    {
+      "scene_id": 343,
+      "label": "CORNERING THE LABELS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1503.24,
+      "vo": "Two years later, Jobs cornered the terrified major record labels, who were watching physical CD sales collapse,",
+      "end_time": 1510.96,
+      "duration": 7.72
+    },
+    {
+      "scene_id": 344,
+      "label": "99 CENTS A SONG",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1510.96,
+      "vo": "and convinced them to sell individual digital tracks on the iTunes Music Store for ninety-nine cents each.",
+      "end_time": 1515.92,
+      "duration": 4.96
+    },
+    {
+      "scene_id": 345,
+      "label": "400 MILLION SOLD",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1515.92,
+      "vo": "Over four hundred million iPods were sold.",
+      "end_time": 1519.844,
+      "duration": 3.924
+    },
+    {
+      "scene_id": 346,
+      "label": "WHITE HEADPHONE STATUS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1519.844,
+      "vo": "The stark white headphone cords dangling from people's ears became the ultimate cultural status symbol of the twenty-first century.",
+      "end_time": 1526.568,
+      "duration": 6.724
+    },
+    {
+      "scene_id": 347,
+      "label": "NO LONGER JUST COMPUTERS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1526.568,
+      "vo": "Apple was no longer just a computer company.",
+      "end_time": 1529.548,
+      "duration": 2.98
+    },
+    {
+      "scene_id": 348,
+      "label": "GLOBAL MEDIA TITAN",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1529.548,
+      "vo": "It was an undisputed titan of global media.",
+      "end_time": 1532.232,
+      "duration": 2.684
+    },
+    {
+      "scene_id": 349,
+      "label": "THE 2005 MORTAL THREAT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1532.232,
+      "vo": "Yet by 2005, Steve Jobs recognized a mortal threat to his empire.",
+      "end_time": 1536.832,
+      "duration": 4.6
+    },
+    {
+      "scene_id": 350,
+      "label": "PHONES GETTING SMARTER",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1536.832,
+      "vo": "Mobile cellphones were becoming smarter.",
+      "end_time": 1540.38,
+      "duration": 3.548
+    },
+    {
+      "scene_id": 351,
+      "label": "iPOD EXTINCTION THREAT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1540.38,
+      "vo": "Jobs realized that the moment mobile phones learned to play music reliably, the iPod would be wiped out.",
+      "end_time": 1546.008,
+      "duration": 5.628
+    },
+    {
+      "scene_id": 352,
+      "label": "CANNIBALIZE OURSELVES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1546.008,
+      "vo": "\"If we don't cannibalize ourselves,\" Jobs told his executive team, \"someone else will.\"",
+      "end_time": 1552.152,
+      "duration": 6.144
+    },
+    {
+      "scene_id": 353,
+      "label": "PROJECT PURPLE LOCKDOWN",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1552.152,
+      "vo": "For two years, Apple lived under top-secret military-grade lockdown on Project Purple.",
+      "end_time": 1557.852,
+      "duration": 5.7
+    },
+    {
+      "scene_id": 354,
+      "label": "SECRECY & NDAs",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1557.852,
+      "vo": "Engineers worked around the clock in windowless rooms with blacked-out glass, signing non-disclosure agreements that forbade them from telling their own spouses what they were building.",
+      "end_time": 1567.056,
+      "duration": 9.204
+    },
+    {
+      "scene_id": 355,
+      "label": "ABANDONING KEYBOARDS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1567.056,
+      "vo": "They abandoned mechanical keyboards entirely and developed capacitive multi-touch:",
+      "end_time": 1572.616,
+      "duration": 5.56
+    },
+    {
+      "scene_id": 356,
+      "label": "CAPACITIVE MULTI-TOUCH",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1572.616,
+      "vo": "a display that allowed human fingers to directly flick, scroll, pinch, and zoom on a sheet of glass.",
+      "end_time": 1579.224,
+      "duration": 6.608
+    },
+    {
+      "scene_id": 357,
+      "label": "SECRET AT&T DEAL",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1579.224,
+      "vo": "Jobs made a secret deal with AT&T.",
+      "end_time": 1582.604,
+      "duration": 3.38
+    },
+    {
+      "scene_id": 358,
+      "label": "UNPRECEDENTED DEMANDS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1582.604,
+      "vo": "In exchange for exclusive carrier rights, Jobs demanded something no phone manufacturer had ever secured in telecom history:",
+      "end_time": 1590.684,
+      "duration": 8.08
+    },
+    {
+      "scene_id": 359,
+      "label": "ZERO CARRIER BLOAT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1590.684,
+      "vo": "complete, absolute control over the device's hardware, software, and industrial design, with zero carrier bloatware,",
+      "end_time": 1597.944,
+      "duration": 7.26
+    },
+    {
+      "scene_id": 360,
+      "label": "DATA REVENUE CUT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1597.944,
+      "vo": "plus a monthly cut of every customer's data bill.",
+      "end_time": 1601.088,
+      "duration": 3.144
+    },
+    {
+      "scene_id": 361,
+      "label": "MACWORLD, JAN 9 2007",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1601.088,
+      "vo": "On January 9, 2007, Steve Jobs took the stage at Macworld San Francisco.",
+      "end_time": 1606.992,
+      "duration": 5.904
+    },
+    {
+      "scene_id": 362,
+      "label": "CHANGES EVERYTHING",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1606.992,
+      "vo": "\"Every once in a while, a revolutionary product comes along that changes everything,\" he began.",
+      "end_time": 1612.008,
+      "duration": 5.016
+    },
+    {
+      "scene_id": 363,
+      "label": "THREE REVOLUTIONARY PRODUCTS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1612.008,
+      "vo": "\"Today, we are introducing three revolutionary products.",
+      "end_time": 1615.888,
+      "duration": 3.88
+    },
+    {
+      "scene_id": 364,
+      "label": "A WIDESCREEN TOUCH IPOD",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1615.888,
+      "vo": "The first is a widescreen iPod with touch controls.",
+      "end_time": 1619.768,
+      "duration": 3.88
+    },
+    {
+      "scene_id": 365,
+      "label": "REVOLUTIONARY PHONE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1619.768,
+      "vo": "The second is a revolutionary mobile phone.",
+      "end_time": 1622.568,
+      "duration": 2.8
+    },
+    {
+      "scene_id": 366,
+      "label": "INTERNET COMMUNICATOR",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1622.568,
+      "vo": "And the third is a breakthrough internet communications device.\"",
+      "end_time": 1626.072,
+      "duration": 3.504
+    },
+    {
+      "scene_id": 367,
+      "label": "THE AUDIENCE CHEERS",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1626.072,
+      "vo": "He repeated the three names as the audience cheered.",
+      "end_time": 1629.632,
+      "duration": 3.56
+    },
+    {
+      "scene_id": 368,
+      "label": "AN IPOD.",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1629.632,
+      "vo": "Then came the punchline: \"An iPod.",
+      "end_time": 1632.392,
+      "duration": 2.76
+    },
+    {
+      "scene_id": 369,
+      "label": "A PHONE.",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1632.392,
+      "vo": "A phone.",
+      "end_time": 1633.252,
+      "duration": 0.86
+    },
+    {
+      "scene_id": 370,
+      "label": "AN INTERNET COMMUNICATOR.",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1633.252,
+      "vo": "An internet communicator.",
+      "end_time": 1634.872,
+      "duration": 1.62
+    },
+    {
+      "scene_id": 371,
+      "label": "ARE YOU GETTING IT?",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1634.872,
+      "vo": "Are you getting it?",
+      "end_time": 1636.132,
+      "duration": 1.26
+    },
+    {
+      "scene_id": 372,
+      "label": "NOT THREE DEVICES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1636.132,
+      "vo": "These are not three separate devices.",
+      "end_time": 1638.332,
+      "duration": 2.2
+    },
+    {
+      "scene_id": 373,
+      "label": "THIS IS ONE DEVICE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1638.332,
+      "vo": "This is one device.",
+      "end_time": 1639.792,
+      "duration": 1.46
+    },
+    {
+      "scene_id": 374,
+      "label": "AND WE ARE CALLING IT: iPHONE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1639.792,
+      "vo": "And we are calling it: iPhone.\"",
+      "end_time": 1641.72,
+      "duration": 1.928
+    },
+    {
+      "scene_id": 375,
+      "label": "TECHNOLOGICAL MIRACLE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1641.72,
+      "vo": "The demo was a technological miracle.",
+      "end_time": 1644.44,
+      "duration": 2.72
+    },
+    {
+      "scene_id": 376,
+      "label": "SCOTCH WHISKEY NERVES",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1644.44,
+      "vo": "Behind the stage curtain, software engineers were taking shots of scotch whiskey to calm their nerves.",
+      "end_time": 1650.72,
+      "duration": 6.28
+    },
+    {
+      "scene_id": 377,
+      "label": "MEMORY CRASH DANGER",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1650.72,
+      "vo": "The phone barely worked; its memory was so unstable that if Jobs tapped the apps in the wrong sequence, the phone would crash completely.",
+      "end_time": 1659.22,
+      "duration": 8.5
+    },
+    {
+      "scene_id": 378,
+      "label": "THE FLAWLESS DEMO",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1659.22,
+      "vo": "Jobs navigated the exact sequence flawlessly.",
+      "end_time": 1662.144,
+      "duration": 2.924
+    },
+    {
+      "scene_id": 379,
+      "label": "DEAD MEN WALKING",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1662.144,
+      "vo": "When he walked off that stage, the legacy mobile giants were dead men walking.",
+      "end_time": 1666.992,
+      "duration": 4.848
+    },
+    {
+      "scene_id": 380,
+      "label": "BLACKBERRY'S SKEPTICISM",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1666.992,
+      "vo": "The CEO of BlackBerry publicly dismissed it, insisting enterprise users would never surrender physical keyboards.",
+      "end_time": 1674.152,
+      "duration": 7.16
+    },
+    {
+      "scene_id": 381,
+      "label": "BALLMER LAUGHS ON CAMERA",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1674.152,
+      "vo": "Steve Ballmer, CEO of Microsoft, laughed on camera: \"Five hundred dollars fully subsidized?",
+      "end_time": 1680.272,
+      "duration": 6.12
+    },
+    {
+      "scene_id": 382,
+      "label": "NO BUSINESS APPEAL",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1680.272,
+      "vo": "It is the most expensive phone in the world, and it doesn't appeal to business customers!\"",
+      "end_time": 1684.68,
+      "duration": 4.408
+    },
+    {
+      "scene_id": 383,
+      "label": "BLACKBERRY WIPED OUT",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1684.68,
+      "vo": "Within five years, BlackBerry was completely wiped out.",
+      "end_time": 1687.04,
+      "duration": 2.36
+    },
+    {
+      "scene_id": 384,
+      "label": "NOKIA'S COLLAPSE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1687.04,
+      "vo": "Nokia\u00e2\u20ac\u2122s multi-billion-dollar mobile business collapsed into irrelevance.",
+      "end_time": 1691.976,
+      "duration": 4.936
+    },
+    {
+      "scene_id": 385,
+      "label": "JULY 2008: APP STORE",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1691.976,
+      "vo": "In 2008, Apple launched the App Store with just five hundred apps.",
+      "end_time": 1697.216,
+      "duration": 5.24
+    },
+    {
+      "scene_id": 386,
+      "label": "THE APP ECONOMY",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1697.216,
+      "vo": "It spawned the modern smartphone economy: Uber, Instagram, WhatsApp, DoorDash, and TikTok.",
+      "end_time": 1705.036,
+      "duration": 7.82
+    },
+    {
+      "scene_id": 387,
+      "label": "THE 30% TOLL BOOTH",
+      "act_num": 5,
+      "act_title": "THE RENAISSANCE & THE HIT MACHINE",
+      "start_time": 1705.036,
+      "vo": "Apple extracted a thirty percent commission on every digital purchase\u00e2\u20ac\u201dcreating the most lucrative toll booth in corporate history.",
+      "end_time": 1712.424,
+      "duration": 7.388
+    },
+    {
+      "scene_id": 388,
+      "label": "RUNNING OUT OF TIME",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1712.424,
+      "vo": "Behind the unprecedented triumph, Steve Jobs was quietly running out of time.",
+      "end_time": 1717.392,
+      "duration": 4.968
+    },
+    {
+      "scene_id": 389,
+      "label": "2003 DIAGNOSIS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1717.392,
+      "vo": "He had been diagnosed with a rare neuroendocrine tumor in 2003.",
+      "end_time": 1721.972,
+      "duration": 4.58
+    },
+    {
+      "scene_id": 390,
+      "label": "THE 8-YEAR BATTLE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1721.972,
+      "vo": "For eight years, he fought the disease while orchestrating the most prolific product run in business history:",
+      "end_time": 1728.152,
+      "duration": 6.18
+    },
+    {
+      "scene_id": 391,
+      "label": "THE MANILA ENVELOPE AIR",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1728.152,
+      "vo": "the MacBook Air,",
+      "end_time": 1729.612,
+      "duration": 1.46
+    },
+    {
+      "scene_id": 392,
+      "label": "THE 2010 iPAD",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1729.612,
+      "vo": "the iPad,",
+      "end_time": 1730.612,
+      "duration": 1.0
+    },
+    {
+      "scene_id": 393,
+      "label": "A-SERIES SILICON",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1730.612,
+      "vo": "and Apple\u00e2\u20ac\u2122s custom A-series silicon chips.",
+      "end_time": 1733.28,
+      "duration": 2.668
+    },
+    {
+      "scene_id": 394,
+      "label": "AUGUST 2011 RESIGNATION",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1733.28,
+      "vo": "In August 2011, knowing his body was failing, Jobs resigned as CEO",
+      "end_time": 1738.88,
+      "duration": 5.6
+    },
+    {
+      "scene_id": 395,
+      "label": "HANDING REINS TO TIM COOK",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1738.88,
+      "vo": "and handed the reins to his Chief Operating Officer: Tim Cook.",
+      "end_time": 1742.5,
+      "duration": 3.62
+    },
+    {
+      "scene_id": 396,
+      "label": "ALABAMA INDUSTRIAL ENGINEER",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1742.5,
+      "vo": "Cook was an Alabama-born industrial engineer.",
+      "end_time": 1744.556,
+      "duration": 2.056
+    },
+    {
+      "scene_id": 397,
+      "label": "CALM & DISCIPLINED",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1744.556,
+      "vo": "Calm, soft-spoken, and disciplined,",
+      "end_time": 1748.756,
+      "duration": 4.2
+    },
+    {
+      "scene_id": 398,
+      "label": "OUTSOURCING LOGISTICS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1748.756,
+      "vo": "he was the logistical genius who had closed Apple's factories, outsourced manufacturing to Asia,",
+      "end_time": 1754.516,
+      "duration": 5.76
+    },
+    {
+      "scene_id": 399,
+      "label": "48-HOUR INVENTORY",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1754.516,
+      "vo": "and reduced Apple's inventory holding time to forty-eight hours.",
+      "end_time": 1757.832,
+      "duration": 3.316
+    },
+    {
+      "scene_id": 400,
+      "label": "THE FINAL SACRED ADVICE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1757.832,
+      "vo": "Jobs gave Cook one final, sacred piece of advice:",
+      "end_time": 1761.732,
+      "duration": 3.9
+    },
+    {
+      "scene_id": 401,
+      "label": "DO WHAT'S RIGHT",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1761.732,
+      "vo": "\"Never ask what Steve would do. Just do what\u00e2\u20ac\u2122s right.\"",
+      "end_time": 1765.056,
+      "duration": 3.324
+    },
+    {
+      "scene_id": 402,
+      "label": "OCTOBER 5, 2011",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1765.056,
+      "vo": "On October 5, 2011, Steve Jobs died at his home in Palo Alto at age fifty-six.",
+      "end_time": 1772.184,
+      "duration": 7.128
+    },
+    {
+      "scene_id": 403,
+      "label": "GLOBAL MEMORIALS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1772.184,
+      "vo": "Across the world, Apple stores became spontaneous memorials.",
+      "end_time": 1776.364,
+      "duration": 4.18
+    },
+    {
+      "scene_id": 404,
+      "label": "CANDLES & BITTEN APPLES",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1776.364,
+      "vo": "People placed candles, flowers, and real apples with bite marks taken out of them on sidewalks from Tokyo to New York.",
+      "end_time": 1782.48,
+      "duration": 6.116
+    },
+    {
+      "scene_id": 405,
+      "label": "WALL STREET'S SKEPTICISM",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1782.48,
+      "vo": "Wall Street predicted that without Jobs\u00e2\u20ac\u2122s charismatic lightning, Apple would slowly wither into a legacy hardware maker.",
+      "end_time": 1790.016,
+      "duration": 7.536
+    },
+    {
+      "scene_id": 406,
+      "label": "THE PROFIT MACHINE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1790.016,
+      "vo": "Instead, Tim Cook turned Apple into the most terrifyingly efficient profit machine in human history.",
+      "end_time": 1796.544,
+      "duration": 6.528
+    },
+    {
+      "scene_id": 407,
+      "label": "OUTSELLING SWISS WATCHES",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1796.544,
+      "vo": "He launched the Apple Watch, outselling the entire Swiss watchmaking industry combined.",
+      "end_time": 1802.404,
+      "duration": 5.86
+    },
+    {
+      "scene_id": 408,
+      "label": "AIRPODS REVENUE EMPIRE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1802.404,
+      "vo": "He launched AirPods, which generated more revenue than most Fortune 500 corporations.",
+      "end_time": 1808.224,
+      "duration": 5.82
+    },
+    {
+      "scene_id": 409,
+      "label": "APPLE SILICON TRANSITION",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1808.224,
+      "vo": "He transitioned the Mac away from Intel chips to Apple Silicon, delivering unprecedented battery life and speed.",
+      "end_time": 1814.712,
+      "duration": 6.488
+    },
+    {
+      "scene_id": 410,
+      "label": "THE $1 TRILLION MILESTONE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1814.712,
+      "vo": "In August 2018, Apple became the first public American corporation to cross a one-trillion-dollar valuation.",
+      "end_time": 1822.152,
+      "duration": 7.44
+    },
+    {
+      "scene_id": 411,
+      "label": "THE $2 TRILLION MARK",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1822.152,
+      "vo": "Two years later, it crossed two trillion.",
+      "end_time": 1824.852,
+      "duration": 2.7
+    },
+    {
+      "scene_id": 412,
+      "label": "THE $3 TRILLION PEAK",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1824.852,
+      "vo": "In 2023, it crossed three trillion.",
+      "end_time": 1827.48,
+      "duration": 2.628
+    },
+    {
+      "scene_id": 413,
+      "label": "THE MORAL COST",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1827.48,
+      "vo": "Yet as the numbers entered the stratosphere, the moral cost of the empire became impossible to ignore.",
+      "end_time": 1832.66,
+      "duration": 5.18
+    },
+    {
+      "scene_id": 414,
+      "label": "iPhone CITY: ZHENGZHOU",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1832.66,
+      "vo": "In Zhengzhou, China\u00e2\u20ac\u201da sprawling manufacturing metropolis known as \"iPhone City\"\u00e2\u20ac\u201d",
+      "end_time": 1837.968,
+      "duration": 5.308
+    },
+    {
+      "scene_id": 415,
+      "label": "12-HOUR ASSEMBLY SHIFTS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1837.968,
+      "vo": "over two hundred thousand workers labor in twelve-hour shifts on assembly lines, piecing together camera sensors and batteries.",
+      "end_time": 1847.188,
+      "duration": 9.22
+    },
+    {
+      "scene_id": 416,
+      "label": "THE ANTI-SUICIDE NETS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1847.188,
+      "vo": "When pressure mounted, the factories had to erect anti-suicide netting along dormitory roofs to catch falling workers.",
+      "end_time": 1854.384,
+      "duration": 7.196
+    },
+    {
+      "scene_id": 417,
+      "label": "GLOBAL ANTITRUST INQUIRY",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1854.384,
+      "vo": "Governments around the world launched massive antitrust investigations, accusing Apple of running an abusive monopoly with its thirty percent App Store tax.",
+      "end_time": 1864.184,
+      "duration": 9.8
+    },
+    {
+      "scene_id": 418,
+      "label": "DEVELOPERS IN REVOLT",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1864.184,
+      "vo": "Developers sued.",
+      "end_time": 1865.824,
+      "duration": 1.64
+    },
+    {
+      "scene_id": 419,
+      "label": "EU USB-C MANDATE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1865.824,
+      "vo": "The European Union forced Apple to abandon its proprietary Lightning connector in favor of universal USB-C.",
+      "end_time": 1872.288,
+      "duration": 6.464
+    },
+    {
+      "scene_id": 420,
+      "label": "RESHAPED CONSCIOUSNESS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1872.288,
+      "vo": "And millions of human beings began to realize that the glowing glass rectangles had subtly reshaped human consciousness.",
+      "end_time": 1879.968,
+      "duration": 7.68
+    },
+    {
+      "scene_id": 421,
+      "label": "SILENT DINNER TABLES",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1879.968,
+      "vo": "Families sitting at dinner tables in total silence, scrolling through algorithmically tailored feeds.",
+      "end_time": 1886.408,
+      "duration": 6.44
+    },
+    {
+      "scene_id": 422,
+      "label": "DOPAMINE LOOPS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1886.408,
+      "vo": "Teenagers trapped in dopamine loops of notifications, likes, and red badge alerts.",
+      "end_time": 1891.704,
+      "duration": 5.296
+    },
+    {
+      "scene_id": 423,
+      "label": "THE SEDUCTIVE PANOPTICON",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1891.704,
+      "vo": "The company that in 1984 promised to smash Big Brother had built the most seductive, inescapable surveillance ecosystem on earth.",
+      "end_time": 1899.96,
+      "duration": 8.256
+    },
+    {
+      "scene_id": 424,
+      "label": "NOT BY DICTATOR",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1899.96,
+      "vo": "It was not forced upon humanity by a dictator.",
+      "end_time": 1903.8,
+      "duration": 3.84
+    },
+    {
+      "scene_id": 425,
+      "label": "BOUGHT WILLINGLY",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1903.8,
+      "vo": "Humanity bought it willingly.",
+      "end_time": 1905.62,
+      "duration": 1.82
+    },
+    {
+      "scene_id": 426,
+      "label": "BECAUSE COMFORTABLE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1905.62,
+      "vo": "Because it was comfortable.",
+      "end_time": 1906.47,
+      "duration": 0.85
+    },
+    {
+      "scene_id": 427,
+      "label": "BECAUSE BEAUTIFUL",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1906.47,
+      "vo": "Because it was beautiful.",
+      "end_time": 1908.94,
+      "duration": 2.47
+    },
+    {
+      "scene_id": 428,
+      "label": "BECAUSE IT WORKED",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1908.94,
+      "vo": "Because it worked.",
+      "end_time": 1909.848,
+      "duration": 0.908
+    },
+    {
+      "scene_id": 429,
+      "label": "1976 GARAGE DREAMERS",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1909.848,
+      "vo": "In 1976, two broke dreamers in an unpainted Los Altos garage started soldering circuits together",
+      "end_time": 1917.448,
+      "duration": 7.6
+    },
+    {
+      "scene_id": 430,
+      "label": "POWER TO THE INDIVIDUAL",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1917.448,
+      "vo": "because they believed that technology should belong to the individual, not the corporation.",
+      "end_time": 1922.544,
+      "duration": 5.096
+    },
+    {
+      "scene_id": 431,
+      "label": "GOVERNING A BILLION LIVES",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1922.544,
+      "vo": "Fifty years later, their creation governs the private communications, memories, and financial transactions of over a billion human beings.",
+      "end_time": 1931.088,
+      "duration": 8.544
+    },
+    {
+      "scene_id": 432,
+      "label": "BICYCLE FOR THE MIND",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1931.088,
+      "vo": "Steve Jobs once called the computer a bicycle for our minds\u00e2\u20ac\u201d",
+      "end_time": 1935.348,
+      "duration": 4.26
+    },
+    {
+      "scene_id": 433,
+      "label": "AMPLIFYING HUMAN NATURE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1935.348,
+      "vo": "a tool that would amplify human capability beyond our natural limits.",
+      "end_time": 1939.104,
+      "duration": 3.756
+    },
+    {
+      "scene_id": 434,
+      "label": "WHO IS RIDING WHOM?",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1939.104,
+      "vo": "Looking at the world today, the only question that remains is who is riding whom.",
+      "end_time": 1943.784,
+      "duration": 4.68
+    },
+    {
+      "scene_id": 435,
+      "label": "FROM GARAGE TO EMPIRE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1943.784,
+      "vo": "From an oil-stained garage on Crist Drive to a three-trillion-dollar glass empire that conquered the world.",
+      "end_time": 1950.432,
+      "duration": 6.648
+    },
+    {
+      "scene_id": 436,
+      "label": "LIKE & SUBSCRIBE",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1950.432,
+      "vo": "If you felt the weight of this story, hit like and subscribe for the complete history of more empires, one founder at a time.",
+      "end_time": 1957.656,
+      "duration": 7.224
+    },
+    {
+      "scene_id": 437,
+      "label": "WHAT WAS YOUR FIRST?",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1957.656,
+      "vo": "And tell us in the comments below: what was the very first Apple product you ever held in your hands?",
+      "end_time": 1964.396,
+      "duration": 6.74
+    },
+    {
+      "scene_id": 438,
+      "label": "THE II, iPOD, OR iPHONE?",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1964.396,
+      "vo": "The II, the iPod, or the iPhone?",
+      "end_time": 1966.616,
+      "duration": 2.22
+    },
+    {
+      "scene_id": 439,
+      "label": "SEE YOU AT THE NEXT BUILD",
+      "act_num": 6,
+      "act_title": "THE WALLED GARDEN & THE SOUL",
+      "start_time": 1966.616,
+      "vo": "See you at the next build.",
+      "end_time": 1968.54,
+      "duration": 1.924
+    }
+  ]
+}

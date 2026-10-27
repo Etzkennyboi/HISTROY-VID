@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Media & Rendered Binaries (large files)
+*.mp4
+*.m4v
+*.avi
+*.mov
+*.wav
+*.mp3
+*.m4a
+output/
+scratch/
+temp/
+tmp/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# OS & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local

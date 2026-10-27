@@ -1,0 +1,3957 @@
+{
+  "total_scenes": 439,
+  "total_duration_sec": 2116.872,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "label": "THE GLOW",
+      "act_num": 1,
+      "start_sec": 0.0,
+      "end_sec": 1.42,
+      "duration_sec": 1.42,
+      "vo": "Pick up an iPhone tonight,"
+    },
+    {
+      "scene_id": 2,
+      "label": "NOT A TELEPHONE",
+      "act_num": 1,
+      "start_sec": 1.42,
+      "end_sec": 3.408,
+      "duration_sec": 1.988,
+      "vo": "and you are not holding a telephone."
+    },
+    {
+      "scene_id": 3,
+      "label": "THE ARTIFACT",
+      "act_num": 1,
+      "start_sec": 3.408,
+      "end_sec": 8.616,
+      "duration_sec": 5.208,
+      "vo": "You are holding the most profitable consumer object ever engineered by the human species."
+    },
+    {
+      "scene_id": 4,
+      "label": "TITANIUM & SILICON",
+      "act_num": 1,
+      "start_sec": 8.616,
+      "end_sec": 13.08,
+      "duration_sec": 4.464,
+      "vo": "A seamless slab of titanium, sapphire glass, and microscopic silicon"
+    },
+    {
+      "scene_id": 5,
+      "label": "90-DAY PROFIT",
+      "act_num": 1,
+      "start_sec": 13.08,
+      "end_sec": 17.22,
+      "duration_sec": 4.14,
+      "vo": "that generates more net profit in a single ninety-day quarter"
+    },
+    {
+      "scene_id": 6,
+      "label": "THE PROFIT MONSTER",
+      "act_num": 1,
+      "start_sec": 17.22,
+      "end_sec": 19.704,
+      "duration_sec": 2.484,
+      "vo": "than Nike, Coca-Cola, and McDonald\u2019s combined."
+    },
+    {
+      "scene_id": 7,
+      "label": "$3,000,000,000,000",
+      "act_num": 1,
+      "start_sec": 19.704,
+      "end_sec": 24.312,
+      "duration_sec": 4.608,
+      "vo": "Behind that glass sits a corporate empire valued at over three trillion dollars."
+    },
+    {
+      "scene_id": 8,
+      "label": "LARGER THAN NATIONS",
+      "act_num": 1,
+      "start_sec": 24.312,
+      "end_sec": 29.928,
+      "duration_sec": 5.616,
+      "vo": "That is larger than the entire gross domestic product of the United Kingdom, France, or India."
+    },
+    {
+      "scene_id": 9,
+      "label": "FLEETS IN CASH",
+      "act_num": 1,
+      "start_sec": 29.928,
+      "end_sec": 33.88,
+      "duration_sec": 3.952,
+      "vo": "Its cash reserves could purchase entire commercial airline fleets"
+    },
+    {
+      "scene_id": 10,
+      "label": "BOUGHT BY LUNCH",
+      "act_num": 1,
+      "start_sec": 33.88,
+      "end_sec": 38.648,
+      "duration_sec": 4.768,
+      "vo": "or defense contractors in cash before the markets close for lunch."
+    },
+    {
+      "scene_id": 11,
+      "label": "ONE BILLION POCKETS",
+      "act_num": 1,
+      "start_sec": 38.648,
+      "end_sec": 44.224,
+      "duration_sec": 5.576,
+      "vo": "Over one billion human beings carry this device in their pockets every second of the day."
+    },
+    {
+      "scene_id": 12,
+      "label": "SYDNEY 6:00 AM",
+      "act_num": 1,
+      "start_sec": 44.224,
+      "end_sec": 46.062,
+      "duration_sec": 1.838,
+      "vo": "When an alarm rings in Sydney,"
+    },
+    {
+      "scene_id": 13,
+      "label": "TOKYO COMMUTE",
+      "act_num": 1,
+      "start_sec": 46.062,
+      "end_sec": 47.66,
+      "duration_sec": 1.598,
+      "vo": "a podcast plays in Tokyo,"
+    },
+    {
+      "scene_id": 14,
+      "label": "LONDON TAP-TO-PAY",
+      "act_num": 1,
+      "start_sec": 47.66,
+      "end_sec": 49.92,
+      "duration_sec": 2.26,
+      "vo": "or a contactless card taps in London,"
+    },
+    {
+      "scene_id": 15,
+      "label": "THE DIGITAL TOLL",
+      "act_num": 1,
+      "start_sec": 49.92,
+      "end_sec": 51.535,
+      "duration_sec": 1.615,
+      "vo": "Apple quietly takes its toll."
+    },
+    {
+      "scene_id": 16,
+      "label": "SENSORY APPARATUS",
+      "act_num": 1,
+      "start_sec": 51.535,
+      "end_sec": 55.349,
+      "duration_sec": 3.814,
+      "vo": "It has become the default sensory apparatus for modern human civilization."
+    },
+    {
+      "scene_id": 17,
+      "label": "THE ILLUSION",
+      "act_num": 1,
+      "start_sec": 55.349,
+      "end_sec": 58.855,
+      "duration_sec": 3.506,
+      "vo": "Yet the entire empire is constructed on an illusion."
+    },
+    {
+      "scene_id": 18,
+      "label": "CONTINUOUS RADII",
+      "act_num": 1,
+      "start_sec": 58.855,
+      "end_sec": 60.109,
+      "duration_sec": 1.254,
+      "vo": "Smooth rounded corners."
+    },
+    {
+      "scene_id": 19,
+      "label": "PNEUMATIC GLIDE",
+      "act_num": 1,
+      "start_sec": 60.109,
+      "end_sec": 66.265,
+      "duration_sec": 6.156,
+      "vo": "Minimalist white boxes that slide open with a slow pneumatic glide."
+    },
+    {
+      "scene_id": 20,
+      "label": "WOVEN SILK",
+      "act_num": 1,
+      "start_sec": 66.265,
+      "end_sec": 68.454,
+      "duration_sec": 2.189,
+      "vo": "Silk-wrapped charging cords."
+    },
+    {
+      "scene_id": 21,
+      "label": "LOWERCASE PURITY",
+      "act_num": 1,
+      "start_sec": 68.454,
+      "end_sec": 70.325,
+      "duration_sec": 1.871,
+      "vo": "Friendly, lowercase typography."
+    },
+    {
+      "scene_id": 22,
+      "label": "NOT ELECTRONICS",
+      "act_num": 1,
+      "start_sec": 70.325,
+      "end_sec": 72.797,
+      "duration_sec": 2.472,
+      "vo": "Apple does not sell consumer electronics."
+    },
+    {
+      "scene_id": 23,
+      "label": "THE IDENTITY",
+      "act_num": 1,
+      "start_sec": 72.797,
+      "end_sec": 74.445,
+      "duration_sec": 1.648,
+      "vo": "Apple sells an identity."
+    },
+    {
+      "scene_id": 24,
+      "label": "MIDNIGHT EMAILS",
+      "act_num": 1,
+      "start_sec": 74.445,
+      "end_sec": 82.391,
+      "duration_sec": 7.946,
+      "vo": "It sells the flattering, comforting belief that by tapping on their glass, you are not merely a corporate worker checking emails at midnight."
+    },
+    {
+      "scene_id": 25,
+      "label": "THE ARTIST",
+      "act_num": 1,
+      "start_sec": 82.391,
+      "end_sec": 83.761,
+      "duration_sec": 1.37,
+      "vo": "You are an artist."
+    },
+    {
+      "scene_id": 26,
+      "label": "THE CREATOR",
+      "act_num": 1,
+      "start_sec": 83.761,
+      "end_sec": 84.433,
+      "duration_sec": 0.672,
+      "vo": "A creator."
+    },
+    {
+      "scene_id": 27,
+      "label": "THE REBEL",
+      "act_num": 1,
+      "start_sec": 84.433,
+      "end_sec": 89.113,
+      "duration_sec": 4.68,
+      "vo": "A rebel who thinks a little differently than the uninspired masses around you."
+    },
+    {
+      "scene_id": 28,
+      "label": "PSYCHOLOGICAL TRICK",
+      "act_num": 1,
+      "start_sec": 89.113,
+      "end_sec": 92.643,
+      "duration_sec": 3.53,
+      "vo": "It is the greatest psychological trick in corporate history."
+    },
+    {
+      "scene_id": 29,
+      "label": "CUPERTINO ORCHARDS, 1970",
+      "act_num": 1,
+      "start_sec": 92.643,
+      "end_sec": 98.841,
+      "duration_sec": 6.198,
+      "vo": "Because fifty years ago, there was no glass spaceship campus rising out of Cupertino apricot orchards."
+    },
+    {
+      "scene_id": 30,
+      "label": "NO MARBLE TEMPLES",
+      "act_num": 1,
+      "start_sec": 98.841,
+      "end_sec": 101.398,
+      "duration_sec": 2.557,
+      "vo": "There were no pristine marble retail temples."
+    },
+    {
+      "scene_id": 31,
+      "label": "NO BILLION-DOLLAR ADS",
+      "act_num": 1,
+      "start_sec": 101.398,
+      "end_sec": 103.577,
+      "duration_sec": 2.179,
+      "vo": "There were no billion-dollar marketing campaigns."
+    },
+    {
+      "scene_id": 32,
+      "label": "CRIST DRIVE GARAGE",
+      "act_num": 1,
+      "start_sec": 103.577,
+      "end_sec": 107.479,
+      "duration_sec": 3.902,
+      "vo": "There was only a drafty suburban garage in Los Altos, California,"
+    },
+    {
+      "scene_id": 33,
+      "label": "OIL STAINS ON CONCRETE",
+      "act_num": 1,
+      "start_sec": 107.479,
+      "end_sec": 110.386,
+      "duration_sec": 2.907,
+      "vo": "with oil stains soaked into the concrete floor,"
+    },
+    {
+      "scene_id": 34,
+      "label": "BARELY $25",
+      "act_num": 1,
+      "start_sec": 110.386,
+      "end_sec": 114.256,
+      "duration_sec": 3.87,
+      "vo": "two college dropouts who had barely twenty-five dollars between them,"
+    },
+    {
+      "scene_id": 35,
+      "label": "THE SEED OF BETRAYAL",
+      "act_num": 1,
+      "start_sec": 114.256,
+      "end_sec": 120.843,
+      "duration_sec": 6.587,
+      "vo": "and an act of petty corporate theft that almost destroyed their friendship before it even began."
+    },
+    {
+      "scene_id": 36,
+      "label": "NOT AN ENGINEERING COMPANY",
+      "act_num": 2,
+      "start_sec": 120.843,
+      "end_sec": 126.609,
+      "duration_sec": 5.766,
+      "vo": "To understand Apple, you have to understand that it was never an engineering company."
+    },
+    {
+      "scene_id": 37,
+      "label": "THE SAINT & THE PROPHET",
+      "act_num": 2,
+      "start_sec": 126.609,
+      "end_sec": 131.401,
+      "duration_sec": 4.792,
+      "vo": "It was an uneasy partnership between an engineering saint and a ruthless commercial prophet."
+    },
+    {
+      "scene_id": 38,
+      "label": "VALLEY MISFITS, 1971",
+      "act_num": 2,
+      "start_sec": 131.401,
+      "end_sec": 137.355,
+      "duration_sec": 5.954,
+      "vo": "In 1971, Steve Wozniak and Steve Jobs were teenage misfits in the smoggy suburbs of Silicon Valley."
+    },
+    {
+      "scene_id": 39,
+      "label": "THE ELECTRON DANCE",
+      "act_num": 2,
+      "start_sec": 137.355,
+      "end_sec": 144.858,
+      "duration_sec": 7.503,
+      "vo": "Wozniak was a gentle, childlike prodigy who built electronic circuits for the pure, uncorrupted joy of making electrons dance."
+    },
+    {
+      "scene_id": 40,
+      "label": "REED COLLEGE DROPOUT",
+      "act_num": 2,
+      "start_sec": 144.858,
+      "end_sec": 149.944,
+      "duration_sec": 5.086,
+      "vo": "Jobs was a barefoot, brooding wanderer who attended Reed College, dropped out after one semester,"
+    },
+    {
+      "scene_id": 41,
+      "label": "5-CENT DEPOSIT BOTTLES",
+      "act_num": 2,
+      "start_sec": 149.944,
+      "end_sec": 155.196,
+      "duration_sec": 5.252,
+      "vo": "slept on dorm room floors, and returned deposit bottles for five cents to buy food."
+    },
+    {
+      "scene_id": 42,
+      "label": "ILLEGAL VENTURES",
+      "act_num": 2,
+      "start_sec": 155.196,
+      "end_sec": 157.449,
+      "duration_sec": 2.253,
+      "vo": "Their first commercial venture was illegal."
+    },
+    {
+      "scene_id": 43,
+      "label": "CAP'N CRUNCH WHISTLE",
+      "act_num": 2,
+      "start_sec": 157.449,
+      "end_sec": 166.461,
+      "duration_sec": 9.012,
+      "vo": "Wozniak discovered that toy whistles packed inside Cap'n Crunch cereal boxes emitted a tone at exactly twenty-six hundred hertz."
+    },
+    {
+      "scene_id": 44,
+      "label": "FOOLING THE SWITCHES",
+      "act_num": 2,
+      "start_sec": 166.461,
+      "end_sec": 172.103,
+      "duration_sec": 5.642,
+      "vo": "That precise frequency fooled AT&T\u2019s automated telephone switches into granting free, untraceable long-distance calls across the globe."
+    },
+    {
+      "scene_id": 45,
+      "label": "THE BLUE BOX",
+      "act_num": 2,
+      "start_sec": 172.103,
+      "end_sec": 175.011,
+      "duration_sec": 2.908,
+      "vo": "Woz built an electronic version called a Blue Box."
+    },
+    {
+      "scene_id": 46,
+      "label": "SELLING FOR $150",
+      "act_num": 2,
+      "start_sec": 175.011,
+      "end_sec": 182.447,
+      "duration_sec": 7.436,
+      "vo": "Jobs realized they shouldn't just prank phone companies\u2014they should sell the boxes to college students for one hundred and fifty dollars each."
+    },
+    {
+      "scene_id": 47,
+      "label": "CALLING THE VATICAN",
+      "act_num": 2,
+      "start_sec": 182.447,
+      "end_sec": 192.554,
+      "duration_sec": 10.107,
+      "vo": "They used one to call the Vatican in Rome, with Wozniak pretending to be Henry Kissinger asking to speak to the Pope in the middle of the night."
+    },
+    {
+      "scene_id": 48,
+      "label": "THE COLD SHADOW",
+      "act_num": 2,
+      "start_sec": 192.554,
+      "end_sec": 196.317,
+      "duration_sec": 3.763,
+      "vo": "Then came the incident that revealed the cold shadow inside Steve Jobs."
+    },
+    {
+      "scene_id": 49,
+      "label": "ATARI & BREAKOUT",
+      "act_num": 2,
+      "start_sec": 196.317,
+      "end_sec": 202.894,
+      "duration_sec": 6.577,
+      "vo": "In 1975, Atari founder Nolan Bushnell hired Jobs to build a single-player version of Pong called Breakout."
+    },
+    {
+      "scene_id": 50,
+      "label": "THE $700 BASE",
+      "act_num": 2,
+      "start_sec": 202.894,
+      "end_sec": 208.239,
+      "duration_sec": 5.345,
+      "vo": "Bushnell offered a bonus: seven hundred dollars for the game,"
+    },
+    {
+      "scene_id": 51,
+      "label": "$100 PER CHIP BOUNTY",
+      "act_num": 2,
+      "start_sec": 208.239,
+      "end_sec": 214.777,
+      "duration_sec": 6.538,
+      "vo": "plus an extra one hundred dollars for every computer chip eliminated from the design."
+    },
+    {
+      "scene_id": 52,
+      "label": "LACKING THE CHOPS",
+      "act_num": 2,
+      "start_sec": 214.777,
+      "end_sec": 219.637,
+      "duration_sec": 4.86,
+      "vo": "Jobs knew he lacked the engineering chops to do it,"
+    },
+    {
+      "scene_id": 53,
+      "label": "THE 50/50 PROMISE",
+      "act_num": 2,
+      "start_sec": 219.637,
+      "end_sec": 225.78,
+      "duration_sec": 6.143,
+      "vo": "so he begged Wozniak to help, promising they would split the payout fifty-fifty."
+    },
+    {
+      "scene_id": 54,
+      "label": "FOUR SLEEPLESS NIGHTS",
+      "act_num": 2,
+      "start_sec": 225.78,
+      "end_sec": 229.502,
+      "duration_sec": 3.722,
+      "vo": "Wozniak worked for four straight nights without sleep, contracting mono,"
+    },
+    {
+      "scene_id": 55,
+      "label": "50 CHIPS ELIMINATED",
+      "act_num": 2,
+      "start_sec": 229.502,
+      "end_sec": 233.761,
+      "duration_sec": 4.259,
+      "vo": "and designed a masterpiece that cut fifty chips from the circuit board."
+    },
+    {
+      "scene_id": 56,
+      "label": "THE $5,000 PAYOUT",
+      "act_num": 2,
+      "start_sec": 233.761,
+      "end_sec": 237.049,
+      "duration_sec": 3.288,
+      "vo": "Atari paid Jobs a massive five-thousand-dollar bonus."
+    },
+    {
+      "scene_id": 57,
+      "label": "THE $700 LIE",
+      "act_num": 2,
+      "start_sec": 237.049,
+      "end_sec": 244.09,
+      "duration_sec": 7.041,
+      "vo": "Jobs returned to the garage, looked his exhausted best friend in the eye, and told him Atari had paid only seven hundred dollars."
+    },
+    {
+      "scene_id": 58,
+      "label": "HANDING OVER $350",
+      "act_num": 2,
+      "start_sec": 244.09,
+      "end_sec": 246.562,
+      "duration_sec": 2.472,
+      "vo": "He handed Wozniak three hundred and fifty dollars,"
+    },
+    {
+      "scene_id": 59,
+      "label": "POCKETING $4,650",
+      "act_num": 2,
+      "start_sec": 246.562,
+      "end_sec": 250.921,
+      "duration_sec": 4.359,
+      "vo": "and pocketed the remaining four thousand six hundred and fifty dollars for himself."
+    },
+    {
+      "scene_id": 60,
+      "label": "THE TEARS OF WOZ",
+      "act_num": 2,
+      "start_sec": 250.921,
+      "end_sec": 255.32,
+      "duration_sec": 4.399,
+      "vo": "Years later, when Wozniak discovered the truth, he broke down and cried."
+    },
+    {
+      "scene_id": 61,
+      "label": "HE DIDN'T WALK AWAY",
+      "act_num": 2,
+      "start_sec": 255.32,
+      "end_sec": 257.738,
+      "duration_sec": 2.418,
+      "vo": "But he didn't walk away."
+    },
+    {
+      "scene_id": 62,
+      "label": "THE CARDBOARD BOX TRAP",
+      "act_num": 2,
+      "start_sec": 257.738,
+      "end_sec": 267.057,
+      "duration_sec": 9.319,
+      "vo": "Because despite Jobs\u2019s ruthless deceit, Woz knew that without Jobs, his brilliant inventions would sit in a cardboard box on a bedroom floor forever."
+    },
+    {
+      "scene_id": 63,
+      "label": "THE 1976 EPIPHANY",
+      "act_num": 2,
+      "start_sec": 267.057,
+      "end_sec": 270.772,
+      "duration_sec": 3.715,
+      "vo": "In early 1976, Wozniak had an epiphany that changed computing history."
+    },
+    {
+      "scene_id": 64,
+      "label": "MAINFRAME MONSTERS",
+      "act_num": 2,
+      "start_sec": 270.772,
+      "end_sec": 279.445,
+      "duration_sec": 8.673,
+      "vo": "At the time, computers were terrifying, multi-million-dollar metal cabinets locked behind plate glass in air-conditioned basements of banks and military installations."
+    },
+    {
+      "scene_id": 65,
+      "label": "THE WHITE COAT PRIESTHOOD",
+      "act_num": 2,
+      "start_sec": 279.445,
+      "end_sec": 284.197,
+      "duration_sec": 4.752,
+      "vo": "They were fed paper punch cards by men in white lab coats."
+    },
+    {
+      "scene_id": 66,
+      "label": "ABSURDITY IN THE HOME",
+      "act_num": 2,
+      "start_sec": 284.197,
+      "end_sec": 289.766,
+      "duration_sec": 5.569,
+      "vo": "The idea that an ordinary human would want a computer in their living room was considered absurd."
+    },
+    {
+      "scene_id": 67,
+      "label": "KEN OLSEN'S MOCKERY",
+      "act_num": 2,
+      "start_sec": 289.766,
+      "end_sec": 299.148,
+      "duration_sec": 9.382,
+      "vo": "Ken Olsen, founder of Digital Equipment Corporation, famously mocked: \"There is no reason anyone would want a computer in their home.\""
+    },
+    {
+      "scene_id": 68,
+      "label": "WOZNIAK DISAGREED",
+      "act_num": 2,
+      "start_sec": 299.148,
+      "end_sec": 300.173,
+      "duration_sec": 1.025,
+      "vo": "Wozniak disagreed."
+    },
+    {
+      "scene_id": 69,
+      "label": "WIRING ON THE FLOOR",
+      "act_num": 2,
+      "start_sec": 300.173,
+      "end_sec": 307.69,
+      "duration_sec": 7.517,
+      "vo": "Sitting on the floor of his cramped apartment, he wired an ordinary keyboard directly to a microprocessor,"
+    },
+    {
+      "scene_id": 70,
+      "label": "THE B&W TV MONITOR",
+      "act_num": 2,
+      "start_sec": 307.69,
+      "end_sec": 311.713,
+      "duration_sec": 4.023,
+      "vo": "and hooked the output to a portable black-and-white television screen."
+    },
+    {
+      "scene_id": 71,
+      "label": "THE KEYPRESS",
+      "act_num": 2,
+      "start_sec": 311.713,
+      "end_sec": 313.345,
+      "duration_sec": 1.632,
+      "vo": "He pressed a key."
+    },
+    {
+      "scene_id": 72,
+      "label": "THE INSTANT LETTER",
+      "act_num": 2,
+      "start_sec": 313.345,
+      "end_sec": 322.357,
+      "duration_sec": 9.012,
+      "vo": "And for the first time in human history, the letter appeared instantly on the screen in front of him."
+    },
+    {
+      "scene_id": 73,
+      "label": "NO PUNCH CARDS",
+      "act_num": 2,
+      "start_sec": 322.357,
+      "end_sec": 323.617,
+      "duration_sec": 1.26,
+      "vo": "No punch cards."
+    },
+    {
+      "scene_id": 74,
+      "label": "NO PRINTOUTS",
+      "act_num": 2,
+      "start_sec": 323.617,
+      "end_sec": 324.409,
+      "duration_sec": 0.792,
+      "vo": "No paper printouts."
+    },
+    {
+      "scene_id": 75,
+      "label": "NO WAITING OVERNIGHT",
+      "act_num": 2,
+      "start_sec": 324.409,
+      "end_sec": 325.201,
+      "duration_sec": 0.792,
+      "vo": "No waiting overnight."
+    },
+    {
+      "scene_id": 76,
+      "label": "PERSONAL COMPUTING BORN",
+      "act_num": 2,
+      "start_sec": 325.201,
+      "end_sec": 326.521,
+      "duration_sec": 1.32,
+      "vo": "It was instantaneous, personal computing."
+    },
+    {
+      "scene_id": 77,
+      "label": "HOMEBREW GYMNASIUM",
+      "act_num": 2,
+      "start_sec": 326.521,
+      "end_sec": 332.26,
+      "duration_sec": 5.739,
+      "vo": "Woz was so proud that he took his schematics to the Homebrew Computer Club in Menlo Park"
+    },
+    {
+      "scene_id": 78,
+      "label": "GIVING SCHEMATICS FREE",
+      "act_num": 2,
+      "start_sec": 332.26,
+      "end_sec": 335.009,
+      "duration_sec": 2.749,
+      "vo": "and gave them away to fellow hobbyists for free."
+    },
+    {
+      "scene_id": 79,
+      "label": "JOBS INTERVENES",
+      "act_num": 2,
+      "start_sec": 335.009,
+      "end_sec": 337.87,
+      "duration_sec": 2.861,
+      "vo": "When Jobs saw the machine, he intervened immediately."
+    },
+    {
+      "scene_id": 80,
+      "label": "STOP GIVING IT AWAY",
+      "act_num": 2,
+      "start_sec": 337.87,
+      "end_sec": 340.565,
+      "duration_sec": 2.695,
+      "vo": "\"Stop giving it away,\" Jobs demanded."
+    },
+    {
+      "scene_id": 81,
+      "label": "BUILD BOARDS AND SELL",
+      "act_num": 2,
+      "start_sec": 340.565,
+      "end_sec": 343.4,
+      "duration_sec": 2.835,
+      "vo": "\"Let's build circuit boards and sell them.\""
+    },
+    {
+      "scene_id": 82,
+      "label": "SELLING THE VW BUS",
+      "act_num": 2,
+      "start_sec": 343.4,
+      "end_sec": 349.295,
+      "duration_sec": 5.895,
+      "vo": "To raise the seed capital, Jobs sold his beloved red-and-white Volkswagen microbus for a few hundred dollars."
+    },
+    {
+      "scene_id": 83,
+      "label": "SELLING THE HP CALCULATOR",
+      "act_num": 2,
+      "start_sec": 349.295,
+      "end_sec": 352.718,
+      "duration_sec": 3.423,
+      "vo": "Wozniak sold his prized Hewlett-Packard scientific calculator for five hundred."
+    },
+    {
+      "scene_id": 84,
+      "label": "$1,300 SEED MONEY",
+      "act_num": 2,
+      "start_sec": 352.718,
+      "end_sec": 354.566,
+      "duration_sec": 1.848,
+      "vo": "Combined, they had thirteen hundred dollars."
+    },
+    {
+      "scene_id": 85,
+      "label": "APRIL FOOLS' DAY, 1976",
+      "act_num": 2,
+      "start_sec": 354.566,
+      "end_sec": 356.722,
+      "duration_sec": 2.156,
+      "vo": "They incorporated on April Fools\u2019 Day, 1976."
+    },
+    {
+      "scene_id": 86,
+      "label": "THE OREGON ORCHARD",
+      "act_num": 2,
+      "start_sec": 356.722,
+      "end_sec": 361.832,
+      "duration_sec": 5.11,
+      "vo": "Jobs named it Apple Computer after spending time pruning Gravenstein trees on an Oregon orchard commune."
+    },
+    {
+      "scene_id": 87,
+      "label": "FRIENDLY & APPROACHABLE",
+      "act_num": 2,
+      "start_sec": 361.832,
+      "end_sec": 363.451,
+      "duration_sec": 1.619,
+      "vo": "It sounded friendly, non-threatening,"
+    },
+    {
+      "scene_id": 88,
+      "label": "BEFORE ATARI IN DIRECTORY",
+      "act_num": 2,
+      "start_sec": 363.451,
+      "end_sec": 368.311,
+      "duration_sec": 4.86,
+      "vo": "and crucially, it appeared before Atari in the phone book."
+    },
+    {
+      "scene_id": 89,
+      "label": "BYTE SHOP PITCH",
+      "act_num": 2,
+      "start_sec": 368.311,
+      "end_sec": 376.063,
+      "duration_sec": 7.752,
+      "vo": "Jobs marched into the Byte Shop in Mountain View and pitched their naked circuit board to owner Paul Terrell."
+    },
+    {
+      "scene_id": 90,
+      "label": "TERRELL'S COUNTEROFFER",
+      "act_num": 2,
+      "start_sec": 376.063,
+      "end_sec": 379.869,
+      "duration_sec": 3.806,
+      "vo": "Terrell looked at the board of exposed wires and made an unexpected counteroffer:"
+    },
+    {
+      "scene_id": 91,
+      "label": "50 ASSEMBLED COMPUTERS",
+      "act_num": 2,
+      "start_sec": 379.869,
+      "end_sec": 385.834,
+      "duration_sec": 5.965,
+      "vo": "he would buy fifty units, but only if they were fully assembled, working computers."
+    },
+    {
+      "scene_id": 92,
+      "label": "$500 CASH ON DELIVERY",
+      "act_num": 2,
+      "start_sec": 385.834,
+      "end_sec": 388.641,
+      "duration_sec": 2.807,
+      "vo": "Price: five hundred dollars each, cash on delivery."
+    },
+    {
+      "scene_id": 93,
+      "label": "$25,000 STAGGERING SUM",
+      "act_num": 2,
+      "start_sec": 388.641,
+      "end_sec": 389.694,
+      "duration_sec": 1.053,
+      "vo": "Twenty-five thousand dollars."
+    },
+    {
+      "scene_id": 94,
+      "label": "UNIMAGINED WEALTH",
+      "act_num": 2,
+      "start_sec": 389.694,
+      "end_sec": 395.763,
+      "duration_sec": 6.069,
+      "vo": "It was more money than either of them had ever contemplated."
+    },
+    {
+      "scene_id": 95,
+      "label": "GARAGE ASSEMBLY PLANT",
+      "act_num": 2,
+      "start_sec": 395.763,
+      "end_sec": 399.71,
+      "duration_sec": 3.947,
+      "vo": "The garage on Crist Drive became an assembly plant."
+    },
+    {
+      "scene_id": 96,
+      "label": "$1 PER BOARD SOLDERING",
+      "act_num": 2,
+      "start_sec": 399.71,
+      "end_sec": 403.723,
+      "duration_sec": 4.013,
+      "vo": "Jobs\u2019s sister was paid one dollar per board to solder chip sockets."
+    },
+    {
+      "scene_id": 97,
+      "label": "30 DAYS PARTS CREDIT",
+      "act_num": 2,
+      "start_sec": 403.723,
+      "end_sec": 408.127,
+      "duration_sec": 4.404,
+      "vo": "Jobs badgered electronic suppliers into giving him thirty days of credit on parts."
+    },
+    {
+      "scene_id": 98,
+      "label": "50 DELIVERED IN WOOD",
+      "act_num": 2,
+      "start_sec": 408.127,
+      "end_sec": 411.233,
+      "duration_sec": 3.106,
+      "vo": "They delivered all fifty computers on time in wooden boxes."
+    },
+    {
+      "scene_id": 99,
+      "label": "APPLE I HOBBYIST HIT",
+      "act_num": 2,
+      "start_sec": 411.233,
+      "end_sec": 413.901,
+      "duration_sec": 2.668,
+      "vo": "The Apple I was an underground hit among hardcore hobbyists."
+    },
+    {
+      "scene_id": 100,
+      "label": "JOBS DISSATISFIED",
+      "act_num": 2,
+      "start_sec": 413.901,
+      "end_sec": 415.33,
+      "duration_sec": 1.429,
+      "vo": "But Jobs was already dissatisfied."
+    },
+    {
+      "scene_id": 101,
+      "label": "RAW BOARD FOR NERDS",
+      "act_num": 2,
+      "start_sec": 415.33,
+      "end_sec": 419.35,
+      "duration_sec": 4.02,
+      "vo": "It was still just a raw circuit board for nerds with soldering irons."
+    },
+    {
+      "scene_id": 102,
+      "label": "CONSUMER APPLIANCE VISION",
+      "act_num": 2,
+      "start_sec": 419.35,
+      "end_sec": 424.155,
+      "duration_sec": 4.805,
+      "vo": "Jobs understood that a true revolution wouldn't happen until computers became consumer appliances."
+    },
+    {
+      "scene_id": 103,
+      "label": "SIMPLE AS A TOASTER",
+      "act_num": 2,
+      "start_sec": 424.155,
+      "end_sec": 430.32,
+      "duration_sec": 6.165,
+      "vo": "Friendly, beautiful, quiet machines that worked straight out of the box, as simple as a kitchen toaster."
+    },
+    {
+      "scene_id": 104,
+      "label": "THE APPLE II MAGNUM OPUS",
+      "act_num": 2,
+      "start_sec": 430.32,
+      "end_sec": 434.139,
+      "duration_sec": 3.819,
+      "vo": "Woz sat down and engineered his magnum opus: the Apple II."
+    },
+    {
+      "scene_id": 105,
+      "label": "COLOR GRAPHICS & SOUND",
+      "act_num": 2,
+      "start_sec": 434.139,
+      "end_sec": 437.96,
+      "duration_sec": 3.821,
+      "vo": "It featured built-in color graphics, sound, game ports, and expansion slots."
+    },
+    {
+      "scene_id": 106,
+      "label": "OBSESSING OVER ENCLOSURE",
+      "act_num": 2,
+      "start_sec": 437.96,
+      "end_sec": 440.13,
+      "duration_sec": 2.17,
+      "vo": "Jobs obsessed over the industrial enclosure."
+    },
+    {
+      "scene_id": 107,
+      "label": "NO VISIBLE SCREWS",
+      "act_num": 2,
+      "start_sec": 440.13,
+      "end_sec": 441.576,
+      "duration_sec": 1.446,
+      "vo": "No visible metal screws."
+    },
+    {
+      "scene_id": 108,
+      "label": "NO COOLING FAN",
+      "act_num": 2,
+      "start_sec": 441.576,
+      "end_sec": 445.521,
+      "duration_sec": 3.945,
+      "vo": "No ugly, noisy cooling fan\u2014the machine had to be completely silent,"
+    },
+    {
+      "scene_id": 109,
+      "label": "SWITCHING POWER SUPPLY",
+      "act_num": 2,
+      "start_sec": 445.521,
+      "end_sec": 448.131,
+      "duration_sec": 2.61,
+      "vo": "requiring a custom lightweight switching power supply."
+    },
+    {
+      "scene_id": 110,
+      "label": "40 SHADES OF BEIGE",
+      "act_num": 2,
+      "start_sec": 448.131,
+      "end_sec": 454.366,
+      "duration_sec": 6.235,
+      "vo": "He spent weeks examining forty different plastic color swatches to find the precise, warm shade of beige."
+    },
+    {
+      "scene_id": 111,
+      "label": "NEEDING SERIOUS CAPITAL",
+      "act_num": 2,
+      "start_sec": 454.366,
+      "end_sec": 456.849,
+      "duration_sec": 2.483,
+      "vo": "To manufacture it, they needed serious capital."
+    },
+    {
+      "scene_id": 112,
+      "label": "ENTER MIKE MARKKULA",
+      "act_num": 2,
+      "start_sec": 456.849,
+      "end_sec": 461.099,
+      "duration_sec": 4.25,
+      "vo": "Enter Mike Markkula, an Intel millionaire who recognized genius in the mismatched duo."
+    },
+    {
+      "scene_id": 113,
+      "label": "$92,000 INVESTMENT",
+      "act_num": 2,
+      "start_sec": 461.099,
+      "end_sec": 464.198,
+      "duration_sec": 3.099,
+      "vo": "Markkula invested ninety-two thousand dollars of his own money,"
+    },
+    {
+      "scene_id": 114,
+      "label": "$250,000 LINE OF CREDIT",
+      "act_num": 2,
+      "start_sec": 464.198,
+      "end_sec": 466.679,
+      "duration_sec": 2.481,
+      "vo": "secured a quarter-million-dollar line of credit,"
+    },
+    {
+      "scene_id": 115,
+      "label": "EMPATHY & FOCUS",
+      "act_num": 2,
+      "start_sec": 466.679,
+      "end_sec": 470.151,
+      "duration_sec": 3.472,
+      "vo": "and instituted Apple's corporate philosophy: empathy with the customer, focus,"
+    },
+    {
+      "scene_id": 116,
+      "label": "THE IMPUTING DOCTRINE",
+      "act_num": 2,
+      "start_sec": 470.151,
+      "end_sec": 477.905,
+      "duration_sec": 7.754,
+      "vo": "and \"imputing\"\u2014the belief that people judge a book by its cover, and that beautiful design signals quality before the power switch is even flipped."
+    },
+    {
+      "scene_id": 117,
+      "label": "WEST COAST COMPUTER FAIRE",
+      "act_num": 2,
+      "start_sec": 477.905,
+      "end_sec": 483.243,
+      "duration_sec": 5.338,
+      "vo": "The Apple II debuted at the 1977 West Coast Computer Faire."
+    },
+    {
+      "scene_id": 118,
+      "label": "COMPETITORS' DRAB GREY BOXES",
+      "act_num": 2,
+      "start_sec": 483.243,
+      "end_sec": 486.875,
+      "duration_sec": 3.632,
+      "vo": "While competitors displayed drab grey metal industrial boxes,"
+    },
+    {
+      "scene_id": 119,
+      "label": "GLOWING ACRYLIC RAINBOW",
+      "act_num": 2,
+      "start_sec": 486.875,
+      "end_sec": 491.13,
+      "duration_sec": 4.255,
+      "vo": "Apple\u2019s booth glowed with backlit acrylic signs and friendly beige appliances."
+    },
+    {
+      "scene_id": 120,
+      "label": "VISICALC SPREADSHEET",
+      "act_num": 2,
+      "start_sec": 491.13,
+      "end_sec": 495.648,
+      "duration_sec": 4.518,
+      "vo": "Then, in 1979, two Harvard students wrote VisiCalc\u2014the world\u2019s first electronic spreadsheet."
+    },
+    {
+      "scene_id": 121,
+      "label": "NOT FOR ARCADE GAMES",
+      "act_num": 2,
+      "start_sec": 495.648,
+      "end_sec": 501.602,
+      "duration_sec": 5.954,
+      "vo": "Suddenly, corporate executives weren't buying an Apple II to play breakout games."
+    },
+    {
+      "scene_id": 122,
+      "label": "20 SECONDS VS 20 DAYS",
+      "act_num": 2,
+      "start_sec": 501.602,
+      "end_sec": 508.058,
+      "duration_sec": 6.456,
+      "vo": "They were buying it because it calculated corporate financial forecasts in twenty seconds instead of twenty days."
+    },
+    {
+      "scene_id": 123,
+      "label": "ECONOMIC ROCKET SHIP",
+      "act_num": 2,
+      "start_sec": 508.058,
+      "end_sec": 510.89,
+      "duration_sec": 2.832,
+      "vo": "Apple became an economic rocket ship."
+    },
+    {
+      "scene_id": 124,
+      "label": "$8M TO $117M EXPLOSION",
+      "act_num": 2,
+      "start_sec": 510.89,
+      "end_sec": 517.615,
+      "duration_sec": 6.725,
+      "vo": "Revenue skyrocketed from eight million dollars in 1978 to one hundred and seventeen million in 1980."
+    },
+    {
+      "scene_id": 125,
+      "label": "WALL STREET IPO, DEC 1980",
+      "act_num": 2,
+      "start_sec": 517.615,
+      "end_sec": 521.736,
+      "duration_sec": 4.121,
+      "vo": "On December 12, 1980, Apple Computer went public on Wall Street."
+    },
+    {
+      "scene_id": 126,
+      "label": "LARGEST IPO SINCE FORD",
+      "act_num": 2,
+      "start_sec": 521.736,
+      "end_sec": 526.347,
+      "duration_sec": 4.611,
+      "vo": "It was the largest stock market debut since Ford Motor Company in 1956."
+    },
+    {
+      "scene_id": 127,
+      "label": "300 INSTANT MILLIONAIRES",
+      "act_num": 2,
+      "start_sec": 526.347,
+      "end_sec": 532.367,
+      "duration_sec": 6.02,
+      "vo": "In an afternoon, three hundred Apple employees became instant millionaires."
+    },
+    {
+      "scene_id": 128,
+      "label": "AGE 25: $256 MILLION",
+      "act_num": 2,
+      "start_sec": 532.367,
+      "end_sec": 538.006,
+      "duration_sec": 5.639,
+      "vo": "Steve Jobs, at age twenty-five, was suddenly worth two hundred and fifty-six million dollars."
+    },
+    {
+      "scene_id": 129,
+      "label": "VALLEY CONQUEROR",
+      "act_num": 2,
+      "start_sec": 538.006,
+      "end_sec": 541.734,
+      "duration_sec": 3.728,
+      "vo": "He had conquered Silicon Valley before his hair had even begun to thin."
+    },
+    {
+      "scene_id": 130,
+      "label": "HUBRIS TAKES CONTROL",
+      "act_num": 2,
+      "start_sec": 541.734,
+      "end_sec": 544.397,
+      "duration_sec": 2.663,
+      "vo": "And that is when the hubris took control."
+    },
+    {
+      "scene_id": 131,
+      "label": "THE HUBRIS OF WEALTH",
+      "act_num": 3,
+      "start_sec": 544.397,
+      "end_sec": 546.292,
+      "duration_sec": 1.895,
+      "vo": "Wealth amplified Jobs's worst instincts."
+    },
+    {
+      "scene_id": 132,
+      "label": "THE INFALLIBLE EMPEROR",
+      "act_num": 3,
+      "start_sec": 546.292,
+      "end_sec": 548.945,
+      "duration_sec": 2.653,
+      "vo": "He became convinced of his absolute infallibility."
+    },
+    {
+      "scene_id": 133,
+      "label": "XEROX PARC, DEC 1979",
+      "act_num": 3,
+      "start_sec": 548.945,
+      "end_sec": 553.325,
+      "duration_sec": 4.38,
+      "vo": "In December 1979, Jobs visited the Xerox Palo Alto Research Center."
+    },
+    {
+      "scene_id": 134,
+      "label": "THE 100,000 SHARE DEAL",
+      "act_num": 3,
+      "start_sec": 553.325,
+      "end_sec": 562.541,
+      "duration_sec": 9.216,
+      "vo": "In exchange for one million dollars of pre-IPO Apple stock, Xerox scientists agreed to give Jobs a tour of their secret computer laboratories."
+    },
+    {
+      "scene_id": 135,
+      "label": "THE SECRET LAB",
+      "act_num": 3,
+      "start_sec": 562.541,
+      "end_sec": 565.219,
+      "duration_sec": 2.678,
+      "vo": "They showed him three revolutionary technologies:"
+    },
+    {
+      "scene_id": 136,
+      "label": "OBJECT-ORIENTED CODE",
+      "act_num": 3,
+      "start_sec": 565.219,
+      "end_sec": 566.112,
+      "duration_sec": 0.893,
+      "vo": "object-oriented programming,"
+    },
+    {
+      "scene_id": 137,
+      "label": "ETHERNET NETWORKING",
+      "act_num": 3,
+      "start_sec": 566.112,
+      "end_sec": 566.904,
+      "duration_sec": 0.792,
+      "vo": "networked Ethernet,"
+    },
+    {
+      "scene_id": 138,
+      "label": "THE MOUSE & WINDOWS",
+      "act_num": 3,
+      "start_sec": 566.904,
+      "end_sec": 573.58,
+      "duration_sec": 6.676,
+      "vo": "and a graphical user interface where a handheld mouse moved a cursor across virtual windows on a screen."
+    },
+    {
+      "scene_id": 139,
+      "label": "PUPILS OF SHOCK",
+      "act_num": 3,
+      "start_sec": 573.58,
+      "end_sec": 576.967,
+      "duration_sec": 3.387,
+      "vo": "Jobs stared at the screen, his pupils dilated in pure shock."
+    },
+    {
+      "scene_id": 140,
+      "label": "BLIND COPIER GIANT",
+      "act_num": 3,
+      "start_sec": 576.967,
+      "end_sec": 581.809,
+      "duration_sec": 4.842,
+      "vo": "Xerox was a copier company whose corporate executives had zero idea what their scientists had built."
+    },
+    {
+      "scene_id": 141,
+      "label": "WHY AREN'T YOU DOING THIS?",
+      "act_num": 3,
+      "start_sec": 581.809,
+      "end_sec": 586.822,
+      "duration_sec": 5.013,
+      "vo": "Jobs began pacing the room, shouting: \"Why aren't you doing anything with this?"
+    },
+    {
+      "scene_id": 142,
+      "label": "THE GREATEST THING",
+      "act_num": 3,
+      "start_sec": 586.822,
+      "end_sec": 588.382,
+      "duration_sec": 1.56,
+      "vo": "This is the greatest thing!"
+    },
+    {
+      "scene_id": 143,
+      "label": "THE DIGITAL GOLD MINE",
+      "act_num": 3,
+      "start_sec": 588.382,
+      "end_sec": 590.438,
+      "duration_sec": 2.056,
+      "vo": "You are sitting on a gold mine!\""
+    },
+    {
+      "scene_id": 144,
+      "label": "THE LISA OBSESSION",
+      "act_num": 3,
+      "start_sec": 590.438,
+      "end_sec": 596.114,
+      "duration_sec": 5.676,
+      "vo": "Jobs raced back to Apple, determined to build the graphical interface into Apple\u2019s next corporate machine: the Lisa."
+    },
+    {
+      "scene_id": 145,
+      "label": "THE LISA DISASTER",
+      "act_num": 3,
+      "start_sec": 596.114,
+      "end_sec": 597.484,
+      "duration_sec": 1.37,
+      "vo": "It was a disaster."
+    },
+    {
+      "scene_id": 146,
+      "label": "DAILY SPEC SHIFTS",
+      "act_num": 3,
+      "start_sec": 597.484,
+      "end_sec": 601.583,
+      "duration_sec": 4.099,
+      "vo": "Jobs meddled with engineering teams, changed architectural specs daily,"
+    },
+    {
+      "scene_id": 147,
+      "label": "STRATOSPHERIC COSTS",
+      "act_num": 3,
+      "start_sec": 601.583,
+      "end_sec": 604.655,
+      "duration_sec": 3.072,
+      "vo": "and drove costs into the stratosphere."
+    },
+    {
+      "scene_id": 148,
+      "label": "$9,995 PRICE TAG",
+      "act_num": 3,
+      "start_sec": 604.655,
+      "end_sec": 614.367,
+      "duration_sec": 9.712,
+      "vo": "When the Lisa finally launched in 1983, it carried a price tag of nine thousand nine hundred and ninety-five dollars\u2014nearly thirty thousand dollars in today\u2019s money."
+    },
+    {
+      "scene_id": 149,
+      "label": "THE CATASTROPHIC FLOP",
+      "act_num": 3,
+      "start_sec": 614.367,
+      "end_sec": 615.498,
+      "duration_sec": 1.131,
+      "vo": "It flopped catastrophically."
+    },
+    {
+      "scene_id": 150,
+      "label": "CONVOY TO UTAH",
+      "act_num": 3,
+      "start_sec": 615.498,
+      "end_sec": 620.623,
+      "duration_sec": 5.125,
+      "vo": "Apple eventually hauled thousands of unsold Lisas into the Utah desert"
+    },
+    {
+      "scene_id": 151,
+      "label": "THE UTAH LANDFILL",
+      "act_num": 3,
+      "start_sec": 620.623,
+      "end_sec": 624.058,
+      "duration_sec": 3.435,
+      "vo": "and buried them in a landfill."
+    },
+    {
+      "scene_id": 152,
+      "label": "STRIPPED OF LISA AUTHORITY",
+      "act_num": 3,
+      "start_sec": 624.058,
+      "end_sec": 628.584,
+      "duration_sec": 4.526,
+      "vo": "Humiliated, the board stripped Jobs of all authority on the Lisa project."
+    },
+    {
+      "scene_id": 153,
+      "label": "THIRST FOR REVENGE",
+      "act_num": 3,
+      "start_sec": 628.584,
+      "end_sec": 629.832,
+      "duration_sec": 1.248,
+      "vo": "Furious, Jobs sought revenge."
+    },
+    {
+      "scene_id": 154,
+      "label": "HIJACKING THE MAC",
+      "act_num": 3,
+      "start_sec": 629.832,
+      "end_sec": 637.173,
+      "duration_sec": 7.341,
+      "vo": "He marched across the street into an annex building and hijacked a small, experimental skunkworks project led by Jef Raskin: the Macintosh."
+    },
+    {
+      "scene_id": 155,
+      "label": "CAMPUS CIVIL WAR",
+      "act_num": 3,
+      "start_sec": 637.173,
+      "end_sec": 640.152,
+      "duration_sec": 2.979,
+      "vo": "Jobs declared open civil war against the rest of Apple."
+    },
+    {
+      "scene_id": 156,
+      "label": "THE PIRATE FLAG",
+      "act_num": 3,
+      "start_sec": 640.152,
+      "end_sec": 645.177,
+      "duration_sec": 5.025,
+      "vo": "He hoisted a black pirate flag with a skull and rainbow Apple eye patch above the Macintosh building"
+    },
+    {
+      "scene_id": 157,
+      "label": "BETTER TO BE PIRATES",
+      "act_num": 3,
+      "start_sec": 645.177,
+      "end_sec": 650.226,
+      "duration_sec": 5.049,
+      "vo": "and told his team: \"It is better to be a pirate than to join the Navy.\""
+    },
+    {
+      "scene_id": 158,
+      "label": "90-HOUR WEEKS",
+      "act_num": 3,
+      "start_sec": 650.226,
+      "end_sec": 653.766,
+      "duration_sec": 3.54,
+      "vo": "The Macintosh engineers worked eighty to ninety hours a week,"
+    },
+    {
+      "scene_id": 159,
+      "label": "WEARING EXHAUSTION",
+      "act_num": 3,
+      "start_sec": 653.766,
+      "end_sec": 656.142,
+      "duration_sec": 2.376,
+      "vo": "wearing t-shirts that boasted of their exhaustion."
+    },
+    {
+      "scene_id": 160,
+      "label": "REALITY DISTORTION FIELD",
+      "act_num": 3,
+      "start_sec": 656.142,
+      "end_sec": 659.849,
+      "duration_sec": 3.707,
+      "vo": "Jobs pushed them through what colleagues called his \"Reality Distortion Field\"\u2014"
+    },
+    {
+      "scene_id": 161,
+      "label": "CHARM & ABUSE",
+      "act_num": 3,
+      "start_sec": 659.849,
+      "end_sec": 663.433,
+      "duration_sec": 3.584,
+      "vo": "a hypnotic blend of charismatic charm, relentless will, and psychological abuse."
+    },
+    {
+      "scene_id": 162,
+      "label": "THIS IS GARBAGE",
+      "act_num": 3,
+      "start_sec": 663.433,
+      "end_sec": 668.004,
+      "duration_sec": 4.571,
+      "vo": "If an engineer presented code Jobs didn't like, he would scream that it was garbage."
+    },
+    {
+      "scene_id": 163,
+      "label": "THE STOLEN EUREKA",
+      "act_num": 3,
+      "start_sec": 668.004,
+      "end_sec": 673.889,
+      "duration_sec": 5.885,
+      "vo": "If an engineer solved an impossible problem, Jobs would return two days later and claim the idea as his own."
+    },
+    {
+      "scene_id": 164,
+      "label": "THE DEVOTED TEAM",
+      "act_num": 3,
+      "start_sec": 673.889,
+      "end_sec": 675.589,
+      "duration_sec": 1.7,
+      "vo": "Yet they worshipped him."
+    },
+    {
+      "scene_id": 165,
+      "label": "THE IMPOSSIBLE ACHIEVED",
+      "act_num": 3,
+      "start_sec": 675.589,
+      "end_sec": 682.151,
+      "duration_sec": 6.562,
+      "vo": "Because he forced them to achieve engineering feats they did not believe were possible."
+    },
+    {
+      "scene_id": 166,
+      "label": "CHAMPAGNE, FEB 10 1982",
+      "act_num": 3,
+      "start_sec": 682.151,
+      "end_sec": 689.615,
+      "duration_sec": 7.464,
+      "vo": "On February 10, 1982, Jobs brought the entire team together with a bottle of champagne,"
+    },
+    {
+      "scene_id": 167,
+      "label": "SIGNING THE DRAFT",
+      "act_num": 3,
+      "start_sec": 689.615,
+      "end_sec": 695.109,
+      "duration_sec": 5.494,
+      "vo": "laid out a large sheet of drafting paper, and had all forty engineers sign their names."
+    },
+    {
+      "scene_id": 168,
+      "label": "ENGRAVED IN PLASTIC",
+      "act_num": 3,
+      "start_sec": 695.109,
+      "end_sec": 701.258,
+      "duration_sec": 6.149,
+      "vo": "He then had their signatures engraved permanently inside the plastic tooling of every single Macintosh case."
+    },
+    {
+      "scene_id": 169,
+      "label": "REAL ARTISTS SIGN",
+      "act_num": 3,
+      "start_sec": 701.258,
+      "end_sec": 703.625,
+      "duration_sec": 2.367,
+      "vo": "\"Real artists sign their work,\" Jobs proclaimed."
+    },
+    {
+      "scene_id": 170,
+      "label": "ADVERTISING EARTHQUAKE",
+      "act_num": 3,
+      "start_sec": 703.625,
+      "end_sec": 706.497,
+      "duration_sec": 2.872,
+      "vo": "To launch the computer, Jobs demanded an advertising earthquake."
+    },
+    {
+      "scene_id": 171,
+      "label": "RIDLEY SCOTT ON SET",
+      "act_num": 3,
+      "start_sec": 706.497,
+      "end_sec": 708.838,
+      "duration_sec": 2.341,
+      "vo": "He hired Hollywood director Ridley Scott"
+    },
+    {
+      "scene_id": 172,
+      "label": "$750,000 SUPER BOWL AD",
+      "act_num": 3,
+      "start_sec": 708.838,
+      "end_sec": 715.968,
+      "duration_sec": 7.13,
+      "vo": "and spent an unprecedented seven hundred and fifty thousand dollars to create the iconic \"1984\" Super Bowl commercial."
+    },
+    {
+      "scene_id": 173,
+      "label": "THE 1984 DYSTOPIA",
+      "act_num": 3,
+      "start_sec": 715.968,
+      "end_sec": 725.448,
+      "duration_sec": 9.48,
+      "vo": "It depicted a grey, totalitarian dystopia where brainwashed masses stare at a giant video wall of Big Brother\u2014a thinly veiled stand-in for IBM."
+    },
+    {
+      "scene_id": 174,
+      "label": "THE RED RUNNER",
+      "act_num": 3,
+      "start_sec": 725.448,
+      "end_sec": 731.33,
+      "duration_sec": 5.882,
+      "vo": "Suddenly, a lone female athlete in bright red shorts sprints down the aisle"
+    },
+    {
+      "scene_id": 175,
+      "label": "THE SLEDGEHAMMER SMASH",
+      "act_num": 3,
+      "start_sec": 731.33,
+      "end_sec": 737.343,
+      "duration_sec": 6.013,
+      "vo": "and hurls a sledgehammer through the screen, exploding it in a shower of sparks and blinding light."
+    },
+    {
+      "scene_id": 176,
+      "label": "BOARDROOM HORROR",
+      "act_num": 3,
+      "start_sec": 737.343,
+      "end_sec": 740.504,
+      "duration_sec": 3.161,
+      "vo": "Apple\u2019s board of directors watched a screening in horror."
+    },
+    {
+      "scene_id": 177,
+      "label": "RECKLESS & HUMILIATING",
+      "act_num": 3,
+      "start_sec": 740.504,
+      "end_sec": 742.479,
+      "duration_sec": 1.975,
+      "vo": "They thought it was reckless, arrogant, and humiliating."
+    },
+    {
+      "scene_id": 178,
+      "label": "SELL OFF THE SLOTS",
+      "act_num": 3,
+      "start_sec": 742.479,
+      "end_sec": 747.163,
+      "duration_sec": 4.684,
+      "vo": "They ordered the advertising agency to sell off the Super Bowl commercial slots."
+    },
+    {
+      "scene_id": 179,
+      "label": "JOBS REFUSES",
+      "act_num": 3,
+      "start_sec": 747.163,
+      "end_sec": 748.044,
+      "duration_sec": 0.881,
+      "vo": "Jobs refused."
+    },
+    {
+      "scene_id": 180,
+      "label": "WOZ OFFERS HIS OWN CASH",
+      "act_num": 3,
+      "start_sec": 748.044,
+      "end_sec": 753.7,
+      "duration_sec": 5.656,
+      "vo": "Steve Wozniak offered to pay for half the broadcast out of his own pocket."
+    },
+    {
+      "scene_id": 181,
+      "label": "SUPER BOWL SUNDAY, 1984",
+      "act_num": 3,
+      "start_sec": 753.7,
+      "end_sec": 758.677,
+      "duration_sec": 4.977,
+      "vo": "On Super Bowl Sunday, January 22, 1984, the commercial aired to ninety-six million viewers."
+    },
+    {
+      "scene_id": 182,
+      "label": "EVENING NEWS DOMINATION",
+      "act_num": 3,
+      "start_sec": 758.677,
+      "end_sec": 763.286,
+      "duration_sec": 4.609,
+      "vo": "It aired only once on national television, but it dominated every evening news broadcast in America."
+    },
+    {
+      "scene_id": 183,
+      "label": "FLINT CENTER AUDITORIUM",
+      "act_num": 3,
+      "start_sec": 763.286,
+      "end_sec": 767.962,
+      "duration_sec": 4.676,
+      "vo": "Two days later, Jobs walked onto the stage at the Flint Center auditorium in Cupertino."
+    },
+    {
+      "scene_id": 184,
+      "label": "THE POLKA-DOT BOW TIE",
+      "act_num": 3,
+      "start_sec": 767.962,
+      "end_sec": 770.045,
+      "duration_sec": 2.083,
+      "vo": "He wore a polka-dot bow tie."
+    },
+    {
+      "scene_id": 185,
+      "label": "OUT OF THE CANVAS BAG",
+      "act_num": 3,
+      "start_sec": 770.045,
+      "end_sec": 774.391,
+      "duration_sec": 4.346,
+      "vo": "He pulled a small, beige rectangular computer from a canvas carrying bag,"
+    },
+    {
+      "scene_id": 186,
+      "label": "THE FLOPPY SLIDE",
+      "act_num": 3,
+      "start_sec": 774.391,
+      "end_sec": 778.631,
+      "duration_sec": 4.24,
+      "vo": "slid a floppy disk into the drive, and stepped back."
+    },
+    {
+      "scene_id": 187,
+      "label": "CURSIVE HELLO",
+      "act_num": 3,
+      "start_sec": 778.631,
+      "end_sec": 783.03,
+      "duration_sec": 4.399,
+      "vo": "The computer drew cursive letters on the screen: \"hello\"."
+    },
+    {
+      "scene_id": 188,
+      "label": "SYNTHETIC VOICE: HELLO",
+      "act_num": 3,
+      "start_sec": 783.03,
+      "end_sec": 788.33,
+      "duration_sec": 5.3,
+      "vo": "Then, it spoke in a synthetic voice: \"Hello, I am Macintosh."
+    },
+    {
+      "scene_id": 189,
+      "label": "OUT OF THAT BAG",
+      "act_num": 3,
+      "start_sec": 788.33,
+      "end_sec": 792.26,
+      "duration_sec": 3.93,
+      "vo": "It sure is great to get out of that bag..."
+    },
+    {
+      "scene_id": 190,
+      "label": "CANNOT LIFT",
+      "act_num": 3,
+      "start_sec": 792.26,
+      "end_sec": 794.724,
+      "duration_sec": 2.464,
+      "vo": "Never trust a computer you cannot lift.\""
+    },
+    {
+      "scene_id": 191,
+      "label": "DEAFENING STANDING OVATION",
+      "act_num": 3,
+      "start_sec": 794.724,
+      "end_sec": 797.293,
+      "duration_sec": 2.569,
+      "vo": "The auditorium exploded into a deafening standing ovation."
+    },
+    {
+      "scene_id": 192,
+      "label": "TEARS IN THE FRONT ROW",
+      "act_num": 3,
+      "start_sec": 797.293,
+      "end_sec": 799.541,
+      "duration_sec": 2.248,
+      "vo": "People in the front rows were weeping."
+    },
+    {
+      "scene_id": 193,
+      "label": "THE GUI REVOLUTION",
+      "act_num": 3,
+      "start_sec": 799.541,
+      "end_sec": 806.55,
+      "duration_sec": 7.009,
+      "vo": "The mouse, the desktop, the trash can, and proportional typography were officially unleashed upon the world."
+    },
+    {
+      "scene_id": 194,
+      "label": "THE COLD REALITY",
+      "act_num": 3,
+      "start_sec": 806.55,
+      "end_sec": 808.824,
+      "duration_sec": 2.274,
+      "vo": "Then, the cold reality hit."
+    },
+    {
+      "scene_id": 195,
+      "label": "BEAUTIFUL BUT CRIPPLED",
+      "act_num": 3,
+      "start_sec": 808.824,
+      "end_sec": 811.946,
+      "duration_sec": 3.122,
+      "vo": "The Macintosh was visually breathtaking, but technologically crippled."
+    },
+    {
+      "scene_id": 196,
+      "label": "WARPING CIRCUIT BOARDS",
+      "act_num": 3,
+      "start_sec": 811.946,
+      "end_sec": 819.977,
+      "duration_sec": 8.031,
+      "vo": "In his obsession with design, Jobs had refused to install a cooling fan, causing the machine to overheat and warp circuit boards."
+    },
+    {
+      "scene_id": 197,
+      "label": "MINUSCULE 128K",
+      "act_num": 3,
+      "start_sec": 819.977,
+      "end_sec": 823.517,
+      "duration_sec": 3.54,
+      "vo": "He had limited the memory to a minuscule 128 kilobytes."
+    },
+    {
+      "scene_id": 198,
+      "label": "NO INTERNAL HARD DRIVE",
+      "act_num": 3,
+      "start_sec": 823.517,
+      "end_sec": 826.408,
+      "duration_sec": 2.891,
+      "vo": "It had no internal hard drive."
+    },
+    {
+      "scene_id": 199,
+      "label": "FLOPPY DISK SHUFFLE",
+      "act_num": 3,
+      "start_sec": 826.408,
+      "end_sec": 836.772,
+      "duration_sec": 10.364,
+      "vo": "Users had to perform the \"floppy disk shuffle,\" ejecting and re-inserting disks dozens of times just to copy a single file."
+    },
+    {
+      "scene_id": 200,
+      "label": "THE BRICK WALL",
+      "act_num": 3,
+      "start_sec": 836.772,
+      "end_sec": 839.755,
+      "duration_sec": 2.983,
+      "vo": "By late 1984, sales hit a brick wall."
+    },
+    {
+      "scene_id": 201,
+      "label": "10,000 BUILT, 2,000 SOLD",
+      "act_num": 3,
+      "start_sec": 839.755,
+      "end_sec": 844.703,
+      "duration_sec": 4.948,
+      "vo": "Apple was manufacturing ten thousand Macs a month and selling fewer than two thousand."
+    },
+    {
+      "scene_id": 202,
+      "label": "FREMONT GHOST FACTORY",
+      "act_num": 3,
+      "start_sec": 844.703,
+      "end_sec": 849.331,
+      "duration_sec": 4.628,
+      "vo": "Its highly automated manufacturing facility in Fremont, California, was running at ten percent capacity."
+    },
+    {
+      "scene_id": 203,
+      "label": "HEMORRHAGING MILLIONS",
+      "act_num": 3,
+      "start_sec": 849.331,
+      "end_sec": 852.446,
+      "duration_sec": 3.115,
+      "vo": "The company was hemorrhaging tens of millions of dollars."
+    },
+    {
+      "scene_id": 204,
+      "label": "TOXIC HOSTILITY",
+      "act_num": 3,
+      "start_sec": 852.446,
+      "end_sec": 856.151,
+      "duration_sec": 3.705,
+      "vo": "Tensions between Jobs and CEO John Sculley erupted into toxic hostility."
+    },
+    {
+      "scene_id": 205,
+      "label": "THE PEPSI CHALLENGE",
+      "act_num": 3,
+      "start_sec": 856.151,
+      "end_sec": 860.458,
+      "duration_sec": 4.307,
+      "vo": "Jobs had lured Sculley from Pepsi in 1983 with his famous, stinging challenge:"
+    },
+    {
+      "scene_id": 206,
+      "label": "SUGAR WATER DILEMMA",
+      "act_num": 3,
+      "start_sec": 860.458,
+      "end_sec": 873.095,
+      "duration_sec": 12.637,
+      "vo": "\"Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?\""
+    },
+    {
+      "scene_id": 207,
+      "label": "MANAGING THE ERRATIC FOUNDER",
+      "act_num": 3,
+      "start_sec": 873.095,
+      "end_sec": 879.095,
+      "duration_sec": 6.0,
+      "vo": "Now, Sculley found himself managing an erratic, vindictive founder whose division was threatening to bankrupt the entire corporation."
+    },
+    {
+      "scene_id": 208,
+      "label": "THE PALACE COUP",
+      "act_num": 3,
+      "start_sec": 879.095,
+      "end_sec": 890.11,
+      "duration_sec": 11.015,
+      "vo": "In May 1985, while Sculley was scheduled to be in China on a trade mission, Jobs plotted a palace coup to remove him and seize control of Apple."
+    },
+    {
+      "scene_id": 209,
+      "label": "THE WHISPERED WARNING",
+      "act_num": 3,
+      "start_sec": 890.11,
+      "end_sec": 891.524,
+      "duration_sec": 1.414,
+      "vo": "An executive warned Sculley."
+    },
+    {
+      "scene_id": 210,
+      "label": "THE BOARDROOM SHOWDOWN",
+      "act_num": 3,
+      "start_sec": 891.524,
+      "end_sec": 895.874,
+      "duration_sec": 4.35,
+      "vo": "Sculley cancelled the flight, walked into the boardroom, and forced an emergency showdown."
+    },
+    {
+      "scene_id": 211,
+      "label": "STEVE OR ME?",
+      "act_num": 3,
+      "start_sec": 895.874,
+      "end_sec": 902.925,
+      "duration_sec": 7.051,
+      "vo": "He polled the board of directors one by one: \"Do you back Steve, or do you back me?\""
+    },
+    {
+      "scene_id": 212,
+      "label": "THE UNANIMOUS BACKING",
+      "act_num": 3,
+      "start_sec": 902.925,
+      "end_sec": 905.754,
+      "duration_sec": 2.829,
+      "vo": "Every single board member voted for Sculley."
+    },
+    {
+      "scene_id": 213,
+      "label": "STRIPPED OF ALL POWER",
+      "act_num": 3,
+      "start_sec": 905.754,
+      "end_sec": 909.472,
+      "duration_sec": 3.718,
+      "vo": "Steve Jobs was stripped of all operational responsibility."
+    },
+    {
+      "scene_id": 214,
+      "label": "BANISHED TO SIBERIA",
+      "act_num": 3,
+      "start_sec": 909.472,
+      "end_sec": 916.289,
+      "duration_sec": 6.817,
+      "vo": "He was banished to an empty office in an auxiliary building that employees mockingly nicknamed \"Siberia.\""
+    },
+    {
+      "scene_id": 215,
+      "label": "THE SILENT TELEPHONE",
+      "act_num": 3,
+      "start_sec": 916.289,
+      "end_sec": 918.737,
+      "duration_sec": 2.448,
+      "vo": "His phone stopped ringing. Nobody came to his office."
+    },
+    {
+      "scene_id": 216,
+      "label": "SEPTEMBER 17, 1985",
+      "act_num": 3,
+      "start_sec": 918.737,
+      "end_sec": 920.672,
+      "duration_sec": 1.935,
+      "vo": "On September 17, 1985, Steve Jobs resigned from Apple."
+    },
+    {
+      "scene_id": 217,
+      "label": "SELLING EVERY SHARE",
+      "act_num": 3,
+      "start_sec": 920.672,
+      "end_sec": 927.207,
+      "duration_sec": 6.535,
+      "vo": "In a fit of bitter fury, he sold every single share of his Apple stock\u2014millions of shares worth over one hundred million dollars\u2014"
+    },
+    {
+      "scene_id": 218,
+      "label": "THE ONE REMAINING SHARE",
+      "act_num": 3,
+      "start_sec": 927.207,
+      "end_sec": 933.151,
+      "duration_sec": 5.944,
+      "vo": "retaining only one single share so he would still receive the annual shareholder reports in the mail."
+    },
+    {
+      "scene_id": 219,
+      "label": "THIRTY YEARS OLD",
+      "act_num": 3,
+      "start_sec": 933.151,
+      "end_sec": 934.933,
+      "duration_sec": 1.782,
+      "vo": "He was thirty years old."
+    },
+    {
+      "scene_id": 220,
+      "label": "THE EXILED MILLIONAIRE",
+      "act_num": 3,
+      "start_sec": 934.933,
+      "end_sec": 936.359,
+      "duration_sec": 1.426,
+      "vo": "He was a multi-millionaire."
+    },
+    {
+      "scene_id": 221,
+      "label": "COMPLETELY FINISHED",
+      "act_num": 3,
+      "start_sec": 936.359,
+      "end_sec": 940.614,
+      "duration_sec": 4.255,
+      "vo": "And in the eyes of Silicon Valley, he was completely finished."
+    },
+    {
+      "scene_id": 222,
+      "label": "THE 11-YEAR WILDERNESS",
+      "act_num": 4,
+      "start_sec": 940.614,
+      "end_sec": 943.29,
+      "duration_sec": 2.676,
+      "vo": "What followed was a brutal eleven-year wilderness."
+    },
+    {
+      "scene_id": 223,
+      "label": "EMPTY MANSION FLOOR",
+      "act_num": 4,
+      "start_sec": 943.29,
+      "end_sec": 947.911,
+      "duration_sec": 4.621,
+      "vo": "Jobs retreated to his wood-paneled mansion in Los Gatos, sat on the floor,"
+    },
+    {
+      "scene_id": 224,
+      "label": "CONTEMPLATING ARCHITECTURE",
+      "act_num": 4,
+      "start_sec": 947.911,
+      "end_sec": 951.831,
+      "duration_sec": 3.92,
+      "vo": "and contemplated leaving tech entirely to study architecture in Europe."
+    },
+    {
+      "scene_id": 225,
+      "label": "PRIDE RESURGENT",
+      "act_num": 4,
+      "start_sec": 951.831,
+      "end_sec": 955.174,
+      "duration_sec": 3.343,
+      "vo": "But his pride would not let him stay down."
+    },
+    {
+      "scene_id": 226,
+      "label": "$7M PERSONAL STAKE",
+      "act_num": 4,
+      "start_sec": 955.174,
+      "end_sec": 957.982,
+      "duration_sec": 2.808,
+      "vo": "He took seven million dollars of his own money"
+    },
+    {
+      "scene_id": 227,
+      "label": "THE NeXT MISSION",
+      "act_num": 4,
+      "start_sec": 957.982,
+      "end_sec": 964.723,
+      "duration_sec": 6.741,
+      "vo": "and founded NeXT Computer, determined to build the ultimate workstation for universities."
+    },
+    {
+      "scene_id": 228,
+      "label": "PAUL RAND'S $100,000",
+      "act_num": 4,
+      "start_sec": 964.723,
+      "end_sec": 968.935,
+      "duration_sec": 4.212,
+      "vo": "He paid seventy-one-year-old graphic design legend Paul Rand one hundred thousand dollars"
+    },
+    {
+      "scene_id": 229,
+      "label": "THE TILTED BLACK CUBE",
+      "act_num": 4,
+      "start_sec": 968.935,
+      "end_sec": 971.743,
+      "duration_sec": 2.808,
+      "vo": "to create the NeXT logo\u2014a tilted black cube."
+    },
+    {
+      "scene_id": 230,
+      "label": "MAGNESIUM CHASSIS",
+      "act_num": 4,
+      "start_sec": 971.743,
+      "end_sec": 975.288,
+      "duration_sec": 3.545,
+      "vo": "Jobs spent years and millions perfecting the machine's magnesium chassis,"
+    },
+    {
+      "scene_id": 231,
+      "label": "FANATICAL 90\u00b0 ANGLES",
+      "act_num": 4,
+      "start_sec": 975.288,
+      "end_sec": 979.918,
+      "duration_sec": 4.63,
+      "vo": "demanding perfectly precise ninety-degree internal angles that no customer would ever see."
+    },
+    {
+      "scene_id": 232,
+      "label": "THE 1988 NeXT REVEAL",
+      "act_num": 4,
+      "start_sec": 979.918,
+      "end_sec": 985.366,
+      "duration_sec": 5.448,
+      "vo": "When the NeXT cube launched in 1988, it was an engineering marvel"
+    },
+    {
+      "scene_id": 233,
+      "label": "NeXTSTEP OS",
+      "act_num": 4,
+      "start_sec": 985.366,
+      "end_sec": 989.072,
+      "duration_sec": 3.706,
+      "vo": "running an advanced object-oriented operating system called NeXTSTEP."
+    },
+    {
+      "scene_id": 234,
+      "label": "CERN: BIRTH OF THE WEB",
+      "act_num": 4,
+      "start_sec": 989.072,
+      "end_sec": 993.845,
+      "duration_sec": 4.773,
+      "vo": "In Switzerland, computer scientist Tim Berners-Lee used a NeXT computer to invent the World Wide Web."
+    },
+    {
+      "scene_id": 235,
+      "label": "THE $10,000 BARRIER",
+      "act_num": 4,
+      "start_sec": 993.845,
+      "end_sec": 997.078,
+      "duration_sec": 3.233,
+      "vo": "But at ten thousand dollars, universities couldn't afford it."
+    },
+    {
+      "scene_id": 236,
+      "label": "BARELY 50,000 MACHINES",
+      "act_num": 4,
+      "start_sec": 997.078,
+      "end_sec": 1001.158,
+      "duration_sec": 4.08,
+      "vo": "NeXT sold barely fifty thousand machines over its entire lifespan."
+    },
+    {
+      "scene_id": 237,
+      "label": "A COMMERCIAL BLOODBATH",
+      "act_num": 4,
+      "start_sec": 1001.158,
+      "end_sec": 1002.958,
+      "duration_sec": 1.8,
+      "vo": "It was a commercial bloodbath."
+    },
+    {
+      "scene_id": 238,
+      "label": "THE SECOND BET",
+      "act_num": 4,
+      "start_sec": 1002.958,
+      "end_sec": 1006.438,
+      "duration_sec": 3.48,
+      "vo": "Yet Jobs had made a second bet that saved him."
+    },
+    {
+      "scene_id": 239,
+      "label": "LUCASFILM CGI DEAL, 1986",
+      "act_num": 4,
+      "start_sec": 1006.438,
+      "end_sec": 1013.998,
+      "duration_sec": 7.56,
+      "vo": "In 1986, he bought a struggling digital animation division from Star Wars director George Lucas for five million dollars."
+    },
+    {
+      "scene_id": 240,
+      "label": "BAPTIZED PIXAR",
+      "act_num": 4,
+      "start_sec": 1013.998,
+      "end_sec": 1015.257,
+      "duration_sec": 1.259,
+      "vo": "He named it Pixar."
+    },
+    {
+      "scene_id": 241,
+      "label": "A DECADE OF RED INK",
+      "act_num": 4,
+      "start_sec": 1015.257,
+      "end_sec": 1017.46,
+      "duration_sec": 2.203,
+      "vo": "For nearly a decade, Pixar hemorrhaged cash."
+    },
+    {
+      "scene_id": 242,
+      "label": "THE $50M PERSONAL LIFELINE",
+      "act_num": 4,
+      "start_sec": 1017.46,
+      "end_sec": 1025.734,
+      "duration_sec": 8.274,
+      "vo": "Jobs personally bankrolled the company, writing check after check to keep the payroll alive, burning over fifty million dollars of his personal fortune."
+    },
+    {
+      "scene_id": 243,
+      "label": "URGED TO SHUT DOWN",
+      "act_num": 4,
+      "start_sec": 1025.734,
+      "end_sec": 1029.126,
+      "duration_sec": 3.392,
+      "vo": "Traditional hardware executives urged him to shut it down."
+    },
+    {
+      "scene_id": 244,
+      "label": "LASSETER'S VISION",
+      "act_num": 4,
+      "start_sec": 1029.126,
+      "end_sec": 1034.72,
+      "duration_sec": 5.594,
+      "vo": "But animators like John Lasseter were using code to make audiences feel real emotion\u2014"
+    },
+    {
+      "scene_id": 245,
+      "label": "LUXO JR.",
+      "act_num": 4,
+      "start_sec": 1034.72,
+      "end_sec": 1039.597,
+      "duration_sec": 4.877,
+      "vo": "first with a jumping desk lamp named Luxo Jr.,"
+    },
+    {
+      "scene_id": 246,
+      "label": "TOY STORY, NOV 1995",
+      "act_num": 4,
+      "start_sec": 1039.597,
+      "end_sec": 1045.417,
+      "duration_sec": 5.82,
+      "vo": "and then, in November 1995, with the world's first computer-animated feature film: Toy Story."
+    },
+    {
+      "scene_id": 247,
+      "label": "GLOBAL BLOCKBUSTER",
+      "act_num": 4,
+      "start_sec": 1045.417,
+      "end_sec": 1047.816,
+      "duration_sec": 2.399,
+      "vo": "Toy Story became a monumental global blockbuster."
+    },
+    {
+      "scene_id": 248,
+      "label": "PIXAR WALL STREET IPO",
+      "act_num": 4,
+      "start_sec": 1047.816,
+      "end_sec": 1051.669,
+      "duration_sec": 3.853,
+      "vo": "A week later, Jobs took Pixar public on Wall Street."
+    },
+    {
+      "scene_id": 249,
+      "label": "THE $1.2B BILLIONAIRE",
+      "act_num": 4,
+      "start_sec": 1051.669,
+      "end_sec": 1060.193,
+      "duration_sec": 8.524,
+      "vo": "His eighty percent stake suddenly made him a billionaire in his own right, worth over one point two billion dollars."
+    },
+    {
+      "scene_id": 250,
+      "label": "INDEPENDENT TITAN",
+      "act_num": 4,
+      "start_sec": 1060.193,
+      "end_sec": 1064.24,
+      "duration_sec": 4.047,
+      "vo": "For the first time, Steve Jobs was independent of Apple."
+    },
+    {
+      "scene_id": 251,
+      "label": "MATURITY & GRACE",
+      "act_num": 4,
+      "start_sec": 1064.24,
+      "end_sec": 1065.484,
+      "duration_sec": 1.244,
+      "vo": "He had matured."
+    },
+    {
+      "scene_id": 252,
+      "label": "LEARNING GOVERNANCE",
+      "act_num": 4,
+      "start_sec": 1065.484,
+      "end_sec": 1067.972,
+      "duration_sec": 2.488,
+      "vo": "He had learned patience, corporate governance,"
+    },
+    {
+      "scene_id": 253,
+      "label": "TRUSTING GENIUS",
+      "act_num": 4,
+      "start_sec": 1067.972,
+      "end_sec": 1071.511,
+      "duration_sec": 3.539,
+      "vo": "and how to trust creative geniuses without suffocating them."
+    },
+    {
+      "scene_id": 254,
+      "label": "APPLE IN HUMILIATING DECAY",
+      "act_num": 4,
+      "start_sec": 1071.511,
+      "end_sec": 1076.477,
+      "duration_sec": 4.966,
+      "vo": "Meanwhile, back in Cupertino, Apple was dying a slow, humiliating death."
+    },
+    {
+      "scene_id": 255,
+      "label": "THE THREE CARETAKERS",
+      "act_num": 4,
+      "start_sec": 1076.477,
+      "end_sec": 1081.881,
+      "duration_sec": 5.404,
+      "vo": "Under a succession of corporate caretakers\u2014John Sculley, Michael Spindler, and Gil Amelio\u2014"
+    },
+    {
+      "scene_id": 256,
+      "label": "BUREAUCRATIC MONSTROSITY",
+      "act_num": 4,
+      "start_sec": 1081.881,
+      "end_sec": 1084.531,
+      "duration_sec": 2.65,
+      "vo": "Apple had become a bureaucratic monstrosity."
+    },
+    {
+      "scene_id": 257,
+      "label": "PRODUCT CONFUSION",
+      "act_num": 4,
+      "start_sec": 1084.531,
+      "end_sec": 1091.876,
+      "duration_sec": 7.345,
+      "vo": "To appease retailers, they fractured the product line into dozens of confusing, overlapping models: Quadra, Centris, Performa, PowerBook."
+    },
+    {
+      "scene_id": 258,
+      "label": "BAFFLED SALESMEN",
+      "act_num": 4,
+      "start_sec": 1091.876,
+      "end_sec": 1094.866,
+      "duration_sec": 2.99,
+      "vo": "Salespeople couldn't explain the differences."
+    },
+    {
+      "scene_id": 259,
+      "label": "WINDOWS 95 LAUNCH, AUG 1995",
+      "act_num": 4,
+      "start_sec": 1094.866,
+      "end_sec": 1099.57,
+      "duration_sec": 4.704,
+      "vo": "In August 1995, Bill Gates launched Windows 95."
+    },
+    {
+      "scene_id": 260,
+      "label": "START ME UP",
+      "act_num": 4,
+      "start_sec": 1099.57,
+      "end_sec": 1104.14,
+      "duration_sec": 4.57,
+      "vo": "Accompanied by the Rolling Stones' \"Start Me Up,\""
+    },
+    {
+      "scene_id": 261,
+      "label": "THE MAC CLONE",
+      "act_num": 4,
+      "start_sec": 1104.14,
+      "end_sec": 1108.423,
+      "duration_sec": 4.283,
+      "vo": "Windows 95 copied the Mac's desktop interface, taskbar, and windows."
+    },
+    {
+      "scene_id": 262,
+      "label": "CHEAP PC CLONES",
+      "act_num": 4,
+      "start_sec": 1108.423,
+      "end_sec": 1116.01,
+      "duration_sec": 7.587,
+      "vo": "It wasn't as elegant as Apple's software, but it ran on cheap personal computers built by Compaq, Dell, and HP."
+    },
+    {
+      "scene_id": 263,
+      "label": "THE 90% TSUNAMI",
+      "act_num": 4,
+      "start_sec": 1116.01,
+      "end_sec": 1119.841,
+      "duration_sec": 3.831,
+      "vo": "Microsoft swallowed ninety percent of the global computer market."
+    },
+    {
+      "scene_id": 264,
+      "label": "COLLAPSE TO 4%",
+      "act_num": 4,
+      "start_sec": 1119.841,
+      "end_sec": 1126.225,
+      "duration_sec": 6.384,
+      "vo": "Apple\u2019s market share collapsed from sixteen percent down to an irrelevant four percent."
+    },
+    {
+      "scene_id": 265,
+      "label": "$1 BILLION LOSS",
+      "act_num": 4,
+      "start_sec": 1126.225,
+      "end_sec": 1131.729,
+      "duration_sec": 5.504,
+      "vo": "In 1996 alone, Apple lost over one billion dollars."
+    },
+    {
+      "scene_id": 266,
+      "label": "THE SYSTEM BOMB ERROR",
+      "act_num": 4,
+      "start_sec": 1131.729,
+      "end_sec": 1137.654,
+      "duration_sec": 5.925,
+      "vo": "Its aging operating system was obsolete and prone to catastrophic crashes."
+    },
+    {
+      "scene_id": 267,
+      "label": "COPLAND CATASTROPHE",
+      "act_num": 4,
+      "start_sec": 1137.654,
+      "end_sec": 1144.244,
+      "duration_sec": 6.59,
+      "vo": "Six years and five hundred million dollars spent developing a replacement operating system code-named Copland had resulted in total failure."
+    },
+    {
+      "scene_id": 268,
+      "label": "90 DAYS TO BANKRUPTCY",
+      "act_num": 4,
+      "start_sec": 1144.244,
+      "end_sec": 1147.98,
+      "duration_sec": 3.736,
+      "vo": "By late 1996, Apple was ninety days away from formal bankruptcy."
+    },
+    {
+      "scene_id": 269,
+      "label": "THE OBITUARY",
+      "act_num": 4,
+      "start_sec": 1147.98,
+      "end_sec": 1151.257,
+      "duration_sec": 3.277,
+      "vo": "Industry analysts were already drafting the company\u2019s obituary."
+    },
+    {
+      "scene_id": 270,
+      "label": "MICHAEL DELL'S VERDICT",
+      "act_num": 4,
+      "start_sec": 1151.257,
+      "end_sec": 1159.435,
+      "duration_sec": 8.178,
+      "vo": "When PC maker Michael Dell was asked what Apple should do, he offered the ultimate corporate epitaph:"
+    },
+    {
+      "scene_id": 271,
+      "label": "SHUT IT DOWN",
+      "act_num": 4,
+      "start_sec": 1159.435,
+      "end_sec": 1166.259,
+      "duration_sec": 6.824,
+      "vo": "\"What would I do? I'd shut it down and give the money back to the shareholders.\""
+    },
+    {
+      "scene_id": 272,
+      "label": "AMELIO'S DESPERATION",
+      "act_num": 4,
+      "start_sec": 1166.259,
+      "end_sec": 1171.437,
+      "duration_sec": 5.178,
+      "vo": "Desperate for an operating system, CEO Gil Amelio made a fateful inquiry."
+    },
+    {
+      "scene_id": 273,
+      "label": "THE BeOS OPTION",
+      "act_num": 4,
+      "start_sec": 1171.437,
+      "end_sec": 1177.015,
+      "duration_sec": 5.578,
+      "vo": "He looked at buying BeOS, an operating system built by former Apple executive Jean-Louis Gass\u00e9e."
+    },
+    {
+      "scene_id": 274,
+      "label": "GASS\u00c9E'S $300M GREED",
+      "act_num": 4,
+      "start_sec": 1177.015,
+      "end_sec": 1180.078,
+      "duration_sec": 3.063,
+      "vo": "But Gass\u00e9e overplayed his hand, demanding three hundred million dollars."
+    },
+    {
+      "scene_id": 275,
+      "label": "THE CALCULATED CALL",
+      "act_num": 4,
+      "start_sec": 1180.078,
+      "end_sec": 1182.793,
+      "duration_sec": 2.715,
+      "vo": "Hearing of the negotiations, Steve Jobs picked up the phone."
+    },
+    {
+      "scene_id": 276,
+      "label": "PITCHING NeXT TO AMELIO",
+      "act_num": 4,
+      "start_sec": 1182.793,
+      "end_sec": 1184.473,
+      "duration_sec": 1.68,
+      "vo": "He pitched Amelio on NeXT."
+    },
+    {
+      "scene_id": 277,
+      "label": "THE $429M ACQUISITION",
+      "act_num": 4,
+      "start_sec": 1184.473,
+      "end_sec": 1192.903,
+      "duration_sec": 8.43,
+      "vo": "In December 1996, Apple announced it was acquiring NeXT for four hundred and twenty-nine million dollars in cash and stock."
+    },
+    {
+      "scene_id": 278,
+      "label": "WALKING BACK THROUGH THE DOORS",
+      "act_num": 4,
+      "start_sec": 1192.903,
+      "end_sec": 1203.098,
+      "duration_sec": 10.195,
+      "vo": "Eleven years after being thrown out of the company he founded, Steve Jobs walked back through the front doors of One Infinite Loop as an \"informal advisor.\""
+    },
+    {
+      "scene_id": 279,
+      "label": "THE GREATEST TROJAN HORSE",
+      "act_num": 4,
+      "start_sec": 1203.098,
+      "end_sec": 1206.618,
+      "duration_sec": 3.52,
+      "vo": "It was the greatest Trojan horse in corporate history."
+    },
+    {
+      "scene_id": 280,
+      "label": "NOT JUST AN ADVISOR",
+      "act_num": 5,
+      "start_sec": 1206.618,
+      "end_sec": 1209.99,
+      "duration_sec": 3.372,
+      "vo": "Jobs did not stay an informal advisor for long."
+    },
+    {
+      "scene_id": 281,
+      "label": "BOARDROOM REBELLION",
+      "act_num": 5,
+      "start_sec": 1209.99,
+      "end_sec": 1212.971,
+      "duration_sec": 2.981,
+      "vo": "Within seven months, he orchestrated a boardroom rebellion."
+    },
+    {
+      "scene_id": 282,
+      "label": "AMELIO OUSTED",
+      "act_num": 5,
+      "start_sec": 1212.971,
+      "end_sec": 1214.461,
+      "duration_sec": 1.49,
+      "vo": "Gil Amelio was ousted."
+    },
+    {
+      "scene_id": 283,
+      "label": "THE BOARD OVERHAULED",
+      "act_num": 5,
+      "start_sec": 1214.461,
+      "end_sec": 1216.654,
+      "duration_sec": 2.193,
+      "vo": "The board was overhauled."
+    },
+    {
+      "scene_id": 284,
+      "label": "BECOMING THE iCEO",
+      "act_num": 5,
+      "start_sec": 1216.654,
+      "end_sec": 1219.688,
+      "duration_sec": 3.034,
+      "vo": "Jobs became interim CEO\u2014the \"iCEO\"\u2014"
+    },
+    {
+      "scene_id": 285,
+      "label": "THE $1.00 SALARY",
+      "act_num": 5,
+      "start_sec": 1219.688,
+      "end_sec": 1224.5,
+      "duration_sec": 4.812,
+      "vo": "famously taking an annual salary of exactly one dollar."
+    },
+    {
+      "scene_id": 286,
+      "label": "MACWORLD BOSTON, 1997",
+      "act_num": 5,
+      "start_sec": 1224.5,
+      "end_sec": 1228.793,
+      "duration_sec": 4.293,
+      "vo": "In August 1997, Jobs walked onto the stage at Macworld Boston."
+    },
+    {
+      "scene_id": 287,
+      "label": "WEEKS OF CASH LEFT",
+      "act_num": 5,
+      "start_sec": 1228.793,
+      "end_sec": 1232.305,
+      "duration_sec": 3.512,
+      "vo": "Apple was weeks away from running out of cash."
+    },
+    {
+      "scene_id": 288,
+      "label": "THE BOSTON BOMBSHELL",
+      "act_num": 5,
+      "start_sec": 1232.305,
+      "end_sec": 1237.727,
+      "duration_sec": 5.422,
+      "vo": "He looked out at five thousand terrified, loyal Mac users and dropped an absolute bomb."
+    },
+    {
+      "scene_id": 289,
+      "label": "THE SCREEN DESCENDS",
+      "act_num": 5,
+      "start_sec": 1237.727,
+      "end_sec": 1241.874,
+      "duration_sec": 4.147,
+      "vo": "A giant satellite video screen descended from the ceiling,"
+    },
+    {
+      "scene_id": 290,
+      "label": "GATES LOOMS OVER STAGE",
+      "act_num": 5,
+      "start_sec": 1241.874,
+      "end_sec": 1247.964,
+      "duration_sec": 6.09,
+      "vo": "and the colossal, smiling face of Bill Gates appeared live from Redmond, Washington."
+    },
+    {
+      "scene_id": 291,
+      "label": "$150M TRUCE",
+      "act_num": 5,
+      "start_sec": 1247.964,
+      "end_sec": 1252.945,
+      "duration_sec": 4.981,
+      "vo": "Microsoft was investing one hundred and fifty million dollars into Apple"
+    },
+    {
+      "scene_id": 292,
+      "label": "OFFICE ON MAC GUARANTEED",
+      "act_num": 5,
+      "start_sec": 1252.945,
+      "end_sec": 1257.313,
+      "duration_sec": 4.368,
+      "vo": "and guaranteeing that Microsoft Office would remain on the Mac for five years."
+    },
+    {
+      "scene_id": 293,
+      "label": "FURIOUS BOOS & JEERS",
+      "act_num": 5,
+      "start_sec": 1257.313,
+      "end_sec": 1260.025,
+      "duration_sec": 2.712,
+      "vo": "The auditorium erupted into furious boos and jeers."
+    },
+    {
+      "scene_id": 294,
+      "label": "CLINICAL PRAGMATISM",
+      "act_num": 5,
+      "start_sec": 1260.025,
+      "end_sec": 1263.43,
+      "duration_sec": 3.405,
+      "vo": "Jobs stopped them with a line of cold, clinical pragmatism:"
+    },
+    {
+      "scene_id": 295,
+      "label": "MICROSOFT DOESN'T HAVE TO LOSE",
+      "act_num": 5,
+      "start_sec": 1263.43,
+      "end_sec": 1269.865,
+      "duration_sec": 6.435,
+      "vo": "\"We have to let go of this notion that for Apple to win, Microsoft has to lose."
+    },
+    {
+      "scene_id": 296,
+      "label": "WHERE WE CAN DO GOOD",
+      "act_num": 5,
+      "start_sec": 1269.865,
+      "end_sec": 1279.204,
+      "duration_sec": 9.339,
+      "vo": "If we want Apple to be healthy again, we have to look at where Apple can do a really good job.\""
+    },
+    {
+      "scene_id": 297,
+      "label": "THE PLANNING ROOM",
+      "act_num": 5,
+      "start_sec": 1279.204,
+      "end_sec": 1282.412,
+      "duration_sec": 3.208,
+      "vo": "Next, Jobs marched into Apple\u2019s product planning room."
+    },
+    {
+      "scene_id": 298,
+      "label": "WHITEBOARD CHAOS",
+      "act_num": 5,
+      "start_sec": 1282.412,
+      "end_sec": 1285.494,
+      "duration_sec": 3.082,
+      "vo": "The whiteboard was covered in dozens of confusing models."
+    },
+    {
+      "scene_id": 299,
+      "label": "WIPING THE SLATE CLEAN",
+      "act_num": 5,
+      "start_sec": 1285.494,
+      "end_sec": 1288.299,
+      "duration_sec": 2.805,
+      "vo": "Jobs grabbed a black marker, wiped the board clean,"
+    },
+    {
+      "scene_id": 300,
+      "label": "THE 2X2 GRID",
+      "act_num": 5,
+      "start_sec": 1288.299,
+      "end_sec": 1290.077,
+      "duration_sec": 1.778,
+      "vo": "and drew a simple two-by-two grid."
+    },
+    {
+      "scene_id": 301,
+      "label": "CONSUMER VS PRO",
+      "act_num": 5,
+      "start_sec": 1290.077,
+      "end_sec": 1292.447,
+      "duration_sec": 2.37,
+      "vo": "Across the top, he wrote \"Consumer\" and \"Pro.\""
+    },
+    {
+      "scene_id": 302,
+      "label": "DESKTOP VS PORTABLE",
+      "act_num": 5,
+      "start_sec": 1292.447,
+      "end_sec": 1295.142,
+      "duration_sec": 2.695,
+      "vo": "Down the side, he wrote \"Desktop\" and \"Portable.\""
+    },
+    {
+      "scene_id": 303,
+      "label": "WHAT WE ARE BUILDING",
+      "act_num": 5,
+      "start_sec": 1295.142,
+      "end_sec": 1299.726,
+      "duration_sec": 4.584,
+      "vo": "\"Here is what we are going to build,\" Jobs declared."
+    },
+    {
+      "scene_id": 304,
+      "label": "FOUR GREAT COMPUTERS",
+      "act_num": 5,
+      "start_sec": 1299.726,
+      "end_sec": 1301.101,
+      "duration_sec": 1.375,
+      "vo": "\"Four great computers."
+    },
+    {
+      "scene_id": 305,
+      "label": "EVERYTHING ELSE CANCELLED",
+      "act_num": 5,
+      "start_sec": 1301.101,
+      "end_sec": 1302.935,
+      "duration_sec": 1.834,
+      "vo": "Everything else, we cancel.\""
+    },
+    {
+      "scene_id": 306,
+      "label": "70% PRODUCT PURGE",
+      "act_num": 5,
+      "start_sec": 1302.935,
+      "end_sec": 1307.223,
+      "duration_sec": 4.288,
+      "vo": "He eliminated seventy percent of Apple\u2019s product line overnight."
+    },
+    {
+      "scene_id": 307,
+      "label": "3,000 EMPLOYEES LAID OFF",
+      "act_num": 5,
+      "start_sec": 1307.223,
+      "end_sec": 1310.095,
+      "duration_sec": 2.872,
+      "vo": "Three thousand employees were laid off."
+    },
+    {
+      "scene_id": 308,
+      "label": "KILLING THE NEWTON",
+      "act_num": 5,
+      "start_sec": 1310.095,
+      "end_sec": 1313.021,
+      "duration_sec": 2.926,
+      "vo": "He cancelled the Newton handheld PDA."
+    },
+    {
+      "scene_id": 309,
+      "label": "KILLING THE CLONES",
+      "act_num": 5,
+      "start_sec": 1313.021,
+      "end_sec": 1315.549,
+      "duration_sec": 2.528,
+      "vo": "He shuttered outside software clones."
+    },
+    {
+      "scene_id": 310,
+      "label": "SURGICAL AMPUTATION",
+      "act_num": 5,
+      "start_sec": 1315.549,
+      "end_sec": 1318.076,
+      "duration_sec": 2.527,
+      "vo": "The bloat was surgically amputated."
+    },
+    {
+      "scene_id": 311,
+      "label": "THE SECRET DESIGN LAB",
+      "act_num": 5,
+      "start_sec": 1318.076,
+      "end_sec": 1321.741,
+      "duration_sec": 3.665,
+      "vo": "Then, Jobs walked down to Apple\u2019s design laboratory"
+    },
+    {
+      "scene_id": 312,
+      "label": "DISCOVERING JONY IVE",
+      "act_num": 5,
+      "start_sec": 1321.741,
+      "end_sec": 1325.86,
+      "duration_sec": 4.119,
+      "vo": "and discovered a young, soft-spoken British designer named Jony Ive."
+    },
+    {
+      "scene_id": 313,
+      "label": "RESIGNATION IN POCKET",
+      "act_num": 5,
+      "start_sec": 1325.86,
+      "end_sec": 1332.975,
+      "duration_sec": 7.115,
+      "vo": "Ive had his resignation letter in his pocket, exhausted by corporate executives who cared only about cost-cutting."
+    },
+    {
+      "scene_id": 314,
+      "label": "RADICAL PROTOTYPES",
+      "act_num": 5,
+      "start_sec": 1332.975,
+      "end_sec": 1335.639,
+      "duration_sec": 2.664,
+      "vo": "Jobs looked at Ive\u2019s radical prototypes"
+    },
+    {
+      "scene_id": 315,
+      "label": "CREATIVE SOULMATES",
+      "act_num": 5,
+      "start_sec": 1335.639,
+      "end_sec": 1342.702,
+      "duration_sec": 7.063,
+      "vo": "and recognized a soulmate who shared his fanatical devotion to the purity of physical materials."
+    },
+    {
+      "scene_id": 316,
+      "label": "MAY 1998: iMAC G3",
+      "act_num": 5,
+      "start_sec": 1342.702,
+      "end_sec": 1348.256,
+      "duration_sec": 5.554,
+      "vo": "In May 1998, they unveiled the machine that saved Apple: the iMac G3."
+    },
+    {
+      "scene_id": 317,
+      "label": "BONDI BLUE TRANSLUCENCE",
+      "act_num": 5,
+      "start_sec": 1348.256,
+      "end_sec": 1354.222,
+      "duration_sec": 5.966,
+      "vo": "It was a teardrop-shaped computer made of translucent Bondi blue plastic, glowing with friendly warmth."
+    },
+    {
+      "scene_id": 318,
+      "label": "BANISHING THE FLOPPY",
+      "act_num": 5,
+      "start_sec": 1354.222,
+      "end_sec": 1356.865,
+      "duration_sec": 2.643,
+      "vo": "It threw away the floppy drive,"
+    },
+    {
+      "scene_id": 319,
+      "label": "CHAMPIONING USB",
+      "act_num": 5,
+      "start_sec": 1356.865,
+      "end_sec": 1357.746,
+      "duration_sec": 0.881,
+      "vo": "championed USB,"
+    },
+    {
+      "scene_id": 320,
+      "label": "THE TOP HANDLE",
+      "act_num": 5,
+      "start_sec": 1357.746,
+      "end_sec": 1360.692,
+      "duration_sec": 2.946,
+      "vo": "and featured a handle on the top."
+    },
+    {
+      "scene_id": 321,
+      "label": "CRITICS MOCK THE HANDLE",
+      "act_num": 5,
+      "start_sec": 1360.692,
+      "end_sec": 1367.437,
+      "duration_sec": 6.745,
+      "vo": "Critics mocked the handle, pointing out that a desktop computer is rarely carried around."
+    },
+    {
+      "scene_id": 322,
+      "label": "MAKES A RELATIONSHIP",
+      "act_num": 5,
+      "start_sec": 1367.437,
+      "end_sec": 1372.848,
+      "duration_sec": 5.411,
+      "vo": "Jobs replied: \"If there's a handle, it makes a relationship possible."
+    },
+    {
+      "scene_id": 323,
+      "label": "INVITES YOU TO TOUCH",
+      "act_num": 5,
+      "start_sec": 1372.848,
+      "end_sec": 1375.767,
+      "duration_sec": 2.919,
+      "vo": "It invites you to touch it.\""
+    },
+    {
+      "scene_id": 324,
+      "label": "FASTEST-SELLING MAC",
+      "act_num": 5,
+      "start_sec": 1375.767,
+      "end_sec": 1380.152,
+      "duration_sec": 4.385,
+      "vo": "The iMac became the fastest-selling computer in Apple\u2019s history."
+    },
+    {
+      "scene_id": 325,
+      "label": "$87 MILLION PROFIT",
+      "act_num": 5,
+      "start_sec": 1380.152,
+      "end_sec": 1383.495,
+      "duration_sec": 3.343,
+      "vo": "In 1998, Apple turned an eighty-seven-million-dollar profit."
+    },
+    {
+      "scene_id": 326,
+      "label": "THE BLEEDING STOPPED",
+      "act_num": 5,
+      "start_sec": 1383.495,
+      "end_sec": 1385.592,
+      "duration_sec": 2.097,
+      "vo": "The bleeding was officially stopped."
+    },
+    {
+      "scene_id": 327,
+      "label": "NOT JUST CALCULATION",
+      "act_num": 5,
+      "start_sec": 1385.592,
+      "end_sec": 1391.416,
+      "duration_sec": 5.824,
+      "vo": "Next, Jobs realized that the personal computer was no longer just a calculation tool;"
+    },
+    {
+      "scene_id": 328,
+      "label": "THE DIGITAL HUB",
+      "act_num": 5,
+      "start_sec": 1391.416,
+      "end_sec": 1396.548,
+      "duration_sec": 5.132,
+      "vo": "it was becoming the \"digital hub\" for personal creative lives\u2014camcorders, cameras, and music players."
+    },
+    {
+      "scene_id": 329,
+      "label": "MUSIC IN TOTAL CHAOS",
+      "act_num": 5,
+      "start_sec": 1396.548,
+      "end_sec": 1399.322,
+      "duration_sec": 2.774,
+      "vo": "In early 2001, music was in total chaos."
+    },
+    {
+      "scene_id": 330,
+      "label": "NAPSTER TSUNAMI",
+      "act_num": 5,
+      "start_sec": 1399.322,
+      "end_sec": 1401.75,
+      "duration_sec": 2.428,
+      "vo": "Napster had shattered the traditional record industry."
+    },
+    {
+      "scene_id": 331,
+      "label": "CLUNKY MP3 PLAYERS",
+      "act_num": 5,
+      "start_sec": 1401.75,
+      "end_sec": 1408.355,
+      "duration_sec": 6.605,
+      "vo": "Millions of people were downloading pirated MP3s onto clunky, battery-draining portable players that held barely twenty songs."
+    },
+    {
+      "scene_id": 332,
+      "label": "THE MUSIC OPENING",
+      "act_num": 5,
+      "start_sec": 1408.355,
+      "end_sec": 1409.57,
+      "duration_sec": 1.215,
+      "vo": "Jobs saw an opening."
+    },
+    {
+      "scene_id": 333,
+      "label": "TINY 5GB TOSHIBA DRIVE",
+      "act_num": 5,
+      "start_sec": 1409.57,
+      "end_sec": 1413.518,
+      "duration_sec": 3.948,
+      "vo": "Apple developed an ultra-compact player built around a tiny five-gigabyte Toshiba hard drive."
+    },
+    {
+      "scene_id": 334,
+      "label": "CAN'T BE SMALLER",
+      "act_num": 5,
+      "start_sec": 1413.518,
+      "end_sec": 1417.803,
+      "duration_sec": 4.285,
+      "vo": "During development, an engineer told Jobs the prototype couldn't possibly be made any smaller."
+    },
+    {
+      "scene_id": 335,
+      "label": "THE AQUARIUM DROP",
+      "act_num": 5,
+      "start_sec": 1417.803,
+      "end_sec": 1421.955,
+      "duration_sec": 4.152,
+      "vo": "Jobs walked over to an office aquarium, dropped the prototype into the water,"
+    },
+    {
+      "scene_id": 336,
+      "label": "AIR BUBBLES RISING",
+      "act_num": 5,
+      "start_sec": 1421.955,
+      "end_sec": 1425.294,
+      "duration_sec": 3.339,
+      "vo": "and pointed at the bubbles rising to the surface."
+    },
+    {
+      "scene_id": 337,
+      "label": "THOSE ARE AIR BUBBLES",
+      "act_num": 5,
+      "start_sec": 1425.294,
+      "end_sec": 1428.197,
+      "duration_sec": 2.903,
+      "vo": "\"Those are air bubbles,\" Jobs said coldly."
+    },
+    {
+      "scene_id": 338,
+      "label": "EMPTY SPACE INSIDE",
+      "act_num": 5,
+      "start_sec": 1428.197,
+      "end_sec": 1431.1,
+      "duration_sec": 2.903,
+      "vo": "\"That means there is empty space inside."
+    },
+    {
+      "scene_id": 339,
+      "label": "MAKE IT SMALLER",
+      "act_num": 5,
+      "start_sec": 1431.1,
+      "end_sec": 1432.353,
+      "duration_sec": 1.253,
+      "vo": "Make it smaller.\""
+    },
+    {
+      "scene_id": 340,
+      "label": "TOWN HALL, OCT 2001",
+      "act_num": 5,
+      "start_sec": 1432.353,
+      "end_sec": 1436.947,
+      "duration_sec": 4.594,
+      "vo": "On October 23, 2001, six weeks after the September 11 attacks,"
+    },
+    {
+      "scene_id": 341,
+      "label": "A DECK OF CARDS",
+      "act_num": 5,
+      "start_sec": 1436.947,
+      "end_sec": 1443.629,
+      "duration_sec": 6.682,
+      "vo": "Jobs pulled a device the size of a deck of playing cards from his pocket: the iPod."
+    },
+    {
+      "scene_id": 342,
+      "label": "1,000 SONGS IN POCKET",
+      "act_num": 5,
+      "start_sec": 1443.629,
+      "end_sec": 1450.888,
+      "duration_sec": 7.259,
+      "vo": "His pitch was an absolute masterpiece of copywriting: \"One thousand songs in your pocket.\""
+    },
+    {
+      "scene_id": 343,
+      "label": "CORNERING THE LABELS",
+      "act_num": 5,
+      "start_sec": 1450.888,
+      "end_sec": 1458.178,
+      "duration_sec": 7.29,
+      "vo": "Two years later, Jobs cornered the terrified major record labels, who were watching physical CD sales collapse,"
+    },
+    {
+      "scene_id": 344,
+      "label": "99 CENTS A SONG",
+      "act_num": 5,
+      "start_sec": 1458.178,
+      "end_sec": 1464.35,
+      "duration_sec": 6.172,
+      "vo": "and convinced them to sell individual digital tracks on the iTunes Music Store for ninety-nine cents each."
+    },
+    {
+      "scene_id": 345,
+      "label": "400 MILLION SOLD",
+      "act_num": 5,
+      "start_sec": 1464.35,
+      "end_sec": 1467.18,
+      "duration_sec": 2.83,
+      "vo": "Over four hundred million iPods were sold."
+    },
+    {
+      "scene_id": 346,
+      "label": "WHITE HEADPHONE STATUS",
+      "act_num": 5,
+      "start_sec": 1467.18,
+      "end_sec": 1475.341,
+      "duration_sec": 8.161,
+      "vo": "The stark white headphone cords dangling from people's ears became the ultimate cultural status symbol of the twenty-first century."
+    },
+    {
+      "scene_id": 347,
+      "label": "NO LONGER JUST COMPUTERS",
+      "act_num": 5,
+      "start_sec": 1475.341,
+      "end_sec": 1478.645,
+      "duration_sec": 3.304,
+      "vo": "Apple was no longer just a computer company."
+    },
+    {
+      "scene_id": 348,
+      "label": "GLOBAL MEDIA TITAN",
+      "act_num": 5,
+      "start_sec": 1478.645,
+      "end_sec": 1481.269,
+      "duration_sec": 2.624,
+      "vo": "It was an undisputed titan of global media."
+    },
+    {
+      "scene_id": 349,
+      "label": "THE 2005 MORTAL THREAT",
+      "act_num": 5,
+      "start_sec": 1481.269,
+      "end_sec": 1485.458,
+      "duration_sec": 4.189,
+      "vo": "Yet by 2005, Steve Jobs recognized a mortal threat to his empire."
+    },
+    {
+      "scene_id": 350,
+      "label": "PHONES GETTING SMARTER",
+      "act_num": 5,
+      "start_sec": 1485.458,
+      "end_sec": 1487.73,
+      "duration_sec": 2.272,
+      "vo": "Mobile cellphones were becoming smarter."
+    },
+    {
+      "scene_id": 351,
+      "label": "iPOD EXTINCTION THREAT",
+      "act_num": 5,
+      "start_sec": 1487.73,
+      "end_sec": 1494.588,
+      "duration_sec": 6.858,
+      "vo": "Jobs realized that the moment mobile phones learned to play music reliably, the iPod would be wiped out."
+    },
+    {
+      "scene_id": 352,
+      "label": "CANNIBALIZE OURSELVES",
+      "act_num": 5,
+      "start_sec": 1494.588,
+      "end_sec": 1498.867,
+      "duration_sec": 4.279,
+      "vo": "\"If we don't cannibalize ourselves,\" Jobs told his executive team, \"someone else will.\""
+    },
+    {
+      "scene_id": 353,
+      "label": "PROJECT PURPLE LOCKDOWN",
+      "act_num": 5,
+      "start_sec": 1498.867,
+      "end_sec": 1503.269,
+      "duration_sec": 4.402,
+      "vo": "For two years, Apple lived under top-secret military-grade lockdown on Project Purple."
+    },
+    {
+      "scene_id": 354,
+      "label": "SECRECY & NDAs",
+      "act_num": 5,
+      "start_sec": 1503.269,
+      "end_sec": 1512.47,
+      "duration_sec": 9.201,
+      "vo": "Engineers worked around the clock in windowless rooms with blacked-out glass, signing non-disclosure agreements that forbade them from telling their own spouses what they were building."
+    },
+    {
+      "scene_id": 355,
+      "label": "ABANDONING KEYBOARDS",
+      "act_num": 5,
+      "start_sec": 1512.47,
+      "end_sec": 1515.793,
+      "duration_sec": 3.323,
+      "vo": "They abandoned mechanical keyboards entirely and developed capacitive multi-touch:"
+    },
+    {
+      "scene_id": 356,
+      "label": "CAPACITIVE MULTI-TOUCH",
+      "act_num": 5,
+      "start_sec": 1515.793,
+      "end_sec": 1522.869,
+      "duration_sec": 7.076,
+      "vo": "a display that allowed human fingers to directly flick, scroll, pinch, and zoom on a sheet of glass."
+    },
+    {
+      "scene_id": 357,
+      "label": "SECRET AT&T DEAL",
+      "act_num": 5,
+      "start_sec": 1522.869,
+      "end_sec": 1526.183,
+      "duration_sec": 3.314,
+      "vo": "Jobs made a secret deal with AT&T."
+    },
+    {
+      "scene_id": 358,
+      "label": "UNPRECEDENTED DEMANDS",
+      "act_num": 5,
+      "start_sec": 1526.183,
+      "end_sec": 1534.325,
+      "duration_sec": 8.142,
+      "vo": "In exchange for exclusive carrier rights, Jobs demanded something no phone manufacturer had ever secured in telecom history:"
+    },
+    {
+      "scene_id": 359,
+      "label": "ZERO CARRIER BLOAT",
+      "act_num": 5,
+      "start_sec": 1534.325,
+      "end_sec": 1539.987,
+      "duration_sec": 5.662,
+      "vo": "complete, absolute control over the device's hardware, software, and industrial design, with zero carrier bloatware,"
+    },
+    {
+      "scene_id": 360,
+      "label": "DATA REVENUE CUT",
+      "act_num": 5,
+      "start_sec": 1539.987,
+      "end_sec": 1543.611,
+      "duration_sec": 3.624,
+      "vo": "plus a monthly cut of every customer's data bill."
+    },
+    {
+      "scene_id": 361,
+      "label": "MACWORLD, JAN 9 2007",
+      "act_num": 5,
+      "start_sec": 1543.611,
+      "end_sec": 1548.473,
+      "duration_sec": 4.862,
+      "vo": "On January 9, 2007, Steve Jobs took the stage at Macworld San Francisco."
+    },
+    {
+      "scene_id": 362,
+      "label": "CHANGES EVERYTHING",
+      "act_num": 5,
+      "start_sec": 1548.473,
+      "end_sec": 1553.413,
+      "duration_sec": 4.94,
+      "vo": "\"Every once in a while, a revolutionary product comes along that changes everything,\" he began."
+    },
+    {
+      "scene_id": 363,
+      "label": "THREE REVOLUTIONARY PRODUCTS",
+      "act_num": 5,
+      "start_sec": 1553.413,
+      "end_sec": 1555.629,
+      "duration_sec": 2.216,
+      "vo": "\"Today, we are introducing three revolutionary products."
+    },
+    {
+      "scene_id": 364,
+      "label": "A WIDESCREEN TOUCH IPOD",
+      "act_num": 5,
+      "start_sec": 1555.629,
+      "end_sec": 1559.644,
+      "duration_sec": 4.015,
+      "vo": "The first is a widescreen iPod with touch controls."
+    },
+    {
+      "scene_id": 365,
+      "label": "REVOLUTIONARY PHONE",
+      "act_num": 5,
+      "start_sec": 1559.644,
+      "end_sec": 1563.026,
+      "duration_sec": 3.382,
+      "vo": "The second is a revolutionary mobile phone."
+    },
+    {
+      "scene_id": 366,
+      "label": "INTERNET COMMUNICATOR",
+      "act_num": 5,
+      "start_sec": 1563.026,
+      "end_sec": 1566.696,
+      "duration_sec": 3.67,
+      "vo": "And the third is a breakthrough internet communications device.\""
+    },
+    {
+      "scene_id": 367,
+      "label": "THE AUDIENCE CHEERS",
+      "act_num": 5,
+      "start_sec": 1566.696,
+      "end_sec": 1570.329,
+      "duration_sec": 3.633,
+      "vo": "He repeated the three names as the audience cheered."
+    },
+    {
+      "scene_id": 368,
+      "label": "AN IPOD.",
+      "act_num": 5,
+      "start_sec": 1570.329,
+      "end_sec": 1572.76,
+      "duration_sec": 2.431,
+      "vo": "Then came the punchline: \"An iPod."
+    },
+    {
+      "scene_id": 369,
+      "label": "A PHONE.",
+      "act_num": 5,
+      "start_sec": 1572.76,
+      "end_sec": 1573.57,
+      "duration_sec": 0.81,
+      "vo": "A phone."
+    },
+    {
+      "scene_id": 370,
+      "label": "AN INTERNET COMMUNICATOR.",
+      "act_num": 5,
+      "start_sec": 1573.57,
+      "end_sec": 1574.793,
+      "duration_sec": 1.223,
+      "vo": "An internet communicator."
+    },
+    {
+      "scene_id": 371,
+      "label": "ARE YOU GETTING IT?",
+      "act_num": 5,
+      "start_sec": 1574.793,
+      "end_sec": 1576.444,
+      "duration_sec": 1.651,
+      "vo": "Are you getting it?"
+    },
+    {
+      "scene_id": 372,
+      "label": "NOT THREE DEVICES",
+      "act_num": 5,
+      "start_sec": 1576.444,
+      "end_sec": 1578.921,
+      "duration_sec": 2.477,
+      "vo": "These are not three separate devices."
+    },
+    {
+      "scene_id": 373,
+      "label": "THIS IS ONE DEVICE",
+      "act_num": 5,
+      "start_sec": 1578.921,
+      "end_sec": 1580.572,
+      "duration_sec": 1.651,
+      "vo": "This is one device."
+    },
+    {
+      "scene_id": 374,
+      "label": "AND WE ARE CALLING IT: iPHONE",
+      "act_num": 5,
+      "start_sec": 1580.572,
+      "end_sec": 1583.09,
+      "duration_sec": 2.518,
+      "vo": "And we are calling it: iPhone.\""
+    },
+    {
+      "scene_id": 375,
+      "label": "TECHNOLOGICAL MIRACLE",
+      "act_num": 5,
+      "start_sec": 1583.09,
+      "end_sec": 1585.815,
+      "duration_sec": 2.725,
+      "vo": "The demo was a technological miracle."
+    },
+    {
+      "scene_id": 376,
+      "label": "SCOTCH WHISKEY NERVES",
+      "act_num": 5,
+      "start_sec": 1585.815,
+      "end_sec": 1591.725,
+      "duration_sec": 5.91,
+      "vo": "Behind the stage curtain, software engineers were taking shots of scotch whiskey to calm their nerves."
+    },
+    {
+      "scene_id": 377,
+      "label": "MEMORY CRASH DANGER",
+      "act_num": 5,
+      "start_sec": 1591.725,
+      "end_sec": 1601.519,
+      "duration_sec": 9.794,
+      "vo": "The phone barely worked; its memory was so unstable that if Jobs tapped the apps in the wrong sequence, the phone would crash completely."
+    },
+    {
+      "scene_id": 378,
+      "label": "THE FLAWLESS DEMO",
+      "act_num": 5,
+      "start_sec": 1601.519,
+      "end_sec": 1603.891,
+      "duration_sec": 2.372,
+      "vo": "Jobs navigated the exact sequence flawlessly."
+    },
+    {
+      "scene_id": 379,
+      "label": "DEAD MEN WALKING",
+      "act_num": 5,
+      "start_sec": 1603.891,
+      "end_sec": 1609.078,
+      "duration_sec": 5.187,
+      "vo": "When he walked off that stage, the legacy mobile giants were dead men walking."
+    },
+    {
+      "scene_id": 380,
+      "label": "BLACKBERRY'S SKEPTICISM",
+      "act_num": 5,
+      "start_sec": 1609.078,
+      "end_sec": 1615.271,
+      "duration_sec": 6.193,
+      "vo": "The CEO of BlackBerry publicly dismissed it, insisting enterprise users would never surrender physical keyboards."
+    },
+    {
+      "scene_id": 381,
+      "label": "BALLMER LAUGHS ON CAMERA",
+      "act_num": 5,
+      "start_sec": 1615.271,
+      "end_sec": 1620.982,
+      "duration_sec": 5.711,
+      "vo": "Steve Ballmer, CEO of Microsoft, laughed on camera: \"Five hundred dollars fully subsidized?"
+    },
+    {
+      "scene_id": 382,
+      "label": "NO BUSINESS APPEAL",
+      "act_num": 5,
+      "start_sec": 1620.982,
+      "end_sec": 1627.011,
+      "duration_sec": 6.029,
+      "vo": "It is the most expensive phone in the world, and it doesn't appeal to business customers!\""
+    },
+    {
+      "scene_id": 383,
+      "label": "BLACKBERRY WIPED OUT",
+      "act_num": 5,
+      "start_sec": 1627.011,
+      "end_sec": 1630.001,
+      "duration_sec": 2.99,
+      "vo": "Within five years, BlackBerry was completely wiped out."
+    },
+    {
+      "scene_id": 384,
+      "label": "NOKIA'S COLLAPSE",
+      "act_num": 5,
+      "start_sec": 1630.001,
+      "end_sec": 1632.574,
+      "duration_sec": 2.573,
+      "vo": "Nokia\u2019s multi-billion-dollar mobile business collapsed into irrelevance."
+    },
+    {
+      "scene_id": 385,
+      "label": "JULY 2008: APP STORE",
+      "act_num": 5,
+      "start_sec": 1632.574,
+      "end_sec": 1637.71,
+      "duration_sec": 5.136,
+      "vo": "In 2008, Apple launched the App Store with just five hundred apps."
+    },
+    {
+      "scene_id": 386,
+      "label": "THE APP ECONOMY",
+      "act_num": 5,
+      "start_sec": 1637.71,
+      "end_sec": 1643.431,
+      "duration_sec": 5.721,
+      "vo": "It spawned the modern smartphone economy: Uber, Instagram, WhatsApp, DoorDash, and TikTok."
+    },
+    {
+      "scene_id": 387,
+      "label": "THE 30% TOLL BOOTH",
+      "act_num": 5,
+      "start_sec": 1643.431,
+      "end_sec": 1650.027,
+      "duration_sec": 6.596,
+      "vo": "Apple extracted a thirty percent commission on every digital purchase\u2014creating the most lucrative toll booth in corporate history."
+    },
+    {
+      "scene_id": 388,
+      "label": "RUNNING OUT OF TIME",
+      "act_num": 6,
+      "start_sec": 1650.027,
+      "end_sec": 1654.251,
+      "duration_sec": 4.224,
+      "vo": "Behind the unprecedented triumph, Steve Jobs was quietly running out of time."
+    },
+    {
+      "scene_id": 389,
+      "label": "2003 DIAGNOSIS",
+      "act_num": 6,
+      "start_sec": 1654.251,
+      "end_sec": 1659.243,
+      "duration_sec": 4.992,
+      "vo": "He had been diagnosed with a rare neuroendocrine tumor in 2003."
+    },
+    {
+      "scene_id": 390,
+      "label": "THE 8-YEAR BATTLE",
+      "act_num": 6,
+      "start_sec": 1659.243,
+      "end_sec": 1666.352,
+      "duration_sec": 7.109,
+      "vo": "For eight years, he fought the disease while orchestrating the most prolific product run in business history:"
+    },
+    {
+      "scene_id": 391,
+      "label": "THE MANILA ENVELOPE AIR",
+      "act_num": 6,
+      "start_sec": 1666.352,
+      "end_sec": 1667.538,
+      "duration_sec": 1.186,
+      "vo": "the MacBook Air,"
+    },
+    {
+      "scene_id": 392,
+      "label": "THE 2010 iPAD",
+      "act_num": 6,
+      "start_sec": 1667.538,
+      "end_sec": 1668.329,
+      "duration_sec": 0.791,
+      "vo": "the iPad,"
+    },
+    {
+      "scene_id": 393,
+      "label": "A-SERIES SILICON",
+      "act_num": 6,
+      "start_sec": 1668.329,
+      "end_sec": 1670.749,
+      "duration_sec": 2.42,
+      "vo": "and Apple\u2019s custom A-series silicon chips."
+    },
+    {
+      "scene_id": 394,
+      "label": "AUGUST 2011 RESIGNATION",
+      "act_num": 6,
+      "start_sec": 1670.749,
+      "end_sec": 1675.683,
+      "duration_sec": 4.934,
+      "vo": "In August 2011, knowing his body was failing, Jobs resigned as CEO"
+    },
+    {
+      "scene_id": 395,
+      "label": "HANDING REINS TO TIM COOK",
+      "act_num": 6,
+      "start_sec": 1675.683,
+      "end_sec": 1678.87,
+      "duration_sec": 3.187,
+      "vo": "and handed the reins to his Chief Operating Officer: Tim Cook."
+    },
+    {
+      "scene_id": 396,
+      "label": "ALABAMA INDUSTRIAL ENGINEER",
+      "act_num": 6,
+      "start_sec": 1678.87,
+      "end_sec": 1680.951,
+      "duration_sec": 2.081,
+      "vo": "Cook was an Alabama-born industrial engineer."
+    },
+    {
+      "scene_id": 397,
+      "label": "CALM & DISCIPLINED",
+      "act_num": 6,
+      "start_sec": 1680.951,
+      "end_sec": 1682.567,
+      "duration_sec": 1.616,
+      "vo": "Calm, soft-spoken, and disciplined,"
+    },
+    {
+      "scene_id": 398,
+      "label": "OUTSOURCING LOGISTICS",
+      "act_num": 6,
+      "start_sec": 1682.567,
+      "end_sec": 1690.22,
+      "duration_sec": 7.653,
+      "vo": "he was the logistical genius who had closed Apple's factories, outsourced manufacturing to Asia,"
+    },
+    {
+      "scene_id": 399,
+      "label": "48-HOUR INVENTORY",
+      "act_num": 6,
+      "start_sec": 1690.22,
+      "end_sec": 1694.568,
+      "duration_sec": 4.348,
+      "vo": "and reduced Apple's inventory holding time to forty-eight hours."
+    },
+    {
+      "scene_id": 400,
+      "label": "THE FINAL SACRED ADVICE",
+      "act_num": 6,
+      "start_sec": 1694.568,
+      "end_sec": 1697.889,
+      "duration_sec": 3.321,
+      "vo": "Jobs gave Cook one final, sacred piece of advice:"
+    },
+    {
+      "scene_id": 401,
+      "label": "DO WHAT'S RIGHT",
+      "act_num": 6,
+      "start_sec": 1697.889,
+      "end_sec": 1702.365,
+      "duration_sec": 4.476,
+      "vo": "\"Never ask what Steve would do. Just do what\u2019s right.\""
+    },
+    {
+      "scene_id": 402,
+      "label": "OCTOBER 5, 2011",
+      "act_num": 6,
+      "start_sec": 1702.365,
+      "end_sec": 1708.952,
+      "duration_sec": 6.587,
+      "vo": "On October 5, 2011, Steve Jobs died at his home in Palo Alto at age fifty-six."
+    },
+    {
+      "scene_id": 403,
+      "label": "GLOBAL MEMORIALS",
+      "act_num": 6,
+      "start_sec": 1708.952,
+      "end_sec": 1711.9,
+      "duration_sec": 2.948,
+      "vo": "Across the world, Apple stores became spontaneous memorials."
+    },
+    {
+      "scene_id": 404,
+      "label": "CANDLES & BITTEN APPLES",
+      "act_num": 6,
+      "start_sec": 1711.9,
+      "end_sec": 1719.453,
+      "duration_sec": 7.553,
+      "vo": "People placed candles, flowers, and real apples with bite marks taken out of them on sidewalks from Tokyo to New York."
+    },
+    {
+      "scene_id": 405,
+      "label": "WALL STREET'S SKEPTICISM",
+      "act_num": 6,
+      "start_sec": 1719.453,
+      "end_sec": 1725.699,
+      "duration_sec": 6.246,
+      "vo": "Wall Street predicted that without Jobs\u2019s charismatic lightning, Apple would slowly wither into a legacy hardware maker."
+    },
+    {
+      "scene_id": 406,
+      "label": "THE PROFIT MACHINE",
+      "act_num": 6,
+      "start_sec": 1725.699,
+      "end_sec": 1730.017,
+      "duration_sec": 4.318,
+      "vo": "Instead, Tim Cook turned Apple into the most terrifyingly efficient profit machine in human history."
+    },
+    {
+      "scene_id": 407,
+      "label": "OUTSELLING SWISS WATCHES",
+      "act_num": 6,
+      "start_sec": 1730.017,
+      "end_sec": 1735.039,
+      "duration_sec": 5.022,
+      "vo": "He launched the Apple Watch, outselling the entire Swiss watchmaking industry combined."
+    },
+    {
+      "scene_id": 408,
+      "label": "AIRPODS REVENUE EMPIRE",
+      "act_num": 6,
+      "start_sec": 1735.039,
+      "end_sec": 1739.588,
+      "duration_sec": 4.549,
+      "vo": "He launched AirPods, which generated more revenue than most Fortune 500 corporations."
+    },
+    {
+      "scene_id": 409,
+      "label": "APPLE SILICON TRANSITION",
+      "act_num": 6,
+      "start_sec": 1739.588,
+      "end_sec": 1745.264,
+      "duration_sec": 5.676,
+      "vo": "He transitioned the Mac away from Intel chips to Apple Silicon, delivering unprecedented battery life and speed."
+    },
+    {
+      "scene_id": 410,
+      "label": "THE $1 TRILLION MILESTONE",
+      "act_num": 6,
+      "start_sec": 1745.264,
+      "end_sec": 1750.948,
+      "duration_sec": 5.684,
+      "vo": "In August 2018, Apple became the first public American corporation to cross a one-trillion-dollar valuation."
+    },
+    {
+      "scene_id": 411,
+      "label": "THE $2 TRILLION MARK",
+      "act_num": 6,
+      "start_sec": 1750.948,
+      "end_sec": 1753.972,
+      "duration_sec": 3.024,
+      "vo": "Two years later, it crossed two trillion."
+    },
+    {
+      "scene_id": 412,
+      "label": "THE $3 TRILLION PEAK",
+      "act_num": 6,
+      "start_sec": 1753.972,
+      "end_sec": 1756.609,
+      "duration_sec": 2.637,
+      "vo": "In 2023, it crossed three trillion."
+    },
+    {
+      "scene_id": 413,
+      "label": "THE MORAL COST",
+      "act_num": 6,
+      "start_sec": 1756.609,
+      "end_sec": 1763.902,
+      "duration_sec": 7.293,
+      "vo": "Yet as the numbers entered the stratosphere, the moral cost of the empire became impossible to ignore."
+    },
+    {
+      "scene_id": 414,
+      "label": "iPhone CITY: ZHENGZHOU",
+      "act_num": 6,
+      "start_sec": 1763.902,
+      "end_sec": 1767.729,
+      "duration_sec": 3.827,
+      "vo": "In Zhengzhou, China\u2014a sprawling manufacturing metropolis known as \"iPhone City\"\u2014"
+    },
+    {
+      "scene_id": 415,
+      "label": "12-HOUR ASSEMBLY SHIFTS",
+      "act_num": 6,
+      "start_sec": 1767.729,
+      "end_sec": 1775.121,
+      "duration_sec": 7.392,
+      "vo": "over two hundred thousand workers labor in twelve-hour shifts on assembly lines, piecing together camera sensors and batteries."
+    },
+    {
+      "scene_id": 416,
+      "label": "THE ANTI-SUICIDE NETS",
+      "act_num": 6,
+      "start_sec": 1775.121,
+      "end_sec": 1781.623,
+      "duration_sec": 6.502,
+      "vo": "When pressure mounted, the factories had to erect anti-suicide netting along dormitory roofs to catch falling workers."
+    },
+    {
+      "scene_id": 417,
+      "label": "GLOBAL ANTITRUST INQUIRY",
+      "act_num": 6,
+      "start_sec": 1781.623,
+      "end_sec": 1789.751,
+      "duration_sec": 8.128,
+      "vo": "Governments around the world launched massive antitrust investigations, accusing Apple of running an abusive monopoly with its thirty percent App Store tax."
+    },
+    {
+      "scene_id": 418,
+      "label": "DEVELOPERS IN REVOLT",
+      "act_num": 6,
+      "start_sec": 1789.751,
+      "end_sec": 1790.463,
+      "duration_sec": 0.712,
+      "vo": "Developers sued."
+    },
+    {
+      "scene_id": 419,
+      "label": "EU USB-C MANDATE",
+      "act_num": 6,
+      "start_sec": 1790.463,
+      "end_sec": 1796.349,
+      "duration_sec": 5.886,
+      "vo": "The European Union forced Apple to abandon its proprietary Lightning connector in favor of universal USB-C."
+    },
+    {
+      "scene_id": 420,
+      "label": "RESHAPED CONSCIOUSNESS",
+      "act_num": 6,
+      "start_sec": 1796.349,
+      "end_sec": 1803.841,
+      "duration_sec": 7.492,
+      "vo": "And millions of human beings began to realize that the glowing glass rectangles had subtly reshaped human consciousness."
+    },
+    {
+      "scene_id": 421,
+      "label": "SILENT DINNER TABLES",
+      "act_num": 6,
+      "start_sec": 1803.841,
+      "end_sec": 1808.308,
+      "duration_sec": 4.467,
+      "vo": "Families sitting at dinner tables in total silence, scrolling through algorithmically tailored feeds."
+    },
+    {
+      "scene_id": 422,
+      "label": "DOPAMINE LOOPS",
+      "act_num": 6,
+      "start_sec": 1808.308,
+      "end_sec": 1812.34,
+      "duration_sec": 4.032,
+      "vo": "Teenagers trapped in dopamine loops of notifications, likes, and red badge alerts."
+    },
+    {
+      "scene_id": 423,
+      "label": "THE SEDUCTIVE PANOPTICON",
+      "act_num": 6,
+      "start_sec": 1812.34,
+      "end_sec": 1819.639,
+      "duration_sec": 7.299,
+      "vo": "The company that in 1984 promised to smash Big Brother had built the most seductive, inescapable surveillance ecosystem on earth."
+    },
+    {
+      "scene_id": 424,
+      "label": "NOT BY DICTATOR",
+      "act_num": 6,
+      "start_sec": 1819.639,
+      "end_sec": 1823.242,
+      "duration_sec": 3.603,
+      "vo": "It was not forced upon humanity by a dictator."
+    },
+    {
+      "scene_id": 425,
+      "label": "BOUGHT WILLINGLY",
+      "act_num": 6,
+      "start_sec": 1823.242,
+      "end_sec": 1824.843,
+      "duration_sec": 1.601,
+      "vo": "Humanity bought it willingly."
+    },
+    {
+      "scene_id": 426,
+      "label": "BECAUSE COMFORTABLE",
+      "act_num": 6,
+      "start_sec": 1824.843,
+      "end_sec": 1826.79,
+      "duration_sec": 1.947,
+      "vo": "Because it was comfortable."
+    },
+    {
+      "scene_id": 427,
+      "label": "BECAUSE BEAUTIFUL",
+      "act_num": 6,
+      "start_sec": 1826.79,
+      "end_sec": 1828.613,
+      "duration_sec": 1.823,
+      "vo": "Because it was beautiful."
+    },
+    {
+      "scene_id": 428,
+      "label": "BECAUSE IT WORKED",
+      "act_num": 6,
+      "start_sec": 1828.613,
+      "end_sec": 1829.701,
+      "duration_sec": 1.088,
+      "vo": "Because it worked."
+    },
+    {
+      "scene_id": 429,
+      "label": "1976 GARAGE DREAMERS",
+      "act_num": 6,
+      "start_sec": 1829.701,
+      "end_sec": 1835.217,
+      "duration_sec": 5.516,
+      "vo": "In 1976, two broke dreamers in an unpainted Los Altos garage started soldering circuits together"
+    },
+    {
+      "scene_id": 430,
+      "label": "POWER TO THE INDIVIDUAL",
+      "act_num": 6,
+      "start_sec": 1835.217,
+      "end_sec": 1840.505,
+      "duration_sec": 5.288,
+      "vo": "because they believed that technology should belong to the individual, not the corporation."
+    },
+    {
+      "scene_id": 431,
+      "label": "GOVERNING A BILLION LIVES",
+      "act_num": 6,
+      "start_sec": 1840.505,
+      "end_sec": 1849.863,
+      "duration_sec": 9.358,
+      "vo": "Fifty years later, their creation governs the private communications, memories, and financial transactions of over a billion human beings."
+    },
+    {
+      "scene_id": 432,
+      "label": "BICYCLE FOR THE MIND",
+      "act_num": 6,
+      "start_sec": 1849.863,
+      "end_sec": 1853.685,
+      "duration_sec": 3.822,
+      "vo": "Steve Jobs once called the computer a bicycle for our minds\u2014"
+    },
+    {
+      "scene_id": 433,
+      "label": "AMPLIFYING HUMAN NATURE",
+      "act_num": 6,
+      "start_sec": 1853.685,
+      "end_sec": 1858.142,
+      "duration_sec": 4.457,
+      "vo": "a tool that would amplify human capability beyond our natural limits."
+    },
+    {
+      "scene_id": 434,
+      "label": "WHO IS RIDING WHOM?",
+      "act_num": 6,
+      "start_sec": 1858.142,
+      "end_sec": 1864.864,
+      "duration_sec": 6.722,
+      "vo": "Looking at the world today, the only question that remains is who is riding whom."
+    },
+    {
+      "scene_id": 435,
+      "label": "FROM GARAGE TO EMPIRE",
+      "act_num": 6,
+      "start_sec": 1864.864,
+      "end_sec": 1870.706,
+      "duration_sec": 5.842,
+      "vo": "From an oil-stained garage on Crist Drive to a three-trillion-dollar glass empire that conquered the world."
+    },
+    {
+      "scene_id": 436,
+      "label": "LIKE & SUBSCRIBE",
+      "act_num": 6,
+      "start_sec": 1870.706,
+      "end_sec": 1881.136,
+      "duration_sec": 10.43,
+      "vo": "If you felt the weight of this story, hit like and subscribe for the complete history of more empires, one founder at a time."
+    },
+    {
+      "scene_id": 437,
+      "label": "WHAT WAS YOUR FIRST?",
+      "act_num": 6,
+      "start_sec": 1881.136,
+      "end_sec": 1888.663,
+      "duration_sec": 7.527,
+      "vo": "And tell us in the comments below: what was the very first Apple product you ever held in your hands?"
+    },
+    {
+      "scene_id": 438,
+      "label": "THE II, iPOD, OR iPHONE?",
+      "act_num": 6,
+      "start_sec": 1888.663,
+      "end_sec": 1891.588,
+      "duration_sec": 2.925,
+      "vo": "The II, the iPod, or the iPhone?"
+    },
+    {
+      "scene_id": 439,
+      "label": "SEE YOU AT THE NEXT BUILD",
+      "act_num": 6,
+      "start_sec": 1891.588,
+      "end_sec": 2116.872,
+      "duration_sec": 225.284,
+      "vo": "See you at the next build."
+    }
+  ]
+}

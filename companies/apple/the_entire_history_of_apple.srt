@@ -1,0 +1,1755 @@
+1
+00:00:00,000 --> 00:00:01,500
+Pick up an iPhone tonight,
+
+2
+00:00:01,500 --> 00:00:03,408
+and you are not holding a telephone.
+
+3
+00:00:03,408 --> 00:00:08,616
+You are holding the most profitable consumer object ever engineered by the human species.
+
+4
+00:00:08,616 --> 00:00:13,080
+A seamless slab of titanium, sapphire glass, and microscopic silicon
+
+5
+00:00:13,080 --> 00:00:16,840
+that generates more net profit in a single ninety-day quarter
+
+6
+00:00:16,840 --> 00:00:19,704
+than Nike, Coca-Cola, and McDonald’s combined.
+
+7
+00:00:19,704 --> 00:00:24,312
+Behind that glass sits a corporate empire valued at over three trillion dollars.
+
+8
+00:00:24,312 --> 00:00:29,928
+That is larger than the entire gross domestic product of the United Kingdom, France, or India.
+
+9
+00:00:29,928 --> 00:00:34,508
+Its cash reserves could purchase entire commercial airline fleets
+
+10
+00:00:34,508 --> 00:00:41,160
+or defense contractors in cash before the markets close for lunch.
+
+11
+00:00:41,160 --> 00:00:46,368
+Over one billion human beings carry this device in their pockets every second of the day.
+
+12
+00:00:46,368 --> 00:00:48,288
+When an alarm rings in Sydney,
+
+13
+00:00:48,288 --> 00:00:50,188
+a podcast plays in Tokyo,
+
+14
+00:00:50,188 --> 00:00:52,408
+or a contactless card taps in London,
+
+15
+00:00:52,408 --> 00:00:53,472
+Apple quietly takes its toll.
+
+16
+00:00:53,472 --> 00:00:57,600
+It has become the default sensory apparatus for modern human civilization.
+
+17
+00:00:57,600 --> 00:01:02,616
+Yet the entire empire is constructed on an illusion.
+
+18
+00:01:02,616 --> 00:01:05,056
+Smooth rounded corners.
+
+19
+00:01:05,056 --> 00:01:06,676
+Minimalist white boxes that slide open with a slow pneumatic glide.
+
+20
+00:01:06,676 --> 00:01:08,356
+Silk-wrapped charging cords.
+
+21
+00:01:08,356 --> 00:01:09,912
+Friendly, lowercase typography.
+
+22
+00:01:09,912 --> 00:01:13,592
+Apple does not sell consumer electronics.
+
+23
+00:01:13,592 --> 00:01:14,856
+Apple sells an identity.
+
+24
+00:01:14,856 --> 00:01:17,156
+It sells the flattering, comforting belief that by tapping on their glass, you are not merely a corporate worker checking emails at midnight.
+
+25
+00:01:17,156 --> 00:01:18,776
+You are an artist.
+
+26
+00:01:18,776 --> 00:01:21,736
+A creator.
+
+27
+00:01:21,736 --> 00:01:23,760
+A rebel who thinks a little differently than the uninspired masses around you.
+
+28
+00:01:23,760 --> 00:01:26,784
+It is the greatest psychological trick in corporate history.
+
+29
+00:01:26,784 --> 00:01:31,440
+Because fifty years ago, there was no glass spaceship campus rising out of Cupertino apricot orchards.
+
+30
+00:01:31,440 --> 00:01:34,400
+There were no pristine marble retail temples.
+
+31
+00:01:34,400 --> 00:01:36,648
+There were no billion-dollar marketing campaigns.
+
+32
+00:01:36,648 --> 00:01:39,368
+There was only a drafty suburban garage in Los Altos, California,
+
+33
+00:01:39,368 --> 00:01:43,224
+with oil stains soaked into the concrete floor,
+
+34
+00:01:43,224 --> 00:01:44,804
+two college dropouts who had barely twenty-five dollars between them,
+
+35
+00:01:44,804 --> 00:01:46,752
+and an act of petty corporate theft that almost destroyed their friendship before it even began.
+
+36
+00:01:46,752 --> 00:01:49,412
+To understand Apple, you have to understand that it was never an engineering company.
+
+37
+00:01:49,412 --> 00:01:51,840
+It was an uneasy partnership between an engineering saint and a ruthless commercial prophet.
+
+38
+00:01:51,840 --> 00:01:52,800
+In 1971, Steve Wozniak and Steve Jobs were teenage misfits in the smoggy suburbs of Silicon Valley.
+
+39
+00:01:52,800 --> 00:01:55,020
+Wozniak was a gentle, childlike prodigy who built electronic circuits for the pure, uncorrupted joy of making electrons dance.
+
+40
+00:01:55,020 --> 00:01:56,420
+Jobs was a barefoot, brooding wanderer who attended Reed College, dropped out after one semester,
+
+41
+00:01:56,420 --> 00:01:57,640
+slept on dorm room floors, and returned deposit bottles for five cents to buy food.
+
+42
+00:01:57,640 --> 00:01:59,088
+Their first commercial venture was illegal.
+
+43
+00:01:59,088 --> 00:01:59,488
+Wozniak discovered that toy whistles packed inside Cap'n Crunch cereal boxes emitted a tone at exactly twenty-six hundred hertz.
+
+44
+00:01:59,488 --> 00:01:59,888
+That precise frequency fooled AT&T’s automated telephone switches into granting free, untraceable long-distance calls across the globe.
+
+45
+00:01:59,888 --> 00:02:00,668
+Woz built an electronic version called a Blue Box.
+
+46
+00:02:00,668 --> 00:02:01,068
+Jobs realized they shouldn't just prank phone companies—they should sell the boxes to college students for one hundred and fifty dollars each.
+
+47
+00:02:01,068 --> 00:02:01,468
+They used one to call the Vatican in Rome, with Wozniak pretending to be Henry Kissinger asking to speak to the Pope in the middle of the night.
+
+48
+00:02:01,468 --> 00:02:02,188
+Then came the incident that revealed the cold shadow inside Steve Jobs.
+
+49
+00:02:02,188 --> 00:02:02,588
+In 1975, Atari founder Nolan Bushnell hired Jobs to build a single-player version of Pong called Breakout.
+
+50
+00:02:02,588 --> 00:02:02,988
+Bushnell offered a bonus: seven hundred dollars for the game,
+
+51
+00:02:02,988 --> 00:02:03,388
+plus an extra one hundred dollars for every computer chip eliminated from the design.
+
+52
+00:02:03,388 --> 00:02:03,788
+Jobs knew he lacked the engineering chops to do it,
+
+53
+00:02:03,788 --> 00:02:04,188
+so he begged Wozniak to help, promising they would split the payout fifty-fifty.
+
+54
+00:02:04,188 --> 00:02:04,588
+Wozniak worked for four straight nights without sleep, contracting mono,
+
+55
+00:02:04,588 --> 00:02:04,988
+and designed a masterpiece that cut fifty chips from the circuit board.
+
+56
+00:02:04,988 --> 00:02:05,388
+Atari paid Jobs a massive five-thousand-dollar bonus.
+
+57
+00:02:05,388 --> 00:02:05,788
+Jobs returned to the garage, looked his exhausted best friend in the eye, and told him Atari had paid only seven hundred dollars.
+
+58
+00:02:05,788 --> 00:02:19,440
+He handed Wozniak three hundred and fifty dollars,
+
+59
+00:02:19,440 --> 00:02:21,760
+and pocketed the remaining four thousand six hundred and fifty dollars for himself.
+
+60
+00:02:21,760 --> 00:02:23,880
+Years later, when Wozniak discovered the truth, he broke down and cried.
+
+61
+00:02:23,880 --> 00:02:37,824
+But he didn't walk away.
+
+62
+00:02:37,824 --> 00:02:39,104
+Because despite Jobs’s ruthless deceit, Woz knew that without Jobs, his brilliant inventions would sit in a cardboard box on a bedroom floor forever.
+
+63
+00:02:39,104 --> 00:02:41,472
+In early 1976, Wozniak had an epiphany that changed computing history.
+
+64
+00:02:41,472 --> 00:02:48,456
+At the time, computers were terrifying, multi-million-dollar metal cabinets locked behind plate glass in air-conditioned basements of banks and military installations.
+
+65
+00:02:48,456 --> 00:02:58,800
+They were fed paper punch cards by men in white lab coats.
+
+66
+00:02:58,800 --> 00:03:04,104
+The idea that an ordinary human would want a computer in their living room was considered absurd.
+
+67
+00:03:04,104 --> 00:03:36,792
+Ken Olsen, founder of Digital Equipment Corporation, famously mocked: "There is no reason anyone would want a computer in their home."
+
+68
+00:03:36,792 --> 00:03:57,048
+Wozniak disagreed.
+
+69
+00:03:57,048 --> 00:04:07,488
+Sitting on the floor of his cramped apartment, he wired an ordinary keyboard directly to a microprocessor,
+
+70
+00:04:07,488 --> 00:04:09,148
+and hooked the output to a portable black-and-white television screen.
+
+71
+00:04:09,148 --> 00:04:12,428
+He pressed a key.
+
+72
+00:04:12,428 --> 00:04:14,352
+And for the first time in human history, the letter appeared instantly on the screen in front of him.
+
+73
+00:04:14,352 --> 00:04:16,212
+No punch cards.
+
+74
+00:04:16,212 --> 00:04:17,772
+No paper printouts.
+
+75
+00:04:17,772 --> 00:04:20,640
+No waiting overnight.
+
+76
+00:04:20,640 --> 00:04:23,328
+It was instantaneous, personal computing.
+
+77
+00:04:23,328 --> 00:04:26,808
+Woz was so proud that he took his schematics to the Homebrew Computer Club in Menlo Park
+
+78
+00:04:26,808 --> 00:05:29,160
+and gave them away to fellow hobbyists for free.
+
+79
+00:05:29,160 --> 00:05:42,360
+When Jobs saw the machine, he intervened immediately.
+
+80
+00:05:42,360 --> 00:05:46,060
+"Stop giving it away," Jobs demanded.
+
+81
+00:05:46,060 --> 00:05:57,336
+"Let's build circuit boards and sell them."
+
+82
+00:05:57,336 --> 00:05:59,656
+To raise the seed capital, Jobs sold his beloved red-and-white Volkswagen microbus for a few hundred dollars.
+
+83
+00:05:59,656 --> 00:06:07,848
+Wozniak sold his prized Hewlett-Packard scientific calculator for five hundred.
+
+84
+00:06:07,848 --> 00:06:11,268
+Combined, they had thirteen hundred dollars.
+
+85
+00:06:11,268 --> 00:06:14,304
+They incorporated on April Fools’ Day, 1976.
+
+86
+00:06:14,304 --> 00:06:23,376
+Jobs named it Apple Computer after spending time pruning Gravenstein trees on an Oregon orchard commune.
+
+87
+00:06:23,376 --> 00:06:26,276
+It sounded friendly, non-threatening,
+
+88
+00:06:26,276 --> 00:06:49,896
+and crucially, it appeared before Atari in the phone book.
+
+89
+00:06:49,896 --> 00:06:54,432
+Jobs marched into the Byte Shop in Mountain View and pitched their naked circuit board to owner Paul Terrell.
+
+90
+00:06:54,432 --> 00:06:58,608
+Terrell looked at the board of exposed wires and made an unexpected counteroffer:
+
+91
+00:06:58,608 --> 00:06:59,748
+he would buy fifty units, but only if they were fully assembled, working computers.
+
+92
+00:06:59,748 --> 00:07:01,368
+Price: five hundred dollars each, cash on delivery.
+
+93
+00:07:01,368 --> 00:07:04,152
+Twenty-five thousand dollars.
+
+94
+00:07:04,152 --> 00:07:10,680
+It was more money than either of them had ever contemplated.
+
+95
+00:07:10,680 --> 00:07:12,768
+The garage on Crist Drive became an assembly plant.
+
+96
+00:07:12,768 --> 00:07:14,868
+Jobs’s sister was paid one dollar per board to solder chip sockets.
+
+97
+00:07:14,868 --> 00:07:16,872
+Jobs badgered electronic suppliers into giving him thirty days of credit on parts.
+
+98
+00:07:16,872 --> 00:07:19,452
+They delivered all fifty computers on time in wooden boxes.
+
+99
+00:07:19,452 --> 00:07:30,816
+The Apple I was an underground hit among hardcore hobbyists.
+
+100
+00:07:30,816 --> 00:07:37,200
+But Jobs was already dissatisfied.
+
+101
+00:07:37,200 --> 00:07:43,368
+It was still just a raw circuit board for nerds with soldering irons.
+
+102
+00:07:43,368 --> 00:07:48,744
+Jobs understood that a true revolution wouldn't happen until computers became consumer appliances.
+
+103
+00:07:48,744 --> 00:07:54,360
+Friendly, beautiful, quiet machines that worked straight out of the box, as simple as a kitchen toaster.
+
+104
+00:07:54,360 --> 00:07:58,296
+Woz sat down and engineered his magnum opus: the Apple II.
+
+105
+00:07:58,296 --> 00:08:05,712
+It featured built-in color graphics, sound, game ports, and expansion slots.
+
+106
+00:08:05,712 --> 00:08:09,552
+Jobs obsessed over the industrial enclosure.
+
+107
+00:08:09,552 --> 00:08:09,952
+No visible metal screws.
+
+108
+00:08:09,952 --> 00:08:11,252
+No ugly, noisy cooling fan—the machine had to be completely silent,
+
+109
+00:08:11,252 --> 00:08:12,288
+requiring a custom lightweight switching power supply.
+
+110
+00:08:12,288 --> 00:08:16,392
+He spent weeks examining forty different plastic color swatches to find the precise, warm shade of beige.
+
+111
+00:08:16,392 --> 00:08:21,600
+To manufacture it, they needed serious capital.
+
+112
+00:08:21,600 --> 00:08:23,620
+Enter Mike Markkula, an Intel millionaire who recognized genius in the mismatched duo.
+
+113
+00:08:23,620 --> 00:08:25,224
+Markkula invested ninety-two thousand dollars of his own money,
+
+114
+00:08:25,224 --> 00:08:29,084
+secured a quarter-million-dollar line of credit,
+
+115
+00:08:29,084 --> 00:08:29,484
+and instituted Apple's corporate philosophy: empathy with the customer, focus,
+
+116
+00:08:29,484 --> 00:08:30,888
+and "imputing"—the belief that people judge a book by its cover, and that beautiful design signals quality before the power switch is even flipped.
+
+117
+00:08:30,888 --> 00:08:36,864
+The Apple II debuted at the 1977 West Coast Computer Faire.
+
+118
+00:08:36,864 --> 00:08:41,144
+While competitors displayed drab grey metal industrial boxes,
+
+119
+00:08:41,144 --> 00:08:45,744
+Apple’s booth glowed with backlit acrylic signs and friendly beige appliances.
+
+120
+00:08:45,744 --> 00:08:52,968
+Then, in 1979, two Harvard students wrote VisiCalc—the world’s first electronic spreadsheet.
+
+121
+00:08:52,968 --> 00:08:57,432
+Suddenly, corporate executives weren't buying an Apple II to play breakout games.
+
+122
+00:08:57,432 --> 00:09:02,880
+They were buying it because it calculated corporate financial forecasts in twenty seconds instead of twenty days.
+
+123
+00:09:02,880 --> 00:09:06,140
+Apple became an economic rocket ship.
+
+124
+00:09:06,140 --> 00:09:11,976
+Revenue skyrocketed from eight million dollars in 1978 to one hundred and seventeen million in 1980.
+
+125
+00:09:11,976 --> 00:09:16,920
+On December 12, 1980, Apple Computer went public on Wall Street.
+
+126
+00:09:16,920 --> 00:09:21,648
+It was the largest stock market debut since Ford Motor Company in 1956.
+
+127
+00:09:21,648 --> 00:09:26,112
+In an afternoon, three hundred Apple employees became instant millionaires.
+
+128
+00:09:26,112 --> 00:09:35,184
+Steve Jobs, at age twenty-five, was suddenly worth two hundred and fifty-six million dollars.
+
+129
+00:09:35,184 --> 00:09:39,048
+He had conquered Silicon Valley before his hair had even begun to thin.
+
+130
+00:09:39,048 --> 00:09:39,808
+And that is when the hubris took control.
+
+131
+00:09:39,808 --> 00:09:40,388
+Wealth amplified Jobs's worst instincts.
+
+132
+00:09:40,388 --> 00:09:58,512
+He became convinced of his absolute infallibility.
+
+133
+00:09:58,512 --> 00:10:11,352
+In December 1979, Jobs visited the Xerox Palo Alto Research Center.
+
+134
+00:10:11,352 --> 00:10:17,760
+In exchange for one million dollars of pre-IPO Apple stock, Xerox scientists agreed to give Jobs a tour of their secret computer laboratories.
+
+135
+00:10:17,760 --> 00:10:18,680
+They showed him three revolutionary technologies:
+
+136
+00:10:18,680 --> 00:10:21,120
+object-oriented programming,
+
+137
+00:10:21,120 --> 00:10:24,020
+networked Ethernet,
+
+138
+00:10:24,020 --> 00:10:25,776
+and a graphical user interface where a handheld mouse moved a cursor across virtual windows on a screen.
+
+139
+00:10:25,776 --> 00:10:29,116
+Jobs stared at the screen, his pupils dilated in pure shock.
+
+140
+00:10:29,116 --> 00:10:42,792
+Xerox was a copier company whose corporate executives had zero idea what their scientists had built.
+
+141
+00:10:42,792 --> 00:10:43,852
+Jobs began pacing the room, shouting: "Why aren't you doing anything with this?
+
+142
+00:10:43,852 --> 00:10:45,672
+This is the greatest thing!
+
+143
+00:10:45,672 --> 00:10:47,112
+You are sitting on a gold mine!"
+
+144
+00:10:47,112 --> 00:10:48,456
+Jobs raced back to Apple, determined to build the graphical interface into Apple’s next corporate machine: the Lisa.
+
+145
+00:10:48,456 --> 00:10:52,256
+It was a disaster.
+
+146
+00:10:52,256 --> 00:11:22,152
+Jobs meddled with engineering teams, changed architectural specs daily,
+
+147
+00:11:22,152 --> 00:11:41,712
+and drove costs into the stratosphere.
+
+148
+00:11:41,712 --> 00:11:58,416
+When the Lisa finally launched in 1983, it carried a price tag of nine thousand nine hundred and ninety-five dollars—nearly thirty thousand dollars in today’s money.
+
+149
+00:11:58,416 --> 00:12:00,916
+It flopped catastrophically.
+
+150
+00:12:00,916 --> 00:12:03,216
+Apple eventually hauled thousands of unsold Lisas into the Utah desert
+
+151
+00:12:03,216 --> 00:12:04,992
+and buried them in a landfill.
+
+152
+00:12:04,992 --> 00:12:09,096
+Humiliated, the board stripped Jobs of all authority on the Lisa project.
+
+153
+00:12:09,096 --> 00:12:11,816
+Furious, Jobs sought revenge.
+
+154
+00:12:11,816 --> 00:12:14,904
+He marched across the street into an annex building and hijacked a small, experimental skunkworks project led by Jef Raskin: the Macintosh.
+
+155
+00:12:14,904 --> 00:12:16,992
+Jobs declared open civil war against the rest of Apple.
+
+156
+00:12:16,992 --> 00:12:20,856
+He hoisted a black pirate flag with a skull and rainbow Apple eye patch above the Macintosh building
+
+157
+00:12:20,856 --> 00:12:23,640
+and told his team: "It is better to be a pirate than to join the Navy."
+
+158
+00:12:23,640 --> 00:12:31,128
+The Macintosh engineers worked eighty to ninety hours a week,
+
+159
+00:12:31,128 --> 00:12:32,748
+wearing t-shirts that boasted of their exhaustion.
+
+160
+00:12:32,748 --> 00:12:34,828
+Jobs pushed them through what colleagues called his "Reality Distortion Field"—
+
+161
+00:12:34,828 --> 00:12:36,488
+a hypnotic blend of charismatic charm, relentless will, and psychological abuse.
+
+162
+00:12:36,488 --> 00:12:38,112
+If an engineer presented code Jobs didn't like, he would scream that it was garbage.
+
+163
+00:12:38,112 --> 00:12:42,360
+If an engineer solved an impossible problem, Jobs would return two days later and claim the idea as his own.
+
+164
+00:12:42,360 --> 00:12:45,220
+Yet they worshipped him.
+
+165
+00:12:45,220 --> 00:12:47,616
+Because he forced them to achieve engineering feats they did not believe were possible.
+
+166
+00:12:47,616 --> 00:12:48,576
+On February 10, 1982, Jobs brought the entire team together with a bottle of champagne,
+
+167
+00:12:48,576 --> 00:12:49,896
+laid out a large sheet of drafting paper, and had all forty engineers sign their names.
+
+168
+00:12:49,896 --> 00:12:50,956
+He then had their signatures engraved permanently inside the plastic tooling of every single Macintosh case.
+
+169
+00:12:50,956 --> 00:12:51,876
+"Real artists sign their work," Jobs proclaimed.
+
+170
+00:12:51,876 --> 00:12:52,824
+To launch the computer, Jobs demanded an advertising earthquake.
+
+171
+00:12:52,824 --> 00:12:56,352
+He hired Hollywood director Ridley Scott
+
+172
+00:12:56,352 --> 00:13:00,456
+and spent an unprecedented seven hundred and fifty thousand dollars to create the iconic "1984" Super Bowl commercial.
+
+173
+00:13:00,456 --> 00:13:07,152
+It depicted a grey, totalitarian dystopia where brainwashed masses stare at a giant video wall of Big Brother—a thinly veiled stand-in for IBM.
+
+174
+00:13:07,152 --> 00:13:13,440
+Suddenly, a lone female athlete in bright red shorts sprints down the aisle
+
+175
+00:13:13,440 --> 00:13:29,280
+and hurls a sledgehammer through the screen, exploding it in a shower of sparks and blinding light.
+
+176
+00:13:29,280 --> 00:13:32,420
+Apple’s board of directors watched a screening in horror.
+
+177
+00:13:32,420 --> 00:13:35,376
+They thought it was reckless, arrogant, and humiliating.
+
+178
+00:13:35,376 --> 00:13:37,736
+They ordered the advertising agency to sell off the Super Bowl commercial slots.
+
+179
+00:13:37,736 --> 00:13:40,856
+Jobs refused.
+
+180
+00:13:40,856 --> 00:13:43,872
+Steve Wozniak offered to pay for half the broadcast out of his own pocket.
+
+181
+00:13:43,872 --> 00:13:50,976
+On Super Bowl Sunday, January 22, 1984, the commercial aired to ninety-six million viewers.
+
+182
+00:13:50,976 --> 00:13:56,400
+It aired only once on national television, but it dominated every evening news broadcast in America.
+
+183
+00:13:56,400 --> 00:14:01,248
+Two days later, Jobs walked onto the stage at the Flint Center auditorium in Cupertino.
+
+184
+00:14:01,248 --> 00:14:04,704
+He wore a polka-dot bow tie.
+
+185
+00:14:04,704 --> 00:14:08,640
+He pulled a small, beige rectangular computer from a canvas carrying bag,
+
+186
+00:14:08,640 --> 00:14:12,840
+slid a floppy disk into the drive, and stepped back.
+
+187
+00:14:12,840 --> 00:14:13,240
+The computer drew cursive letters on the screen: "hello".
+
+188
+00:14:13,240 --> 00:14:15,596
+Then, it spoke in a synthetic voice: "Hello, I am Macintosh.
+
+189
+00:14:15,596 --> 00:14:18,256
+It sure is great to get out of that bag...
+
+190
+00:14:18,256 --> 00:14:19,584
+Never trust a computer you cannot lift."
+
+191
+00:14:19,584 --> 00:14:21,664
+The auditorium exploded into a deafening standing ovation.
+
+192
+00:14:21,664 --> 00:14:25,272
+People in the front rows were weeping.
+
+193
+00:14:25,272 --> 00:14:37,440
+The mouse, the desktop, the trash can, and proportional typography were officially unleashed upon the world.
+
+194
+00:14:37,440 --> 00:14:39,096
+Then, the cold reality hit.
+
+195
+00:14:39,096 --> 00:14:43,032
+The Macintosh was visually breathtaking, but technologically crippled.
+
+196
+00:14:43,032 --> 00:14:46,432
+In his obsession with design, Jobs had refused to install a cooling fan, causing the machine to overheat and warp circuit boards.
+
+197
+00:14:46,432 --> 00:14:48,672
+He had limited the memory to a minuscule 128 kilobytes.
+
+198
+00:14:48,672 --> 00:14:50,856
+It had no internal hard drive.
+
+199
+00:14:50,856 --> 00:14:56,544
+Users had to perform the "floppy disk shuffle," ejecting and re-inserting disks dozens of times just to copy a single file.
+
+200
+00:14:56,544 --> 00:15:00,464
+By late 1984, sales hit a brick wall.
+
+201
+00:15:00,464 --> 00:15:02,264
+Apple was manufacturing ten thousand Macs a month and selling fewer than two thousand.
+
+202
+00:15:02,264 --> 00:15:04,920
+Its highly automated manufacturing facility in Fremont, California, was running at ten percent capacity.
+
+203
+00:15:04,920 --> 00:15:07,008
+The company was hemorrhaging tens of millions of dollars.
+
+204
+00:15:07,008 --> 00:15:12,432
+Tensions between Jobs and CEO John Sculley erupted into toxic hostility.
+
+205
+00:15:12,432 --> 00:15:17,448
+Jobs had lured Sculley from Pepsi in 1983 with his famous, stinging challenge:
+
+206
+00:15:17,448 --> 00:15:22,824
+"Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?"
+
+207
+00:15:22,824 --> 00:15:29,232
+Now, Sculley found himself managing an erratic, vindictive founder whose division was threatening to bankrupt the entire corporation.
+
+208
+00:15:29,232 --> 00:15:36,360
+In May 1985, while Sculley was scheduled to be in China on a trade mission, Jobs plotted a palace coup to remove him and seize control of Apple.
+
+209
+00:15:36,360 --> 00:15:39,800
+An executive warned Sculley.
+
+210
+00:15:39,800 --> 00:15:42,936
+Sculley cancelled the flight, walked into the boardroom, and forced an emergency showdown.
+
+211
+00:15:42,936 --> 00:15:48,624
+He polled the board of directors one by one: "Do you back Steve, or do you back me?"
+
+212
+00:15:48,624 --> 00:15:51,584
+Every single board member voted for Sculley.
+
+213
+00:15:51,584 --> 00:15:54,240
+Steve Jobs was stripped of all operational responsibility.
+
+214
+00:15:54,240 --> 00:15:55,820
+He was banished to an empty office in an auxiliary building that employees mockingly nicknamed "Siberia."
+
+215
+00:15:55,820 --> 00:15:57,984
+His phone stopped ringing. Nobody came to his office.
+
+216
+00:15:57,984 --> 00:16:03,672
+On September 17, 1985, Steve Jobs resigned from Apple.
+
+217
+00:16:03,672 --> 00:16:08,392
+In a fit of bitter fury, he sold every single share of his Apple stock—millions of shares worth over one hundred million dollars—
+
+218
+00:16:08,392 --> 00:16:12,096
+retaining only one single share so he would still receive the annual shareholder reports in the mail.
+
+219
+00:16:12,096 --> 00:16:14,116
+He was thirty years old.
+
+220
+00:16:14,116 --> 00:16:15,736
+He was a multi-millionaire.
+
+221
+00:16:15,736 --> 00:16:16,136
+And in the eyes of Silicon Valley, he was completely finished.
+
+222
+00:16:16,136 --> 00:16:17,064
+What followed was a brutal eleven-year wilderness.
+
+223
+00:16:17,064 --> 00:16:28,776
+Jobs retreated to his wood-paneled mansion in Los Gatos, sat on the floor,
+
+224
+00:16:28,776 --> 00:16:54,000
+and contemplated leaving tech entirely to study architecture in Europe.
+
+225
+00:16:54,000 --> 00:16:56,180
+But his pride would not let him stay down.
+
+226
+00:16:56,180 --> 00:16:57,380
+He took seven million dollars of his own money
+
+227
+00:16:57,380 --> 00:16:58,840
+and founded NeXT Computer, determined to build the ultimate workstation for universities.
+
+228
+00:16:58,840 --> 00:16:59,940
+He paid seventy-one-year-old graphic design legend Paul Rand one hundred thousand dollars
+
+229
+00:16:59,940 --> 00:17:00,900
+to create the NeXT logo—a tilted black cube.
+
+230
+00:17:00,900 --> 00:17:02,184
+Jobs spent years and millions perfecting the machine's magnesium chassis,
+
+231
+00:17:02,184 --> 00:17:07,512
+demanding perfectly precise ninety-degree internal angles that no customer would ever see.
+
+232
+00:17:07,512 --> 00:17:18,264
+When the NeXT cube launched in 1988, it was an engineering marvel
+
+233
+00:17:18,264 --> 00:17:24,048
+running an advanced object-oriented operating system called NeXTSTEP.
+
+234
+00:17:24,048 --> 00:17:25,348
+In Switzerland, computer scientist Tim Berners-Lee used a NeXT computer to invent the World Wide Web.
+
+235
+00:17:25,348 --> 00:17:26,248
+But at ten thousand dollars, universities couldn't afford it.
+
+236
+00:17:26,248 --> 00:17:28,308
+NeXT sold barely fifty thousand machines over its entire lifespan.
+
+237
+00:17:28,308 --> 00:17:42,168
+It was a commercial bloodbath.
+
+238
+00:17:42,168 --> 00:17:42,828
+Yet Jobs had made a second bet that saved him.
+
+239
+00:17:42,828 --> 00:17:43,228
+In 1986, he bought a struggling digital animation division from Star Wars director George Lucas for five million dollars.
+
+240
+00:17:43,228 --> 00:17:43,628
+He named it Pixar.
+
+241
+00:17:43,628 --> 00:17:44,028
+For nearly a decade, Pixar hemorrhaged cash.
+
+242
+00:17:44,028 --> 00:17:44,848
+Jobs personally bankrolled the company, writing check after check to keep the payroll alive, burning over fifty million dollars of his personal fortune.
+
+243
+00:17:44,848 --> 00:17:45,248
+Traditional hardware executives urged him to shut it down.
+
+244
+00:17:45,248 --> 00:17:45,648
+But animators like John Lasseter were using code to make audiences feel real emotion—
+
+245
+00:17:45,648 --> 00:17:46,588
+first with a jumping desk lamp named Luxo Jr.,
+
+246
+00:17:46,588 --> 00:17:46,988
+and then, in November 1995, with the world's first computer-animated feature film: Toy Story.
+
+247
+00:17:46,988 --> 00:17:47,388
+Toy Story became a monumental global blockbuster.
+
+248
+00:17:47,388 --> 00:17:47,788
+A week later, Jobs took Pixar public on Wall Street.
+
+249
+00:17:47,788 --> 00:17:48,188
+His eighty percent stake suddenly made him a billionaire in his own right, worth over one point two billion dollars.
+
+250
+00:17:48,188 --> 00:17:48,588
+For the first time, Steve Jobs was independent of Apple.
+
+251
+00:17:48,588 --> 00:17:48,988
+He had matured.
+
+252
+00:17:48,988 --> 00:17:59,232
+He had learned patience, corporate governance,
+
+253
+00:17:59,232 --> 00:18:00,812
+and how to trust creative geniuses without suffocating them.
+
+254
+00:18:00,812 --> 00:18:02,232
+Meanwhile, back in Cupertino, Apple was dying a slow, humiliating death.
+
+255
+00:18:02,232 --> 00:18:02,892
+Under a succession of corporate caretakers—John Sculley, Michael Spindler, and Gil Amelio—
+
+256
+00:18:02,892 --> 00:18:17,856
+Apple had become a bureaucratic monstrosity.
+
+257
+00:18:17,856 --> 00:18:26,424
+To appease retailers, they fractured the product line into dozens of confusing, overlapping models: Quadra, Centris, Performa, PowerBook.
+
+258
+00:18:26,424 --> 00:18:45,576
+Salespeople couldn't explain the differences.
+
+259
+00:18:45,576 --> 00:18:47,916
+In August 1995, Bill Gates launched Windows 95.
+
+260
+00:18:47,916 --> 00:18:50,112
+Accompanied by the Rolling Stones' "Start Me Up,"
+
+261
+00:18:50,112 --> 00:18:59,808
+Windows 95 copied the Mac's desktop interface, taskbar, and windows.
+
+262
+00:18:59,808 --> 00:19:02,368
+It wasn't as elegant as Apple's software, but it ran on cheap personal computers built by Compaq, Dell, and HP.
+
+263
+00:19:02,368 --> 00:19:05,352
+Microsoft swallowed ninety percent of the global computer market.
+
+264
+00:19:05,352 --> 00:19:09,480
+Apple’s market share collapsed from sixteen percent down to an irrelevant four percent.
+
+265
+00:19:09,480 --> 00:19:15,696
+In 1996 alone, Apple lost over one billion dollars.
+
+266
+00:19:15,696 --> 00:19:22,104
+Its aging operating system was obsolete and prone to catastrophic crashes.
+
+267
+00:19:22,104 --> 00:19:27,768
+Six years and five hundred million dollars spent developing a replacement operating system code-named Copland had resulted in total failure.
+
+268
+00:19:27,768 --> 00:19:30,408
+By late 1996, Apple was ninety days away from formal bankruptcy.
+
+269
+00:19:30,408 --> 00:19:32,352
+Industry analysts were already drafting the company’s obituary.
+
+270
+00:19:32,352 --> 00:19:38,448
+When PC maker Michael Dell was asked what Apple should do, he offered the ultimate corporate epitaph:
+
+271
+00:19:38,448 --> 00:20:44,712
+"What would I do? I'd shut it down and give the money back to the shareholders."
+
+272
+00:20:44,712 --> 00:20:48,492
+Desperate for an operating system, CEO Gil Amelio made a fateful inquiry.
+
+273
+00:20:48,492 --> 00:20:52,608
+He looked at buying BeOS, an operating system built by former Apple executive Jean-Louis Gassée.
+
+274
+00:20:52,608 --> 00:20:53,468
+But Gassée overplayed his hand, demanding three hundred million dollars.
+
+275
+00:20:53,468 --> 00:20:55,248
+Hearing of the negotiations, Steve Jobs picked up the phone.
+
+276
+00:20:55,248 --> 00:20:56,408
+He pitched Amelio on NeXT.
+
+277
+00:20:56,408 --> 00:20:57,312
+In December 1996, Apple announced it was acquiring NeXT for four hundred and twenty-nine million dollars in cash and stock.
+
+278
+00:20:57,312 --> 00:21:02,736
+Eleven years after being thrown out of the company he founded, Steve Jobs walked back through the front doors of One Infinite Loop as an "informal advisor."
+
+279
+00:21:02,736 --> 00:21:07,584
+It was the greatest Trojan horse in corporate history.
+
+280
+00:21:07,584 --> 00:22:49,464
+Jobs did not stay an informal advisor for long.
+
+281
+00:22:49,464 --> 00:22:53,328
+Within seven months, he orchestrated a boardroom rebellion.
+
+282
+00:22:53,328 --> 00:22:59,588
+Gil Amelio was ousted.
+
+283
+00:22:59,588 --> 00:22:59,988
+The board was overhauled.
+
+284
+00:22:59,988 --> 00:23:01,368
+Jobs became interim CEO—the "iCEO"—
+
+285
+00:23:01,368 --> 00:23:03,072
+famously taking an annual salary of exactly one dollar.
+
+286
+00:23:03,072 --> 00:23:11,040
+In August 1997, Jobs walked onto the stage at Macworld Boston.
+
+287
+00:23:11,040 --> 00:23:15,504
+Apple was weeks away from running out of cash.
+
+288
+00:23:15,504 --> 00:23:16,804
+He looked out at five thousand terrified, loyal Mac users and dropped an absolute bomb.
+
+289
+00:23:16,804 --> 00:23:18,764
+A giant satellite video screen descended from the ceiling,
+
+290
+00:23:18,764 --> 00:23:19,564
+and the colossal, smiling face of Bill Gates appeared live from Redmond, Washington.
+
+291
+00:23:19,564 --> 00:23:20,464
+Microsoft was investing one hundred and fifty million dollars into Apple
+
+292
+00:23:20,464 --> 00:23:21,404
+and guaranteeing that Microsoft Office would remain on the Mac for five years.
+
+293
+00:23:21,404 --> 00:23:22,440
+The auditorium erupted into furious boos and jeers.
+
+294
+00:23:22,440 --> 00:23:27,744
+Jobs stopped them with a line of cold, clinical pragmatism:
+
+295
+00:23:27,744 --> 00:23:31,744
+"We have to let go of this notion that for Apple to win, Microsoft has to lose.
+
+296
+00:23:31,744 --> 00:23:36,552
+If we want Apple to be healthy again, we have to look at where Apple can do a really good job."
+
+297
+00:23:36,552 --> 00:23:39,272
+Next, Jobs marched into Apple’s product planning room.
+
+298
+00:23:39,272 --> 00:23:39,672
+The whiteboard was covered in dozens of confusing models.
+
+299
+00:23:39,672 --> 00:23:40,608
+Jobs grabbed a black marker, wiped the board clean,
+
+300
+00:23:40,608 --> 00:23:41,628
+and drew a simple two-by-two grid.
+
+301
+00:23:41,628 --> 00:23:42,668
+Across the top, he wrote "Consumer" and "Pro."
+
+302
+00:23:42,668 --> 00:23:43,632
+Down the side, he wrote "Desktop" and "Portable."
+
+303
+00:23:43,632 --> 00:23:45,432
+"Here is what we are going to build," Jobs declared.
+
+304
+00:23:45,432 --> 00:23:49,752
+"Four great computers.
+
+305
+00:23:49,752 --> 00:23:51,096
+Everything else, we cancel."
+
+306
+00:23:51,096 --> 00:23:52,716
+He eliminated seventy percent of Apple’s product line overnight.
+
+307
+00:23:52,716 --> 00:23:53,716
+Three thousand employees were laid off.
+
+308
+00:23:53,716 --> 00:23:55,336
+He cancelled the Newton handheld PDA.
+
+309
+00:23:55,336 --> 00:23:56,456
+He shuttered outside software clones.
+
+310
+00:23:56,456 --> 00:23:57,360
+The bloat was surgically amputated.
+
+311
+00:23:57,360 --> 00:23:59,160
+Then, Jobs walked down to Apple’s design laboratory
+
+312
+00:23:59,160 --> 00:24:00,800
+and discovered a young, soft-spoken British designer named Jony Ive.
+
+313
+00:24:00,800 --> 00:24:03,624
+Ive had his resignation letter in his pocket, exhausted by corporate executives who cared only about cost-cutting.
+
+314
+00:24:03,624 --> 00:24:06,844
+Jobs looked at Ive’s radical prototypes
+
+315
+00:24:06,844 --> 00:24:09,432
+and recognized a soulmate who shared his fanatical devotion to the purity of physical materials.
+
+316
+00:24:09,432 --> 00:24:15,720
+In May 1998, they unveiled the machine that saved Apple: the iMac G3.
+
+317
+00:24:15,720 --> 00:24:16,480
+It was a teardrop-shaped computer made of translucent Bondi blue plastic, glowing with friendly warmth.
+
+318
+00:24:16,480 --> 00:24:18,160
+It threw away the floppy drive,
+
+319
+00:24:18,160 --> 00:24:21,340
+championed USB,
+
+320
+00:24:21,340 --> 00:24:21,740
+and featured a handle on the top.
+
+321
+00:24:21,740 --> 00:24:22,140
+Critics mocked the handle, pointing out that a desktop computer is rarely carried around.
+
+322
+00:24:22,140 --> 00:24:22,540
+Jobs replied: "If there's a handle, it makes a relationship possible.
+
+323
+00:24:22,540 --> 00:24:22,940
+It invites you to touch it."
+
+324
+00:24:22,940 --> 00:24:27,984
+The iMac became the fastest-selling computer in Apple’s history.
+
+325
+00:24:27,984 --> 00:24:37,656
+In 1998, Apple turned an eighty-seven-million-dollar profit.
+
+326
+00:24:37,656 --> 00:24:39,096
+The bleeding was officially stopped.
+
+327
+00:24:39,096 --> 00:24:42,096
+Next, Jobs realized that the personal computer was no longer just a calculation tool;
+
+328
+00:24:42,096 --> 00:24:42,496
+it was becoming the "digital hub" for personal creative lives—camcorders, cameras, and music players.
+
+329
+00:24:42,496 --> 00:24:42,896
+In early 2001, music was in total chaos.
+
+330
+00:24:42,896 --> 00:24:44,544
+Napster had shattered the traditional record industry.
+
+331
+00:24:44,544 --> 00:24:47,224
+Millions of people were downloading pirated MP3s onto clunky, battery-draining portable players that held barely twenty songs.
+
+332
+00:24:47,224 --> 00:24:49,524
+Jobs saw an opening.
+
+333
+00:24:49,524 --> 00:25:03,264
+Apple developed an ultra-compact player built around a tiny five-gigabyte Toshiba hard drive.
+
+334
+00:25:03,264 --> 00:25:08,520
+During development, an engineer told Jobs the prototype couldn't possibly be made any smaller.
+
+335
+00:25:08,520 --> 00:25:12,768
+Jobs walked over to an office aquarium, dropped the prototype into the water,
+
+336
+00:25:12,768 --> 00:25:17,008
+and pointed at the bubbles rising to the surface.
+
+337
+00:25:17,008 --> 00:25:17,408
+"Those are air bubbles," Jobs said coldly.
+
+338
+00:25:17,408 --> 00:25:20,228
+"That means there is empty space inside.
+
+339
+00:25:20,228 --> 00:25:20,628
+Make it smaller."
+
+340
+00:25:20,628 --> 00:25:21,072
+On October 23, 2001, six weeks after the September 11 attacks,
+
+341
+00:25:21,072 --> 00:25:23,760
+Jobs pulled a device the size of a deck of playing cards from his pocket: the iPod.
+
+342
+00:25:23,760 --> 00:25:25,680
+His pitch was an absolute masterpiece of copywriting: "One thousand songs in your pocket."
+
+343
+00:25:25,680 --> 00:25:26,480
+Two years later, Jobs cornered the terrified major record labels, who were watching physical CD sales collapse,
+
+344
+00:25:26,480 --> 00:25:27,240
+and convinced them to sell individual digital tracks on the iTunes Music Store for ninety-nine cents each.
+
+345
+00:25:27,240 --> 00:25:28,740
+Over four hundred million iPods were sold.
+
+346
+00:25:28,740 --> 00:25:36,456
+The stark white headphone cords dangling from people's ears became the ultimate cultural status symbol of the twenty-first century.
+
+347
+00:25:36,456 --> 00:25:38,316
+Apple was no longer just a computer company.
+
+348
+00:25:38,316 --> 00:25:41,040
+It was an undisputed titan of global media.
+
+349
+00:25:41,040 --> 00:25:43,220
+Yet by 2005, Steve Jobs recognized a mortal threat to his empire.
+
+350
+00:25:43,220 --> 00:25:56,256
+Mobile cellphones were becoming smarter.
+
+351
+00:25:56,256 --> 00:26:03,504
+Jobs realized that the moment mobile phones learned to play music reliably, the iPod would be wiped out.
+
+352
+00:26:03,504 --> 00:26:07,488
+"If we don't cannibalize ourselves," Jobs told his executive team, "someone else will."
+
+353
+00:26:07,488 --> 00:26:14,376
+For two years, Apple lived under top-secret military-grade lockdown on Project Purple.
+
+354
+00:26:14,376 --> 00:26:15,536
+Engineers worked around the clock in windowless rooms with blacked-out glass, signing non-disclosure agreements that forbade them from telling their own spouses what they were building.
+
+355
+00:26:15,536 --> 00:26:17,356
+They abandoned mechanical keyboards entirely and developed capacitive multi-touch:
+
+356
+00:26:17,356 --> 00:26:18,856
+a display that allowed human fingers to directly flick, scroll, pinch, and zoom on a sheet of glass.
+
+357
+00:26:18,856 --> 00:26:19,976
+Jobs made a secret deal with AT&T.
+
+358
+00:26:19,976 --> 00:26:20,516
+In exchange for exclusive carrier rights, Jobs demanded something no phone manufacturer had ever secured in telecom history:
+
+359
+00:26:20,516 --> 00:26:21,396
+complete, absolute control over the device's hardware, software, and industrial design, with zero carrier bloatware,
+
+360
+00:26:21,396 --> 00:26:22,632
+plus a monthly cut of every customer's data bill.
+
+361
+00:26:22,632 --> 00:26:32,040
+On January 9, 2007, Steve Jobs took the stage at Macworld San Francisco.
+
+362
+00:26:32,040 --> 00:26:37,944
+"Every once in a while, a revolutionary product comes along that changes everything," he began.
+
+363
+00:26:37,944 --> 00:26:42,408
+"Today, we are introducing three revolutionary products.
+
+364
+00:26:42,408 --> 00:26:46,328
+The first is a widescreen iPod with touch controls.
+
+365
+00:26:46,328 --> 00:26:48,696
+The second is a revolutionary mobile phone.
+
+366
+00:26:48,696 --> 00:26:49,496
+And the third is a breakthrough internet communications device."
+
+367
+00:26:49,496 --> 00:26:50,176
+He repeated the three names as the audience cheered.
+
+368
+00:26:50,176 --> 00:26:52,104
+Then came the punchline: "An iPod.
+
+369
+00:26:52,104 --> 00:26:54,924
+A phone.
+
+370
+00:26:54,924 --> 00:26:56,664
+An internet communicator.
+
+371
+00:26:56,664 --> 00:27:00,240
+Are you getting it?
+
+372
+00:27:00,240 --> 00:27:03,936
+These are not three separate devices.
+
+373
+00:27:03,936 --> 00:27:41,208
+This is one device.
+
+374
+00:27:41,208 --> 00:27:49,512
+And we are calling it: iPhone."
+
+375
+00:27:49,512 --> 00:28:55,872
+The demo was a technological miracle.
+
+376
+00:28:55,872 --> 00:28:56,852
+Behind the stage curtain, software engineers were taking shots of scotch whiskey to calm their nerves.
+
+377
+00:28:56,852 --> 00:28:57,792
+The phone barely worked; its memory was so unstable that if Jobs tapped the apps in the wrong sequence, the phone would crash completely.
+
+378
+00:28:57,792 --> 00:28:58,812
+Jobs navigated the exact sequence flawlessly.
+
+379
+00:28:58,812 --> 00:29:00,152
+When he walked off that stage, the legacy mobile giants were dead men walking.
+
+380
+00:29:00,152 --> 00:29:55,440
+The CEO of BlackBerry publicly dismissed it, insisting enterprise users would never surrender physical keyboards.
+
+381
+00:29:55,440 --> 00:30:01,776
+Steve Ballmer, CEO of Microsoft, laughed on camera: "Five hundred dollars fully subsidized?
+
+382
+00:30:01,776 --> 00:30:02,796
+It is the most expensive phone in the world, and it doesn't appeal to business customers!"
+
+383
+00:30:02,796 --> 00:30:03,616
+Within five years, BlackBerry was completely wiped out.
+
+384
+00:30:03,616 --> 00:30:07,416
+Nokia’s multi-billion-dollar mobile business collapsed into irrelevance.
+
+385
+00:30:07,416 --> 00:30:07,816
+In 2008, Apple launched the App Store with just five hundred apps.
+
+386
+00:30:07,816 --> 00:30:08,216
+It spawned the modern smartphone economy: Uber, Instagram, WhatsApp, DoorDash, and TikTok.
+
+387
+00:30:08,216 --> 00:30:24,840
+Apple extracted a thirty percent commission on every digital purchase—creating the most lucrative toll booth in corporate history.
+
+388
+00:30:24,840 --> 00:30:28,248
+Behind the unprecedented triumph, Steve Jobs was quietly running out of time.
+
+389
+00:30:28,248 --> 00:30:29,748
+He had been diagnosed with a rare neuroendocrine tumor in 2003.
+
+390
+00:30:29,748 --> 00:30:31,512
+For eight years, he fought the disease while orchestrating the most prolific product run in business history:
+
+391
+00:30:31,512 --> 00:30:33,552
+the MacBook Air,
+
+392
+00:30:33,552 --> 00:30:36,272
+the iPad,
+
+393
+00:30:36,272 --> 00:30:36,672
+and Apple’s custom A-series silicon chips.
+
+394
+00:30:36,672 --> 00:30:37,092
+In August 2011, knowing his body was failing, Jobs resigned as CEO
+
+395
+00:30:37,092 --> 00:30:38,952
+and handed the reins to his Chief Operating Officer: Tim Cook.
+
+396
+00:30:38,952 --> 00:30:39,352
+Cook was an Alabama-born industrial engineer.
+
+397
+00:30:39,352 --> 00:30:40,968
+Calm, soft-spoken, and disciplined,
+
+398
+00:30:40,968 --> 00:30:45,728
+he was the logistical genius who had closed Apple's factories, outsourced manufacturing to Asia,
+
+399
+00:30:45,728 --> 00:30:47,184
+and reduced Apple's inventory holding time to forty-eight hours.
+
+400
+00:30:47,184 --> 00:30:50,364
+Jobs gave Cook one final, sacred piece of advice:
+
+401
+00:30:50,364 --> 00:30:52,872
+"Never ask what Steve would do. Just do what’s right."
+
+402
+00:30:52,872 --> 00:30:59,760
+On October 5, 2011, Steve Jobs died at his home in Palo Alto at age fifty-six.
+
+403
+00:30:59,760 --> 00:31:04,224
+Across the world, Apple stores became spontaneous memorials.
+
+404
+00:31:04,224 --> 00:31:08,688
+People placed candles, flowers, and real apples with bite marks taken out of them on sidewalks from Tokyo to New York.
+
+405
+00:31:08,688 --> 00:31:17,808
+Wall Street predicted that without Jobs’s charismatic lightning, Apple would slowly wither into a legacy hardware maker.
+
+406
+00:31:17,808 --> 00:31:24,792
+Instead, Tim Cook turned Apple into the most terrifyingly efficient profit machine in human history.
+
+407
+00:31:24,792 --> 00:31:29,520
+He launched the Apple Watch, outselling the entire Swiss watchmaking industry combined.
+
+408
+00:31:29,520 --> 00:31:35,304
+He launched AirPods, which generated more revenue than most Fortune 500 corporations.
+
+409
+00:31:35,304 --> 00:31:42,288
+He transitioned the Mac away from Intel chips to Apple Silicon, delivering unprecedented battery life and speed.
+
+410
+00:31:42,288 --> 00:31:49,992
+In August 2018, Apple became the first public American corporation to cross a one-trillion-dollar valuation.
+
+411
+00:31:49,992 --> 00:31:51,952
+Two years later, it crossed two trillion.
+
+412
+00:31:51,952 --> 00:32:01,872
+In 2023, it crossed three trillion.
+
+413
+00:32:01,872 --> 00:32:05,928
+Yet as the numbers entered the stratosphere, the moral cost of the empire became impossible to ignore.
+
+414
+00:32:05,928 --> 00:32:10,768
+In Zhengzhou, China—a sprawling manufacturing metropolis known as "iPhone City"—
+
+415
+00:32:10,768 --> 00:32:16,872
+over two hundred thousand workers labor in twelve-hour shifts on assembly lines, piecing together camera sensors and batteries.
+
+416
+00:32:16,872 --> 00:32:22,320
+When pressure mounted, the factories had to erect anti-suicide netting along dormitory roofs to catch falling workers.
+
+417
+00:32:22,320 --> 00:32:25,560
+Governments around the world launched massive antitrust investigations, accusing Apple of running an abusive monopoly with its thirty percent App Store tax.
+
+418
+00:32:25,560 --> 00:32:28,584
+Developers sued.
+
+419
+00:32:28,584 --> 00:32:43,536
+The European Union forced Apple to abandon its proprietary Lightning connector in favor of universal USB-C.
+
+420
+00:32:43,536 --> 00:32:45,896
+And millions of human beings began to realize that the glowing glass rectangles had subtly reshaped human consciousness.
+
+421
+00:32:45,896 --> 00:32:47,636
+Families sitting at dinner tables in total silence, scrolling through algorithmically tailored feeds.
+
+422
+00:32:47,636 --> 00:32:49,680
+Teenagers trapped in dopamine loops of notifications, likes, and red badge alerts.
+
+423
+00:32:49,680 --> 00:32:58,656
+The company that in 1984 promised to smash Big Brother had built the most seductive, inescapable surveillance ecosystem on earth.
+
+424
+00:32:58,656 --> 00:32:59,216
+It was not forced upon humanity by a dictator.
+
+425
+00:32:59,216 --> 00:33:00,396
+Humanity bought it willingly.
+
+426
+00:33:00,396 --> 00:33:01,996
+Because it was comfortable.
+
+427
+00:33:01,996 --> 00:33:03,144
+Because it was beautiful.
+
+428
+00:33:03,144 --> 00:33:06,264
+Because it worked.
+
+429
+00:33:06,264 --> 00:33:08,684
+In 1976, two broke dreamers in an unpainted Los Altos garage started soldering circuits together
+
+430
+00:33:08,684 --> 00:33:12,312
+because they believed that technology should belong to the individual, not the corporation.
+
+431
+00:33:12,312 --> 00:34:56,352
+Fifty years later, their creation governs the private communications, memories, and financial transactions of over a billion human beings.
+
+432
+00:34:56,352 --> 00:34:57,612
+Steve Jobs once called the computer a bicycle for our minds—
+
+433
+00:34:57,612 --> 00:34:58,632
+a tool that would amplify human capability beyond our natural limits.
+
+434
+00:34:58,632 --> 00:34:59,572
+Looking at the world today, the only question that remains is who is riding whom.
+
+435
+00:34:59,572 --> 00:35:16,872
+From an oil-stained garage on Crist Drive to a three-trillion-dollar glass empire that conquered the world.
+
+436
+00:35:16,872 --> 00:35:24,572
+If you felt the weight of this story, hit like and subscribe for the complete history of more empires, one founder at a time.
+
+437
+00:35:24,572 --> 00:35:30,692
+And tell us in the comments below: what was the very first Apple product you ever held in your hands?
+
+438
+00:35:30,692 --> 00:35:33,892
+The II, the iPod, or the iPhone?
+
+439
+00:35:33,892 --> 00:35:35,088
+See you at the next build.
